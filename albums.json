@@ -20,15 +20,6 @@
     "total_tracks": 12
   },
   {
-    "id": "3xyzABC123track",
-    "album": "Single Name Example",
-    "artist": "Sabrina Carpenter",
-    "release_date": "2025-11-01",
-    "cover": "https://i.scdn.co/image/single789",
-    "url": "https://open.spotify.com/track/3xyzABC123track",
-    "type": "single"
-  },
-  {
     "id": "2LMNOP456EP",
     "album": "Short n' Sweet (Deluxe)",
     "artist": "Sabrina Carpenter",
@@ -37,15 +28,6 @@
     "url": "https://open.spotify.com/album/2LMNOP456EP",
     "type": "EP",
     "total_tracks": 8
-  },
-  {
-    "id": "7ABCD789collab",
-    "album": "Collab Song Example",
-    "artist": "The Weeknd",
-    "release_date": "2023-08-21",
-    "cover": "https://i.scdn.co/image/collab456",
-    "url": "https://open.spotify.com/track/7ABCD789collab",
-    "type": "single"
   },
   {
     "id": "3OxfaVgvTxUTy7276t7SPU",
