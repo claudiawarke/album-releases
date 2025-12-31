@@ -144,7 +144,7 @@ async function run() {
   try {
     execSync("git config user.name 'github-actions'", { stdio: "inherit" });
     execSync("git config user.email 'actions@github.com'", { stdio: "inherit" });
-
+  
     const status = execSync("git status --porcelain").toString().trim();
     if (status) {
       execSync("git add albums.json meta.json", { stdio: "inherit" });
@@ -152,7 +152,7 @@ async function run() {
         `git commit -m "Update albums.json - ${new Date().toISOString().slice(0, 10)}"`,
         { stdio: "inherit" }
       );
-      execSync("git push", { stdio: "inherit" });
+      execSync("git push --force", { stdio: "inherit" });  // ← force push
       console.log("✅ albums.json and meta.json committed and pushed.");
     } else {
       console.log("No changes to commit or push.");
@@ -160,6 +160,7 @@ async function run() {
   } catch (err) {
     console.error("Git commit/push failed:", err.message);
   }
+
 }
 
 run();
