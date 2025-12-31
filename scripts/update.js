@@ -1,8 +1,7 @@
-// scripts/update.js
-import fs from "fs";
-import fetch from "node-fetch";
-import dotenv from "dotenv";
-dotenv.config();
+// scripts/update.js (CommonJS)
+const fs = require("fs");
+const fetch = require("node-fetch");
+require("dotenv").config();
 
 /* ---------- Config ---------- */
 const BATCH_SIZE = 1000;
@@ -90,7 +89,6 @@ async function run() {
   }
 
   const token = await getSpotifyToken();
-
   const batch = getBatch(artists, meta.last_batch_index);
 
   if (!batch.length) {
