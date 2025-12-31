@@ -2838,5 +2838,225 @@
     "url": "https://open.spotify.com/album/6MIcgqSnsO4BVc857AfZPi",
     "type": "single",
     "total_tracks": 6
+  },
+  {
+    "id": "6ULnaZahd0zTGVUBVQO6mN",
+    "album": "BITE ME",
+    "artist": "Reneé Rapp",
+    "release_date": "2025-08-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731f22a0d14fbba8dd80b186a4",
+    "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN",
+    "type": "album",
+    "total_tracks": 12
+  },
+  {
+    "id": "2VqGOWnMT8pJsYkRuEkqb7",
+    "album": "Mean Girls (Music From The Motion Picture – Bonus Track Version)",
+    "artist": "Reneé Rapp, Auli'i Cravalho",
+    "release_date": "2024-02-20",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273843aad606c4f976e467df20e",
+    "url": "https://open.spotify.com/album/2VqGOWnMT8pJsYkRuEkqb7",
+    "type": "album",
+    "total_tracks": 18
+  },
+  {
+    "id": "1LJWyyP756YVEeIRa6DU74",
+    "album": "Mean Girls (Music From The Motion Picture)",
+    "artist": "Reneé Rapp, Auli'i Cravalho",
+    "release_date": "2024-01-12",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27312de80f22edaa7bf1a6f24f5",
+    "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74",
+    "type": "album",
+    "total_tracks": 13
+  },
+  {
+    "id": "7pPV0OFuytqNj7ar82Hizf",
+    "album": "Snow Angel (Deluxe)",
+    "artist": "Reneé Rapp",
+    "release_date": "2023-11-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27305de80c39c0b1d2c6529b785",
+    "url": "https://open.spotify.com/album/7pPV0OFuytqNj7ar82Hizf",
+    "type": "album",
+    "total_tracks": 16
+  },
+  {
+    "id": "3RqO05jxT9YYgNtMdQmo8Z",
+    "album": "Snow Angel",
+    "artist": "Reneé Rapp",
+    "release_date": "2023-08-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27308688d64d1b26bbee0e87857",
+    "url": "https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z",
+    "type": "album",
+    "total_tracks": 12
+  },
+  {
+    "id": "3NNzw1JFbGkyNfiz9MoGcE",
+    "album": "Lucky (from Now You See Me: Now You Don’t)",
+    "artist": "Reneé Rapp",
+    "release_date": "2025-10-30",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737ef4b740f3ecb52d5a442fe4",
+    "url": "https://open.spotify.com/album/3NNzw1JFbGkyNfiz9MoGcE",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1l0MA9iQ6UAnSFKU9SDeyt",
+    "album": "I Think I Like You Better When You’re Gone",
+    "artist": "Reneé Rapp",
+    "release_date": "2025-07-31",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735170cc9e8fea25151bd89c2e",
+    "url": "https://open.spotify.com/album/1l0MA9iQ6UAnSFKU9SDeyt",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0CUn0aYLhWWL6LBMFSoaJj",
+    "album": "Not My Fault (with Megan Thee Stallion)",
+    "artist": "Reneé Rapp, Megan Thee Stallion",
+    "release_date": "2023-12-15",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27310d60ddf241d67a92ecfed79",
+    "url": "https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1KSAqXIHFEWo73keoru7FX",
+    "album": "Everything To Everyone (Deluxe)",
+    "artist": "Reneé Rapp",
+    "release_date": "2023-02-24",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a785a1a12a6272dab442b7ad",
+    "url": "https://open.spotify.com/album/1KSAqXIHFEWo73keoru7FX",
+    "type": "single",
+    "total_tracks": 9
+  },
+  {
+    "id": "4Kk5hoolfW8UN6cTSo5fXJ",
+    "album": "Everything To Everyone",
+    "artist": "Reneé Rapp",
+    "release_date": "2022-11-11",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737251a75664414e04757eafe7",
+    "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ",
+    "type": "single",
+    "total_tracks": 7
+  },
+  {
+    "id": "1KFTkdRgqz47SR6F9B1UwJ",
+    "album": "Tattoos",
+    "artist": "Reneé Rapp",
+    "release_date": "2022-06-03",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27323bda451c5e1af359d350b18",
+    "url": "https://open.spotify.com/album/1KFTkdRgqz47SR6F9B1UwJ",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1vWMw6pu3err6qqZzI3RhH",
+    "album": "Ruby",
+    "artist": "JENNIE",
+    "release_date": "2025-03-07",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273dcf27dec5e479b2e39c4c993",
+    "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH",
+    "type": "album",
+    "total_tracks": 15
+  },
+  {
+    "id": "4AzXyYHVGI7OHC2B6u0MbC",
+    "album": "like JENNIE",
+    "artist": "JENNIE, Peggy Gou",
+    "release_date": "2025-04-25",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ba8d5d911598c406b4aa806b",
+    "url": "https://open.spotify.com/album/4AzXyYHVGI7OHC2B6u0MbC",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "2Qbx0u9RrEQjJDGZ7dCnh6",
+    "album": "Handlebars (feat. Dua Lipa)",
+    "artist": "JENNIE, Dua Lipa",
+    "release_date": "2025-03-06",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731c6b4088486bdfe83e28d4a0",
+    "url": "https://open.spotify.com/album/2Qbx0u9RrEQjJDGZ7dCnh6",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "00Ged0bypCbZfUOg1ccoMR",
+    "album": "Damn Right (feat. Childish Gambino & Kali Uchis)",
+    "artist": "JENNIE, Childish Gambino, Kali Uchis",
+    "release_date": "2025-03-06",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ab7245125cefd09324244a65",
+    "url": "https://open.spotify.com/album/00Ged0bypCbZfUOg1ccoMR",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4EBFO1svuZ9BMyO78JZ9zr",
+    "album": "ExtraL (feat. Doechii)",
+    "artist": "JENNIE, Doechii",
+    "release_date": "2025-02-21",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732bb154bab4795dd2a8072579",
+    "url": "https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3awd1TKrdd3emCecvza61j",
+    "album": "Love Hangover (feat. Dominic Fike)",
+    "artist": "JENNIE, Dominic Fike",
+    "release_date": "2025-01-31",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c1a372bc0889404a11b91bc6",
+    "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3e5tDT1kfaAGx10yOjIDgW",
+    "album": "Mantra",
+    "artist": "JENNIE",
+    "release_date": "2024-10-10",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27382372892b14fe93311f713df",
+    "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3K3C9JjwCGQAzj3Bu7BUaI",
+    "album": "SPOT!",
+    "artist": "ZICO, JENNIE",
+    "release_date": "2024-04-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731b8ae147aceb9fc130391287",
+    "url": "https://open.spotify.com/album/3K3C9JjwCGQAzj3Bu7BUaI",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4OZBMZ4hR5fLjRWpj3bTAT",
+    "album": "Slow Motion",
+    "artist": "Matt Champion, JENNIE",
+    "release_date": "2024-03-08",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731797bb35bce4fc4b3f204ef6",
+    "url": "https://open.spotify.com/album/4OZBMZ4hR5fLjRWpj3bTAT",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1Vzh3fTdh0R0evafCcpNpL",
+    "album": "JENNIE Special Single [You & Me]",
+    "artist": "JENNIE",
+    "release_date": "2023-10-06",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738cd1023ed6ec97598937d55c",
+    "url": "https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "7qAJpYeABXN9ZV5wOOX59k",
+    "album": "SOLO",
+    "artist": "JENNIE",
+    "release_date": "2018-11-12",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27362e6288a5887b95176cca29e",
+    "url": "https://open.spotify.com/album/7qAJpYeABXN9ZV5wOOX59k",
+    "type": "single",
+    "total_tracks": 1
   }
 ]
