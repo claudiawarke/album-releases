@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "test1",
+    "album": "Test Album",
+    "artist": "Test Artist",
+    "release_date": "2025-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e0e0e0e0e0e0e0e0e0e0",
+    "url": "https://open.spotify.com"
+  }
+]
