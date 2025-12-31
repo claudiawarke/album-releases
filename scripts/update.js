@@ -3,8 +3,8 @@ const fs = require("fs");
 require("dotenv").config();
 
 /* ---------- Config ---------- */
-const BATCH_SIZE = 1000;
-const BATCHES_PER_RUN = 5;
+const BATCH_SIZE = 1000;        // artists per batch
+const BATCHES_PER_RUN = 5;      // number of batches per workflow run
 const ARTISTS_FILE = "artists.json";
 const ALBUMS_FILE = "albums.json";
 const META_FILE = "meta.json";
