@@ -1,7 +1,5 @@
 const fs = require("fs");
 const path = require("path");
-const fetch = (...args) =>
-  import("node-fetch").then(({ default: fetch }) => fetch(...args));
 
 const TODAY = new Date().toISOString().split("T")[0];
 const ONE_WEEK_DAYS = 7;
