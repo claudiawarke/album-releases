@@ -1,6 +1,5 @@
 // scripts/update.js
 const fs = require("fs");
-require("dotenv").config();
 
 const BATCH_SIZE = 1000;
 const BATCHES_PER_RUN = 5;
