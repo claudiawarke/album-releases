@@ -2,29 +2,27 @@
 const fs = require("fs");
 require("dotenv").config();
 
-/* ---------- Config ---------- */
-const BATCH_SIZE = 1000;        // artists per batch
-const BATCHES_PER_RUN = 5;      // number of batches per workflow run
+const BATCH_SIZE = 1000;
+const BATCHES_PER_RUN = 5;
 const ARTISTS_FILE = "artists.json";
 const ALBUMS_FILE = "albums.json";
 const META_FILE = "meta.json";
 
-/* ---------- Load artists ---------- */
+// Load artists
 const artists = JSON.parse(fs.readFileSync(ARTISTS_FILE, "utf-8"));
 
-/* ---------- Load meta ---------- */
+// Load meta
 let meta = {
   last_run: null,
   last_full_cycle_completed: null,
   artists_checked_this_run: 0,
   last_batch_index: 0
 };
-
 if (fs.existsSync(META_FILE)) {
   meta = { ...meta, ...JSON.parse(fs.readFileSync(META_FILE, "utf-8")) };
 }
 
-/* ---------- Spotify auth ---------- */
+// Spotify auth
 async function getSpotifyToken() {
   const resp = await fetch("https://accounts.spotify.com/api/token", {
     method: "POST",
@@ -42,7 +40,7 @@ async function getSpotifyToken() {
   return data.access_token;
 }
 
-/* ---------- Fetch albums for one artist ---------- */
+// Fetch albums for one artist
 async function fetchAlbumsForArtist(artistId, token) {
   let albums = [];
   let url = `https://api.spotify.com/v1/artists/${artistId}/albums?limit=50&include_groups=album,single,appears_on,compilation`;
@@ -58,7 +56,7 @@ async function fetchAlbumsForArtist(artistId, token) {
         ...data.items.map((a) => ({
           id: a.id,
           album: a.name,
-          artist: a.artists.map((ar) => ar.name).join(", "),
+          artist: a.artists.map(ar => ar.name).join(", "),
           release_date: a.release_date,
           cover: a.images[0]?.url || "",
           url: a.external_urls.spotify,
@@ -74,14 +72,14 @@ async function fetchAlbumsForArtist(artistId, token) {
   return albums;
 }
 
-/* ---------- Batch helper ---------- */
+// Batch helper
 function getBatch(artists, batchIndex) {
   const start = batchIndex * BATCH_SIZE;
   const end = start + BATCH_SIZE;
   return artists.slice(start, end);
 }
 
-/* ---------- Main runner ---------- */
+// Main runner
 async function run() {
   if (!process.env.SPOTIFY_CLIENT_ID || !process.env.SPOTIFY_CLIENT_SECRET) {
     console.error("Missing Spotify secrets");
@@ -124,8 +122,8 @@ async function run() {
     meta.last_batch_index += 1;
   }
 
-  // Deduplicate by Spotify ID
-  const uniqueAlbums = Array.from(new Map(allAlbums.map((a) => [a.id, a])).values());
+  // Deduplicate
+  const uniqueAlbums = Array.from(new Map(allAlbums.map(a => [a.id, a])).values());
   fs.writeFileSync(ALBUMS_FILE, JSON.stringify(uniqueAlbums, null, 2));
 
   // Update meta
