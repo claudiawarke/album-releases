@@ -54,8 +54,10 @@ async function fetchAlbumsForArtist(artistId, token) {
     if (data.items) {
       albums.push(
         ...data.items
-          .filter((a) =>
-            a.artists.some((ar) => ar.id === artistId) // only main artist
+          .filter(
+            (a) =>
+              a.album_type !== "compilation" && // exclude compilations
+              a.artists.some((ar) => ar.id === artistId) // only main artist
           )
           .map((a) => ({
             id: a.id,
