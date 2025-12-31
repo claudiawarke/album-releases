@@ -1,8 +1,9 @@
 // scripts/update.js
 const fs = require("fs");
+const { execSync } = require("child_process");
 
-const BATCH_SIZE = 1000;
-const BATCHES_PER_RUN = 5;
+const BATCH_SIZE = 1000;         // artists per batch
+const BATCHES_PER_RUN = 5;       // batches per workflow run
 const ARTISTS_FILE = "artists.json";
 const ALBUMS_FILE = "albums.json";
 const META_FILE = "meta.json";
@@ -15,7 +16,7 @@ let meta = {
   last_run: null,
   last_full_cycle_completed: null,
   artists_checked_this_run: 0,
-  last_batch_index: 0
+  last_batch_index: 0,
 };
 if (fs.existsSync(META_FILE)) {
   meta = { ...meta, ...JSON.parse(fs.readFileSync(META_FILE, "utf-8")) };
@@ -54,7 +55,7 @@ async function fetchAlbumsForArtist(artistId, token) {
       albums.push(
         ...data.items
           .filter((a) =>
-            a.artists.some((ar) => ar.id === artistId) // only albums where artist is on the album
+            a.artists.some((ar) => ar.id === artistId) // only main artist
           )
           .map((a) => ({
             id: a.id,
@@ -125,8 +126,8 @@ async function run() {
     meta.last_batch_index += 1;
   }
 
-  // Deduplicate
-  const uniqueAlbums = Array.from(new Map(allAlbums.map(a => [a.id, a])).values());
+  // Deduplicate albums
+  const uniqueAlbums = Array.from(new Map(allAlbums.map((a) => [a.id, a])).values());
   fs.writeFileSync(ALBUMS_FILE, JSON.stringify(uniqueAlbums, null, 2));
 
   // Update meta
@@ -137,18 +138,26 @@ async function run() {
   console.log(`Run complete. Total albums: ${uniqueAlbums.length}`);
   console.log(`Artists processed this run: ${totalArtistsProcessed}`);
 
-  // Commit updated albums.json and meta.json to GitHub
-  const { execSync } = require("child_process");
-  
-  execSync("git config user.name 'github-actions'", { stdio: "inherit" });
-  execSync("git config user.email 'actions@github.com'", { stdio: "inherit" });
-  execSync("git add albums.json meta.json", { stdio: "inherit" });
-  execSync(
-    `git commit -m "Update albums.json - ${new Date().toISOString().slice(0, 10)}"`,
-    { stdio: "inherit" }
-  );
-  execSync("git push", { stdio: "inherit" });
+  // ---------- COMMIT & PUSH UPDATED FILES ----------
+  try {
+    execSync("git config user.name 'github-actions'", { stdio: "inherit" });
+    execSync("git config user.email 'actions@github.com'", { stdio: "inherit" });
 
+    const status = execSync("git status --porcelain").toString().trim();
+    if (status) {
+      execSync("git add albums.json meta.json", { stdio: "inherit" });
+      execSync(
+        `git commit -m "Update albums.json - ${new Date().toISOString().slice(0, 10)}"`,
+        { stdio: "inherit" }
+      );
+      execSync("git push", { stdio: "inherit" });
+      console.log("✅ albums.json and meta.json committed and pushed.");
+    } else {
+      console.log("No changes to commit or push.");
+    }
+  } catch (err) {
+    console.error("Git commit/push failed:", err.message);
+  }
 }
 
 run();
