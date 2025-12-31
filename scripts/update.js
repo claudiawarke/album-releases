@@ -1,15 +1,46 @@
 const fs = require("fs");
+const path = require("path");
+const fetch = (...args) =>
+  import("node-fetch").then(({ default: fetch }) => fetch(...args));
 
-const CLIENT_ID = process.env.SPOTIFY_CLIENT_ID;
-const CLIENT_SECRET = process.env.SPOTIFY_CLIENT_SECRET;
+const TODAY = new Date().toISOString().split("T")[0];
+const ONE_WEEK_DAYS = 7;
 
-async function getToken() {
+const ARTISTS_FILE = "artists.json";
+const ALBUMS_FILE = "albums.json";
+const META_FILE = "meta.json";
+
+// ---------- HELPERS ----------
+
+function readJSON(file, fallback) {
+  if (!fs.existsSync(file)) return fallback;
+  return JSON.parse(fs.readFileSync(file, "utf8"));
+}
+
+function writeJSON(file, data) {
+  fs.writeFileSync(file, JSON.stringify(data, null, 2));
+}
+
+function classifyAlbum(album) {
+  if (album.album_type === "single") return "single";
+  if (album.album_type === "compilation") return "compilation";
+  if (album.total_tracks <= 6) return "ep";
+  return "album";
+}
+
+// ---------- SPOTIFY AUTH ----------
+
+async function getSpotifyToken() {
+  const id = process.env.SPOTIFY_CLIENT_ID;
+  const secret = process.env.SPOTIFY_CLIENT_SECRET;
+
+  if (!id || !secret) throw new Error("Missing Spotify secrets");
+
   const res = await fetch("https://accounts.spotify.com/api/token", {
     method: "POST",
     headers: {
       Authorization:
-        "Basic " +
-        Buffer.from(`${CLIENT_ID}:${CLIENT_SECRET}`).toString("base64"),
+        "Basic " + Buffer.from(`${id}:${secret}`).toString("base64"),
       "Content-Type": "application/x-www-form-urlencoded",
     },
     body: "grant_type=client_credentials",
@@ -19,52 +50,140 @@ async function getToken() {
   return data.access_token;
 }
 
+// ---------- MAIN ----------
+
 async function run() {
-  if (!CLIENT_ID || !CLIENT_SECRET) {
-    throw new Error("Missing Spotify secrets");
-  }
+  const artists = readJSON(ARTISTS_FILE, []);
+  const albums = readJSON(ALBUMS_FILE, []);
+  const meta = readJSON(META_FILE, {});
 
-  const token = await getToken();
+  const token = await getSpotifyToken();
 
-  const artists = JSON.parse(fs.readFileSync("artists.json", "utf8"));
-  const existing = JSON.parse(fs.readFileSync("albums.json", "utf8"));
+  // ---------- BATCH ARTISTS (WEEKLY ROTATION) ----------
 
-  const seen = new Set(existing.map((a) => a.id));
-  const added = [];
+  artists.forEach((a) => {
+    if (!a.last_checked) a.last_checked = "1970-01-01";
+  });
 
-  for (const artist of artists) {
-    const res = await fetch(
-      `https://api.spotify.com/v1/artists/${artist.id}/albums?include_groups=album&limit=5`,
-      {
-        headers: { Authorization: `Bearer ${token}` },
-      }
-    );
+  artists.sort(
+    (a, b) => new Date(a.last_checked) - new Date(b.last_checked)
+  );
+
+  const batchSize = Math.ceil(artists.length / ONE_WEEK_DAYS);
+  const batch = artists.slice(0, batchSize);
+
+  const updatedAlbums = [];
+
+  for (const artist of batch) {
+    const url = `https://api.spotify.com/v1/artists/${artist.id}/albums?include_groups=album,single,appears_on&limit=50`;
+
+    const res = await fetch(url, {
+      headers: { Authorization: `Bearer ${token}` },
+    });
 
     const data = await res.json();
     if (!data.items) continue;
 
     for (const album of data.items) {
-      if (!seen.has(album.id)) {
-        added.push({
+      const existing = albums.find((a) => a.id === album.id);
+
+      const albumRes = await fetch(
+        `https://api.spotify.com/v1/albums/${album.id}`,
+        { headers: { Authorization: `Bearer ${token}` } }
+      );
+      const albumData = await albumRes.json();
+
+      const trackIds = albumData.tracks.items.map((t) => t.id);
+
+      if (existing) {
+        const changed =
+          existing.total_tracks !== trackIds.length ||
+          existing.track_ids.join() !== trackIds.join();
+
+        if (changed && existing.release_date < TODAY) {
+          existing.updated_after_release = true;
+          existing.last_updated = TODAY;
+          existing.total_tracks = trackIds.length;
+          existing.track_ids = trackIds;
+          updatedAlbums.push(existing);
+        }
+
+        existing.last_seen = TODAY;
+      } else {
+        albums.push({
           id: album.id,
-          album: album.name,
-          artist: artist.name,
+          name: album.name,
+          artist: album.artists.map((a) => a.name).join(", "),
           release_date: album.release_date,
-          cover: album.images?.[0]?.url || "",
-          url: album.external_urls.spotify,
+          type: classifyAlbum(album),
+          total_tracks: trackIds.length,
+          track_ids: trackIds,
+          spotify_url: album.external_urls.spotify,
+          cover: album.images[0]?.url || "",
+          last_seen: TODAY,
+          updated_after_release: false,
         });
       }
     }
+
+    artist.last_checked = TODAY;
   }
 
-  const merged = [...added, ...existing].sort(
-    (a, b) => new Date(b.release_date) - new Date(a.release_date)
+  // ---------- META TRACKING ----------
+
+  meta.last_run = TODAY;
+  meta.artists_checked_this_run = batch.length;
+
+  const allCheckedRecently = artists.every(
+    (a) => new Date(a.last_checked) >= new Date(meta.cycle_start || "1970-01-01")
   );
 
-  fs.writeFileSync("albums.json", JSON.stringify(merged, null, 2));
+  if (!meta.cycle_start) meta.cycle_start = TODAY;
+
+  if (allCheckedRecently) {
+    meta.last_full_cycle_completed = TODAY;
+    meta.cycle_start = TODAY;
+  }
+
+  writeJSON(ARTISTS_FILE, artists);
+  writeJSON(ALBUMS_FILE, albums);
+  writeJSON(META_FILE, meta);
+
+  // ---------- GITHUB ISSUE FOR UPDATES ----------
+
+  if (updatedAlbums.length > 0) {
+    await createGithubIssue(updatedAlbums);
+  }
 }
 
-run().catch((err) => {
-  console.error(err);
-  process.exit(1);
-});
+// ---------- GITHUB ISSUE ----------
+
+async function createGithubIssue(updatedAlbums) {
+  const repo = process.env.GITHUB_REPOSITORY;
+  const token = process.env.GITHUB_TOKEN;
+
+  const body = updatedAlbums
+    .map(
+      (a) => `
+• **${a.artist} – ${a.name}**
+  Tracks now: ${a.total_tracks}
+  Updated: ${a.last_updated}
+  Spotify: ${a.spotify_url}
+`
+    )
+    .join("\n");
+
+  await fetch(`https://api.github.com/repos/${repo}/issues`, {
+    method: "POST",
+    headers: {
+      Authorization: `Bearer ${token}`,
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({
+      title: `Albums updated after release – ${TODAY}`,
+      body,
+    }),
+  });
+}
+
+run();
