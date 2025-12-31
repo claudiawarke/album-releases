@@ -15,8 +15,6 @@ jobs:
         with:
           node-version: 18
 
-      - run: npm install node-fetch
-
       - run: node scripts/update.js
 
       - run: |
