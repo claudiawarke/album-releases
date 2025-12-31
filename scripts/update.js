@@ -4,7 +4,8 @@ const fetch = require("node-fetch");
 require("dotenv").config();
 
 /* ---------- Config ---------- */
-const BATCH_SIZE = 1000;
+const BATCH_SIZE = 1000;          // number of artists per batch
+const BATCHES_PER_RUN = 5;        // number of batches to process per workflow run
 const ARTISTS_FILE = "artists.json";
 const ALBUMS_FILE = "albums.json";
 const META_FILE = "meta.json";
@@ -89,32 +90,39 @@ async function run() {
   }
 
   const token = await getSpotifyToken();
-  const batch = getBatch(artists, meta.last_batch_index);
-
-  if (!batch.length) {
-    console.log("All batches completed. Starting new full cycle.");
-    meta.last_batch_index = 0;
-    meta.last_full_cycle_completed = new Date().toISOString().slice(0, 10);
-    fs.writeFileSync(META_FILE, JSON.stringify(meta, null, 2));
-    return;
-  }
-
-  console.log(`Processing batch ${meta.last_batch_index + 1}, ${batch.length} artists`);
 
   let allAlbums = [];
   if (fs.existsSync(ALBUMS_FILE)) {
     allAlbums = JSON.parse(fs.readFileSync(ALBUMS_FILE, "utf-8"));
   }
 
-  for (const artist of batch) {
-    console.log("Fetching albums for:", artist.name);
-    try {
-      const albums = await fetchAlbumsForArtist(artist.id, token);
-      console.log(`Found ${albums.length} albums for ${artist.name}`);
-      allAlbums.push(...albums);
-    } catch (err) {
-      console.error("Error fetching artist:", artist.name, err);
+  let totalArtistsProcessed = 0;
+
+  for (let i = 0; i < BATCHES_PER_RUN; i++) {
+    const batch = getBatch(artists, meta.last_batch_index);
+
+    if (!batch.length) {
+      console.log("All batches completed. Starting new full cycle.");
+      meta.last_batch_index = 0;
+      meta.last_full_cycle_completed = new Date().toISOString().slice(0, 10);
+      break;
     }
+
+    console.log(`Processing batch ${meta.last_batch_index + 1}, ${batch.length} artists`);
+
+    for (const artist of batch) {
+      console.log("Fetching albums for:", artist.name);
+      try {
+        const albums = await fetchAlbumsForArtist(artist.id, token);
+        console.log(`Found ${albums.length} albums for ${artist.name}`);
+        allAlbums.push(...albums);
+      } catch (err) {
+        console.error("Error fetching artist:", artist.name, err);
+      }
+    }
+
+    totalArtistsProcessed += batch.length;
+    meta.last_batch_index += 1;
   }
 
   // Deduplicate by Spotify ID
@@ -123,11 +131,11 @@ async function run() {
 
   // Update meta
   meta.last_run = new Date().toISOString().slice(0, 10);
-  meta.artists_checked_this_run = batch.length;
-  meta.last_batch_index += 1;
+  meta.artists_checked_this_run = totalArtistsProcessed;
   fs.writeFileSync(META_FILE, JSON.stringify(meta, null, 2));
 
-  console.log(`Batch complete. Total albums: ${uniqueAlbums.length}`);
+  console.log(`Run complete. Total albums in albums.json: ${uniqueAlbums.length}`);
+  console.log(`Artists processed this run: ${totalArtistsProcessed}`);
 }
 
 run();
