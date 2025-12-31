@@ -38,5 +38,2805 @@
     "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU",
     "type": "album",
     "total_tracks": 22
+  },
+  {
+    "id": "35dut3ICqF3NEDkjxfzJJ1",
+    "album": "Starboy (Deluxe)",
+    "artist": "The Weeknd",
+    "release_date": "2023-03-14",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738ad8f5243d6534e03b656c8b",
+    "url": "https://open.spotify.com/album/35dut3ICqF3NEDkjxfzJJ1",
+    "type": "album",
+    "total_tracks": 21
+  },
+  {
+    "id": "1OARrXe5sB0gyy3MhQ8h92",
+    "album": "Live At SoFi Stadium",
+    "artist": "The Weeknd",
+    "release_date": "2023-03-03",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273308f9319a3d6f6737f43b3fc",
+    "url": "https://open.spotify.com/album/1OARrXe5sB0gyy3MhQ8h92",
+    "type": "album",
+    "total_tracks": 31
+  },
+  {
+    "id": "12INlMsFtBjyehNnawBv36",
+    "album": "Dawn FM (Alternate World)",
+    "artist": "The Weeknd",
+    "release_date": "2022-01-07",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ade87e5f9c3764f0a1e5df64",
+    "url": "https://open.spotify.com/album/12INlMsFtBjyehNnawBv36",
+    "type": "album",
+    "total_tracks": 24
+  },
+  {
+    "id": "2nLOHgzXzwFEpl62zAgCEC",
+    "album": "Dawn FM",
+    "artist": "The Weeknd",
+    "release_date": "2022-01-06",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d",
+    "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC",
+    "type": "album",
+    "total_tracks": 16
+  },
+  {
+    "id": "742eAldb4AJKLoPgJhGRE7",
+    "album": "After Hours (Deluxe)",
+    "artist": "The Weeknd",
+    "release_date": "2020-03-20",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ef017e899c0547766997d874",
+    "url": "https://open.spotify.com/album/742eAldb4AJKLoPgJhGRE7",
+    "type": "album",
+    "total_tracks": 18
+  },
+  {
+    "id": "4yP0hdKOZPNshxUOjY0cZj",
+    "album": "After Hours",
+    "artist": "The Weeknd",
+    "release_date": "2020-03-20",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
+    "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj",
+    "type": "album",
+    "total_tracks": 14
+  },
+  {
+    "id": "4qZBW3f2Q8y0k1A84d4iAO",
+    "album": "My Dear Melancholy,",
+    "artist": "The Weeknd",
+    "release_date": "2018-03-30",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731f6a2a40bb692936879db730",
+    "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO",
+    "type": "album",
+    "total_tracks": 7
+  },
+  {
+    "id": "2ODvWsOgouMbaA5xf0RkJe",
+    "album": "Starboy",
+    "artist": "The Weeknd",
+    "release_date": "2016-11-25",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
+    "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe",
+    "type": "album",
+    "total_tracks": 18
+  },
+  {
+    "id": "0P3oVJBFOv3TDXlYRhGL7s",
+    "album": "Beauty Behind The Madness",
+    "artist": "The Weeknd",
+    "release_date": "2015-08-28",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737fcead687e99583072cc217b",
+    "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s",
+    "type": "album",
+    "total_tracks": 14
+  },
+  {
+    "id": "2FgMWuwMeTgJArP2RF3upF",
+    "album": "Kiss Land",
+    "artist": "The Weeknd",
+    "release_date": "2013-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730cc6c8a864d2d16a2bc507d4",
+    "url": "https://open.spotify.com/album/2FgMWuwMeTgJArP2RF3upF",
+    "type": "album",
+    "total_tracks": 10
+  },
+  {
+    "id": "2XGEyGU76kj55OdHWynX0S",
+    "album": "Trilogy",
+    "artist": "The Weeknd",
+    "release_date": "2012-11-13",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273158c84a1b6f8b935dc7fa9a9",
+    "url": "https://open.spotify.com/album/2XGEyGU76kj55OdHWynX0S",
+    "type": "album",
+    "total_tracks": 30
+  },
+  {
+    "id": "04hy4jb1GDD00otiwzsFUB",
+    "album": "Echoes Of Silence (Original)",
+    "artist": "The Weeknd",
+    "release_date": "2011-12-21",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27336fb79728dbb379579cef97e",
+    "url": "https://open.spotify.com/album/04hy4jb1GDD00otiwzsFUB",
+    "type": "album",
+    "total_tracks": 9
+  },
+  {
+    "id": "6F87lH0I09qlrzvCCKc7lz",
+    "album": "Thursday (Original)",
+    "artist": "The Weeknd",
+    "release_date": "2011-08-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e01c2631218e2de27765b7d5",
+    "url": "https://open.spotify.com/album/6F87lH0I09qlrzvCCKc7lz",
+    "type": "album",
+    "total_tracks": 9
+  },
+  {
+    "id": "7zCODUHkfuRxsUjtuzNqbd",
+    "album": "House Of Balloons (Original)",
+    "artist": "The Weeknd",
+    "release_date": "2011-03-21",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273274b406a7e18acebcf743079",
+    "url": "https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd",
+    "type": "album",
+    "total_tracks": 9
+  },
+  {
+    "id": "28TLpNqlJzeOqm9N4OY3BS",
+    "album": "São Paulo",
+    "artist": "The Weeknd, Anitta",
+    "release_date": "2025-09-19",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273caa27ecd2d27ea0429fbbcfc",
+    "url": "https://open.spotify.com/album/28TLpNqlJzeOqm9N4OY3BS",
+    "type": "single",
+    "total_tracks": 4
+  },
+  {
+    "id": "0FWdxPnncm63s91g0PkTvv",
+    "album": "Timeless (Remix)",
+    "artist": "The Weeknd, Doechii",
+    "release_date": "2025-05-09",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273245aa43805ea59914d8f59ee",
+    "url": "https://open.spotify.com/album/0FWdxPnncm63s91g0PkTvv",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "0cLXqY56lwJjG7QNG2mzu7",
+    "album": "Wake Me Up",
+    "artist": "The Weeknd",
+    "release_date": "2025-01-29",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737ed15a8f5dc0060a449527a7",
+    "url": "https://open.spotify.com/album/0cLXqY56lwJjG7QNG2mzu7",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6VfBBrRc9CiWisIAoBeTqs",
+    "album": "Open Hearts",
+    "artist": "The Weeknd",
+    "release_date": "2025-01-29",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739d70654ee9ed03bbc86facf1",
+    "url": "https://open.spotify.com/album/6VfBBrRc9CiWisIAoBeTqs",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "15b9JCsZh7DkbA2EjBjPqc",
+    "album": "Enjoy The Show",
+    "artist": "The Weeknd",
+    "release_date": "2025-01-29",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c194d06cc0fd9a567e5a0b77",
+    "url": "https://open.spotify.com/album/15b9JCsZh7DkbA2EjBjPqc",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "7GHiMUbLhh67dWSN1xGUcP",
+    "album": "Dancing In The Flames (Live from São Paulo)",
+    "artist": "The Weeknd",
+    "release_date": "2024-09-13",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fad79f4bab30cd048821e186",
+    "url": "https://open.spotify.com/album/7GHiMUbLhh67dWSN1xGUcP",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0MwPArEeQJx5GMc5Sz7kRV",
+    "album": "Dancing In The Flames",
+    "artist": "The Weeknd",
+    "release_date": "2024-09-13",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fd5cc07a72dda206535bcf9f",
+    "url": "https://open.spotify.com/album/0MwPArEeQJx5GMc5Sz7kRV",
+    "type": "single",
+    "total_tracks": 5
+  },
+  {
+    "id": "0p0FGxiCrl3afABenvtWbQ",
+    "album": "Popular",
+    "artist": "The Weeknd, Madonna",
+    "release_date": "2024-01-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f53930e3203b69952b4c5920",
+    "url": "https://open.spotify.com/album/0p0FGxiCrl3afABenvtWbQ",
+    "type": "single",
+    "total_tracks": 5
+  },
+  {
+    "id": "4T8wBxIvoSRVfoFZzuwOXR",
+    "album": "One of the Girls",
+    "artist": "The Weeknd, JENNIE, Lily-Rose Depp",
+    "release_date": "2023-12-08",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fab8b9788d94224614c49185",
+    "url": "https://open.spotify.com/album/4T8wBxIvoSRVfoFZzuwOXR",
+    "type": "single",
+    "total_tracks": 5
+  },
+  {
+    "id": "2xnqikpcvH2vBYc89VnwwL",
+    "album": "Another One Of Me (feat. 21 Savage)",
+    "artist": "Diddy, The Weeknd, French Montana",
+    "release_date": "2023-09-15",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ade39d626a4c337679cf8959",
+    "url": "https://open.spotify.com/album/2xnqikpcvH2vBYc89VnwwL",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "10eNMeTimUzAKLhCOpIUlb",
+    "album": "K-POP",
+    "artist": "Travis Scott, Bad Bunny, The Weeknd",
+    "release_date": "2023-07-21",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273893489768de0c42b4d217b82",
+    "url": "https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0jiAYLsE1PumLJncO7vUIl",
+    "album": "K-POP (Chopped & Screwed)",
+    "artist": "Travis Scott, The Weeknd",
+    "release_date": "2023-07-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273dd8912dfae6121b0e25bcaec",
+    "url": "https://open.spotify.com/album/0jiAYLsE1PumLJncO7vUIl",
+    "type": "single",
+    "total_tracks": 4
+  },
+  {
+    "id": "10SppFk45za4CHPEiiuQaD",
+    "album": "The Idol Episode 5 Part 2 (Music from the HBO Original Series)",
+    "artist": "The Weeknd, Lily-Rose Depp, Suzanna Son",
+    "release_date": "2023-07-03",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27338b9ba68af98c3c0855b47ee",
+    "url": "https://open.spotify.com/album/10SppFk45za4CHPEiiuQaD",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "4q3wUuIReEjGSYzmSsxtl6",
+    "album": "The Idol Episode 5 Part 1 (Music from the HBO Original Series)",
+    "artist": "The Weeknd, Lil Baby, Suzanna Son",
+    "release_date": "2023-06-30",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27337a61e7106ce1b3628e4af8d",
+    "url": "https://open.spotify.com/album/4q3wUuIReEjGSYzmSsxtl6",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "7tzVd1fwkxsorytCBjEJkU",
+    "album": "The Idol Episode 4 (Music from the HBO Original Series)",
+    "artist": "The Weeknd, JENNIE, Lily-Rose Depp",
+    "release_date": "2023-06-23",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b0dd6a5cd1dec96c4119c262",
+    "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "5aX2plzPm0m6zk4ZFuqbuI",
+    "album": "The Idol Episode 3 (Music from the HBO Original Series)",
+    "artist": "The Weeknd, Moses Sumney",
+    "release_date": "2023-06-19",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c2f472bdfc7ad0883c933ab4",
+    "url": "https://open.spotify.com/album/5aX2plzPm0m6zk4ZFuqbuI",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "5bx7i3cuSfXBPF7Li8kUR7",
+    "album": "The Idol Episode 2 (Music from the HBO Original Series)",
+    "artist": "The Weeknd, MIKE DEAN, Suzanna Son",
+    "release_date": "2023-06-12",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273221ffa4ab2c5e4511563fb57",
+    "url": "https://open.spotify.com/album/5bx7i3cuSfXBPF7Li8kUR7",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "6E3IPXh38G7UHLqVdfIY5h",
+    "album": "The Idol Episode 1 (Music from the HBO Original Series)",
+    "artist": "The Weeknd, MIKE DEAN, Lily-Rose Depp",
+    "release_date": "2023-06-09",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736d20a763ad0e31c924c5e176",
+    "url": "https://open.spotify.com/album/6E3IPXh38G7UHLqVdfIY5h",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "5O0zUvdnJr0RbWzLFneN2i",
+    "album": "Popular (Music from the HBO Original Series)",
+    "artist": "The Weeknd, Madonna",
+    "release_date": "2023-06-02",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734c8f092adc59b4bf4212389d",
+    "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0Ct52rooGyvjv6qXrBPNzm",
+    "album": "Double Fantasy",
+    "artist": "The Weeknd",
+    "release_date": "2023-04-21",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c7d6fe09dfe4af1580e59705",
+    "url": "https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "3P2UkOkqWp8ucd1EOnVAH7",
+    "album": "Creepin' (Remix)",
+    "artist": "Metro Boomin, The Weeknd, Diddy",
+    "release_date": "2023-03-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273bd7aa72e76037ccd81e21a13",
+    "url": "https://open.spotify.com/album/3P2UkOkqWp8ucd1EOnVAH7",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "0YF085Qdh4HgdhZ8zjWkpo",
+    "album": "Die For You",
+    "artist": "The Weeknd",
+    "release_date": "2023-02-27",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738b5a9e7c56f01bec356de9d5",
+    "url": "https://open.spotify.com/album/0YF085Qdh4HgdhZ8zjWkpo",
+    "type": "single",
+    "total_tracks": 4
+  },
+  {
+    "id": "6Exo0MYoL3XammoTDeihFy",
+    "album": "Die For You (Remix)",
+    "artist": "The Weeknd, Ariana Grande",
+    "release_date": "2023-02-24",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738de12a274f6e1df6634f57ec",
+    "url": "https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4a8uxN5j5ZSWuioZ9cHqWk",
+    "album": "Best Friends (Remix)",
+    "artist": "The Weeknd, Summer Walker",
+    "release_date": "2022-08-05",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735c1ecd80ec5f25b556052431",
+    "url": "https://open.spotify.com/album/4a8uxN5j5ZSWuioZ9cHqWk",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "181WKxuhHzTyjMcYdI7UUe",
+    "album": "How Do I Make You Love Me? (Sebastian Ingrosso & Salvatore Ganacci Remix)",
+    "artist": "The Weeknd, Sebastian Ingrosso, Salvatore Ganacci",
+    "release_date": "2022-07-22",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27314cf4f2a3a808b716604d115",
+    "url": "https://open.spotify.com/album/181WKxuhHzTyjMcYdI7UUe",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0Vz32hcNoqOZIpJVI0qExN",
+    "album": "Dawn FM (OPN Remix)",
+    "artist": "The Weeknd",
+    "release_date": "2022-07-08",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732756fcc016298cf16ccf6020",
+    "url": "https://open.spotify.com/album/0Vz32hcNoqOZIpJVI0qExN",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6vJRxj9GnmwXT7mKJqE61n",
+    "album": "Starry Eyes (MIKE DEAN Remix)",
+    "artist": "The Weeknd, MIKE DEAN",
+    "release_date": "2022-07-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b85976e1b1bd2d00ff551a01",
+    "url": "https://open.spotify.com/album/6vJRxj9GnmwXT7mKJqE61n",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6LuY3APmuxui8BM2oibkrZ",
+    "album": "Out Of Time (Remix Bundle)",
+    "artist": "The Weeknd, KAYTRANADA",
+    "release_date": "2022-04-22",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c34dffa3ee633fa3915c6806",
+    "url": "https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ",
+    "type": "single",
+    "total_tracks": 4
+  },
+  {
+    "id": "17cYF29ZBcDYoRkWUzFWfQ",
+    "album": "Moth To A Flame (Moojo Remix)",
+    "artist": "Swedish House Mafia, The Weeknd, Moojo",
+    "release_date": "2022-01-04",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27366858daca33990b506aa62d0",
+    "url": "https://open.spotify.com/album/17cYF29ZBcDYoRkWUzFWfQ",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0sye9Q82C9Q4tTJN8b0aFq",
+    "album": "Moth To A Flame",
+    "artist": "Swedish House Mafia, The Weeknd",
+    "release_date": "2022-01-04",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b1d146bde876bf560eb1a089",
+    "url": "https://open.spotify.com/album/0sye9Q82C9Q4tTJN8b0aFq",
+    "type": "single",
+    "total_tracks": 4
+  },
+  {
+    "id": "6fgSKdHloRioPrZ9oJC7FH",
+    "album": "One Right Now",
+    "artist": "Post Malone, The Weeknd",
+    "release_date": "2021-11-05",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734158fe41143182ec16ead070",
+    "url": "https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4YV1qBdn6O6thyg18kBo0N",
+    "album": "Hurricane",
+    "artist": "Kanye West, The Weeknd",
+    "release_date": "2021-08-27",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27331a80d2686b8a10d7925efb6",
+    "url": "https://open.spotify.com/album/4YV1qBdn6O6thyg18kBo0N",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5vgkX6abffhom2ejVI11yq",
+    "album": "Die For It (ft. Nas)",
+    "artist": "Belly, The Weeknd",
+    "release_date": "2021-08-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736c1f7876d7322a196d9880ca",
+    "url": "https://open.spotify.com/album/5vgkX6abffhom2ejVI11yq",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6DmXKM13nNgIIby2FdK0f8",
+    "album": "Take My Breath",
+    "artist": "The Weeknd",
+    "release_date": "2021-08-06",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733c041e53cb5c38b6de03e758",
+    "url": "https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4lBrDelXR6Sn0k54a7UWMz",
+    "album": "Take My Breath",
+    "artist": "The Weeknd",
+    "release_date": "2021-08-05",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e6c40bd47002f3faffb31ebe",
+    "url": "https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "15a7Yf9rZIKhulN2NEKb3a",
+    "album": "Better Believe",
+    "artist": "Belly, The Weeknd, Young Thug",
+    "release_date": "2021-07-22",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732c6e41177fe254da59c35b2c",
+    "url": "https://open.spotify.com/album/15a7Yf9rZIKhulN2NEKb3a",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2fyOpT5c9kxR8zbDh6UtXh",
+    "album": "Save Your Tears (Remix)",
+    "artist": "The Weeknd, Ariana Grande",
+    "release_date": "2021-04-23",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c6af5ffa661a365b77df6ef6",
+    "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "7B70Z32Ha84aMT6TOnW410",
+    "album": "Blinding Lights (Remix)",
+    "artist": "The Weeknd, ROSALÍA",
+    "release_date": "2020-12-04",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734abb0f8259dc9f2feb0dfe18",
+    "url": "https://open.spotify.com/album/7B70Z32Ha84aMT6TOnW410",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4d5Ak9U5eZ3lU1JGfnMUdI",
+    "album": "Christmas Blues (with The Weeknd)",
+    "artist": "Sabrina Claudio, The Weeknd",
+    "release_date": "2020-11-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b47ba4ac1f43f732a6696689",
+    "url": "https://open.spotify.com/album/4d5Ak9U5eZ3lU1JGfnMUdI",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1Ag9EPbzibwzz0S0WpgX3v",
+    "album": "Hawái (Remix)",
+    "artist": "Maluma, The Weeknd",
+    "release_date": "2020-11-05",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fb2f76d87912761c2b7d71a5",
+    "url": "https://open.spotify.com/album/1Ag9EPbzibwzz0S0WpgX3v",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2MouaLzzY4HnsUYJYSgu2o",
+    "album": "In Your Eyes (Remix)",
+    "artist": "The Weeknd",
+    "release_date": "2020-10-16",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733186924a372e69b3412e96ba",
+    "url": "https://open.spotify.com/album/2MouaLzzY4HnsUYJYSgu2o",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5ELWxtRpadxkLUUvbzpiZO",
+    "album": "King Of The Fall",
+    "artist": "The Weeknd",
+    "release_date": "2020-09-25",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f60419f5fa7a022ddece0809",
+    "url": "https://open.spotify.com/album/5ELWxtRpadxkLUUvbzpiZO",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1z3fFEPcCWT4KLaOf0ptb0",
+    "album": "Blinding Lights (Instrumental)",
+    "artist": "The Weeknd",
+    "release_date": "2020-09-11",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730e4ad806fa4c8ebfdbc4187c",
+    "url": "https://open.spotify.com/album/1z3fFEPcCWT4KLaOf0ptb0",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3sL9Myf7JF1k9TbrXE46ou",
+    "album": "Blinding Lights",
+    "artist": "The Weeknd",
+    "release_date": "2020-09-11",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a3eff72f62782fb589a492f9",
+    "url": "https://open.spotify.com/album/3sL9Myf7JF1k9TbrXE46ou",
+    "type": "single",
+    "total_tracks": 4
+  },
+  {
+    "id": "3GPiefSRSOxqTrgKJIB7RL",
+    "album": "Over Now (with The Weeknd)",
+    "artist": "Calvin Harris, The Weeknd",
+    "release_date": "2020-08-28",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733caf73d2a59964bb0b966729",
+    "url": "https://open.spotify.com/album/3GPiefSRSOxqTrgKJIB7RL",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0iW4rP7Mib8M3nnhkKU5N7",
+    "album": "Smile (with The Weeknd)",
+    "artist": "Juice WRLD, The Weeknd",
+    "release_date": "2020-08-07",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273510aa550d334384b01cad546",
+    "url": "https://open.spotify.com/album/0iW4rP7Mib8M3nnhkKU5N7",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0Jh3A8NAbc9eFpdUfhDedt",
+    "album": "In Your Eyes (Remix)",
+    "artist": "The Weeknd, Doja Cat",
+    "release_date": "2020-05-21",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27359612a59ef333109d15faa8d",
+    "url": "https://open.spotify.com/album/0Jh3A8NAbc9eFpdUfhDedt",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1ZJIMQ7fTy5Aw7InjQtvnO",
+    "album": "After Hours (Remixes)",
+    "artist": "The Weeknd",
+    "release_date": "2020-04-02",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e8474672b04120e68dd29211",
+    "url": "https://open.spotify.com/album/1ZJIMQ7fTy5Aw7InjQtvnO",
+    "type": "single",
+    "total_tracks": 6
+  },
+  {
+    "id": "74hsEs8mQoNkB6NwgrgV3s",
+    "album": "Blinding Lights (Major Lazer Remix)",
+    "artist": "The Weeknd, Major Lazer",
+    "release_date": "2020-03-31",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273cddd966766ba3b2bc20fa991",
+    "url": "https://open.spotify.com/album/74hsEs8mQoNkB6NwgrgV3s",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6B3VYsWUR2xf7HptOO2fpr",
+    "album": "Reminder (Remix)",
+    "artist": "The Weeknd",
+    "release_date": "2017-08-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b152de74d9768ef0ce44cfed",
+    "url": "https://open.spotify.com/album/6B3VYsWUR2xf7HptOO2fpr",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0NSognr1k6PH6SZZ6uv44G",
+    "album": "Lust for Life (with The Weeknd)",
+    "artist": "Lana Del Rey, The Weeknd",
+    "release_date": "2017-04-19",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f02e03e75f7f6f6b7a80c421",
+    "url": "https://open.spotify.com/album/0NSognr1k6PH6SZZ6uv44G",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4rGQxBDZ4hHCKePXaYOTSB",
+    "album": "Starboy (Kygo Remix)",
+    "artist": "The Weeknd",
+    "release_date": "2016-11-11",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e2148749eb6478e176b3f93c",
+    "url": "https://open.spotify.com/album/4rGQxBDZ4hHCKePXaYOTSB",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3x3MSUwsijjsVPRwUMU8NG",
+    "album": "The Hills (RL Grime Remix)",
+    "artist": "The Weeknd",
+    "release_date": "2015-11-06",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739fe9a01b7614e5d518dd0932",
+    "url": "https://open.spotify.com/album/3x3MSUwsijjsVPRwUMU8NG",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "12yYl13Ce7u8LuhtEl75aQ",
+    "album": "Can't Feel My Face (Martin Garrix Remix)",
+    "artist": "The Weeknd",
+    "release_date": "2015-11-06",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273364aec7419abbc2f5aeaaeda",
+    "url": "https://open.spotify.com/album/12yYl13Ce7u8LuhtEl75aQ",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6JoPCMcyZrZ70diS45qE1i",
+    "album": "The Hills Remixes",
+    "artist": "The Weeknd",
+    "release_date": "2015-10-11",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738e6184189c5e099f5c546500",
+    "url": "https://open.spotify.com/album/6JoPCMcyZrZ70diS45qE1i",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "0V4FRK9laLF1enOUga4b2d",
+    "album": "Often (Kygo Remix)",
+    "artist": "The Weeknd",
+    "release_date": "2015-04-07",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273cc453150b04581f1295e1e36",
+    "url": "https://open.spotify.com/album/0V4FRK9laLF1enOUga4b2d",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "61Ba3txRZWfiX6ZTEZlFCV",
+    "album": "Earned It (Fifty Shades Of Grey) [From The \"Fifty Shades Of Grey\" Soundtrack]",
+    "artist": "The Weeknd",
+    "release_date": "2014-12-23",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27364bd23d64f90b1910ead95a1",
+    "url": "https://open.spotify.com/album/61Ba3txRZWfiX6ZTEZlFCV",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "42j6ji8hAqwHUpvw2H08SU",
+    "album": "Love Me Harder",
+    "artist": "Ariana Grande, The Weeknd",
+    "release_date": "2014-08-22",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fd4c72144aa364f335d7c4c0",
+    "url": "https://open.spotify.com/album/42j6ji8hAqwHUpvw2H08SU",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "0jd24pQ5ueY5rVC4H3jTtC",
+    "album": "Wanderlust",
+    "artist": "The Weeknd",
+    "release_date": "2014-06-13",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ea2b950937f963af49823429",
+    "url": "https://open.spotify.com/album/0jd24pQ5ueY5rVC4H3jTtC",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3SHx7bBQFI4J8QRr6D5cOK",
+    "album": "Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) [Remix]",
+    "artist": "Ty Dolla $ign, The Weeknd",
+    "release_date": "2014-06-10",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731c04efd2804b16cf689de7f0",
+    "url": "https://open.spotify.com/album/3SHx7bBQFI4J8QRr6D5cOK",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3oUb4a8tU3WBXMnY0efxf8",
+    "album": "Wanderlust (Remixes)",
+    "artist": "The Weeknd",
+    "release_date": "2014-05-19",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b9bbfc5a6f02c59462a2509f",
+    "url": "https://open.spotify.com/album/3oUb4a8tU3WBXMnY0efxf8",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "1jkwHVuNP5y5RczOHL7Aeg",
+    "album": "Live For",
+    "artist": "The Weeknd",
+    "release_date": "2013-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b42db0d33c3fcea7e8df5f8d",
+    "url": "https://open.spotify.com/album/1jkwHVuNP5y5RczOHL7Aeg",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "7xZ7EEK4zMCvFaawizHE8z",
+    "album": "Kiss Land",
+    "artist": "The Weeknd",
+    "release_date": "2013-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27338d069195de279db2410bd39",
+    "url": "https://open.spotify.com/album/7xZ7EEK4zMCvFaawizHE8z",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5UNbR5y82YIFQfED5OuZyj",
+    "album": "Belong To The World",
+    "artist": "The Weeknd",
+    "release_date": "2013-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734c0c9e832336d66891193621",
+    "url": "https://open.spotify.com/album/5UNbR5y82YIFQfED5OuZyj",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1Wz4V9MHfvjqXvWiHaTRSv",
+    "album": "Wicked Games",
+    "artist": "The Weeknd",
+    "release_date": "2012-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b2a59ce36f34f9e0957d4eb1",
+    "url": "https://open.spotify.com/album/1Wz4V9MHfvjqXvWiHaTRSv",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "43k99CXeU2JUO21G1F4WCP",
+    "album": "Man’s Best Friend (Bonus Track Version)",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2025-12-24",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731ff63875ff43066ba584c6bd",
+    "url": "https://open.spotify.com/album/43k99CXeU2JUO21G1F4WCP",
+    "type": "album",
+    "total_tracks": 13
+  },
+  {
+    "id": "1aqg30bNvLSWgShZgX4oop",
+    "album": "Man’s Best Friend",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2025-08-29",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b1863bf95557ea7f357c4947",
+    "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop",
+    "type": "album",
+    "total_tracks": 12
+  },
+  {
+    "id": "3WzBIQmn2hrulLeTY9smkk",
+    "album": "Short n' Sweet (Deluxe)",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2025-02-14",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273047d6b756e8f5e3f8b50f025",
+    "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk",
+    "type": "album",
+    "total_tracks": 17
+  },
+  {
+    "id": "3iPSVi54hsacKKl1xIR2eH",
+    "album": "Short n' Sweet",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2024-08-23",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626",
+    "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH",
+    "type": "album",
+    "total_tracks": 12
+  },
+  {
+    "id": "2g4aJTa5ejGpp0O0GKzWAQ",
+    "album": "emails i can’t send fwd:",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2023-03-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730f45623be014a592a5815827",
+    "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ",
+    "type": "album",
+    "total_tracks": 17
+  },
+  {
+    "id": "5kDmlA2g9Y1YCbNo2Ufxlz",
+    "album": "emails i can't send",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2022-07-15",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273700f7bf79c9f063ad0362bdf",
+    "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz",
+    "type": "album",
+    "total_tracks": 13
+  },
+  {
+    "id": "19KilSbbeHRFFZM7ChwTdP",
+    "album": "Singular Act II",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2019-07-19",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f22e1263704f24cb504700ea",
+    "url": "https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP",
+    "type": "album",
+    "total_tracks": 9
+  },
+  {
+    "id": "29mlGxS6kxq1EHxlX1EAZK",
+    "album": "Singular Act I",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2018-11-09",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27338b27a27cea311f34bb68eff",
+    "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK",
+    "type": "album",
+    "total_tracks": 8
+  },
+  {
+    "id": "7iOAJaGBmk67o337zaqt0R",
+    "album": "EVOLution",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2016-10-14",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d6641a0296d8d09e416e0acd",
+    "url": "https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R",
+    "type": "album",
+    "total_tracks": 10
+  },
+  {
+    "id": "55huyEjfSVsk9nnmmKp5df",
+    "album": "Eyes Wide Open",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2015-04-10",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735d9a77afd5c144581be1e74e",
+    "url": "https://open.spotify.com/album/55huyEjfSVsk9nnmmKp5df",
+    "type": "album",
+    "total_tracks": 12
+  },
+  {
+    "id": "3wRHV5fOeUcM5hvYzWZsic",
+    "album": "Manchild",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2025-06-05",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273062c6573009fdebd43de443b",
+    "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0IAo42WYRRTgBtaRUCSMK1",
+    "album": "Please Please Please",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2024-06-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735da6f1d18ec09a6b6529d0fc",
+    "url": "https://open.spotify.com/album/0IAo42WYRRTgBtaRUCSMK1",
+    "type": "single",
+    "total_tracks": 7
+  },
+  {
+    "id": "5bBaoign62r1i7OV8w7mi9",
+    "album": "Please Please Please",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2024-06-06",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273de84adf0e48248ea2d769c3e",
+    "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "29UKCfgIX2fgBff2uSz6qV",
+    "album": "Espresso (Working Late Remixes)",
+    "artist": "Sabrina Carpenter, Mark Ronson",
+    "release_date": "2024-05-31",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737511ba167585f5d4580d927e",
+    "url": "https://open.spotify.com/album/29UKCfgIX2fgBff2uSz6qV",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "2yIhXdfQKrzp7ENGxxI92c",
+    "album": "Espresso EP",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2024-05-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c05a328faddfd54ae08a1352",
+    "url": "https://open.spotify.com/album/2yIhXdfQKrzp7ENGxxI92c",
+    "type": "single",
+    "total_tracks": 6
+  },
+  {
+    "id": "5quMTd5zeI9yW5UDua8wS4",
+    "album": "Espresso",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2024-04-12",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273659cd4673230913b3918e0d5",
+    "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "26H0jinpdi0RSrZq90fNMF",
+    "album": "You Need Me Now? (feat. Sabrina Carpenter)",
+    "artist": "girl in red, Sabrina Carpenter",
+    "release_date": "2024-03-22",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730ee8562a3cbef070b5dac112",
+    "url": "https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "7EisdwWcodpmHxgpGVE5Pg",
+    "album": "fruitcake",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2023-11-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734114a7fb3bf4ed0bf4934b43",
+    "url": "https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg",
+    "type": "single",
+    "total_tracks": 6
+  },
+  {
+    "id": "2kJnIPJHIRZlfOx0TZEKBP",
+    "album": "Spotify Singles",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2023-10-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739bb5637acb0a6143ffa73a04",
+    "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "0TCgFAC92fkbHe2lJkwZRF",
+    "album": "Feather (Sped Up)",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2023-08-04",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27320bc45d92ee8e4e2097ed635",
+    "url": "https://open.spotify.com/album/0TCgFAC92fkbHe2lJkwZRF",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "0TN8dXBkeIqDjVfUV3gPpc",
+    "album": "That’s Not How This Works (feat. Dan + Shay & Sabrina Carpenter) [Sabrina’s Version]",
+    "artist": "Charlie Puth, Dan + Shay, Sabrina Carpenter",
+    "release_date": "2023-04-14",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27328d0067b8d01b6192c88b77d",
+    "url": "https://open.spotify.com/album/0TN8dXBkeIqDjVfUV3gPpc",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "1jTN0ud3pW7ATr45S1CdpL",
+    "album": "Nonsense (Remix)",
+    "artist": "Sabrina Carpenter, Coi Leray",
+    "release_date": "2023-03-23",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737d2e3c30024dca17cbe6ebf0",
+    "url": "https://open.spotify.com/album/1jTN0ud3pW7ATr45S1CdpL",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2D2boDrCPl6idtxpJF6r38",
+    "album": "A Nonsense Christmas",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2022-12-07",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734601ead4fc2b9b65627b8298",
+    "url": "https://open.spotify.com/album/2D2boDrCPl6idtxpJF6r38",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "23eBqMqUmcb1wcxuXfYw6k",
+    "album": "Nonsense (Sped Up Version)",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2022-11-14",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730ca159590dfc7c67590bfe22",
+    "url": "https://open.spotify.com/album/23eBqMqUmcb1wcxuXfYw6k",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "7p3M1cRTouWTpmBDhlEAKS",
+    "album": "Vicious",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2022-07-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731d10648897e2a3625c88721f",
+    "url": "https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2rR0wpBcmvYpxQd77BWShd",
+    "album": "Fast Times",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2022-02-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737c7accea215e046424a2e423",
+    "url": "https://open.spotify.com/album/2rR0wpBcmvYpxQd77BWShd",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "39dXXRroxeXJdEMGay4Zos",
+    "album": "skinny dipping (Acoustic)",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2021-11-05",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ae06d1f09789d9712d2697e3",
+    "url": "https://open.spotify.com/album/39dXXRroxeXJdEMGay4Zos",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "2NbUBAN5Mv7KAacJHOtC49",
+    "album": "skinny dipping",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2021-09-09",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27352dc468314f87fb73690f638",
+    "url": "https://open.spotify.com/album/2NbUBAN5Mv7KAacJHOtC49",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5kxJROPwGs1X92WrcMXkdt",
+    "album": "Skin (Quarterhead Remix)",
+    "artist": "Sabrina Carpenter, Quarterhead",
+    "release_date": "2021-02-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737dc1b1761639a55928bb89e2",
+    "url": "https://open.spotify.com/album/5kxJROPwGs1X92WrcMXkdt",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6JISV6SiJtQnIsNC6OVpUf",
+    "album": "Skin",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2021-01-22",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732b2473f0d8c4ea75d62fba09",
+    "url": "https://open.spotify.com/album/6JISV6SiJtQnIsNC6OVpUf",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6LGAFuDtpOFLOU2UhGGbg4",
+    "album": "Clouds (with Sabrina Carpenter)",
+    "artist": "Fin Argus, Sabrina Carpenter",
+    "release_date": "2020-10-09",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a1c92db918f0ba6822154cbc",
+    "url": "https://open.spotify.com/album/6LGAFuDtpOFLOU2UhGGbg4",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1RE0ZZJkxSZXdkNac4lcJD",
+    "album": "WOW (feat. Sabrina Carpenter) [Remix]",
+    "artist": "Zara Larsson, Sabrina Carpenter",
+    "release_date": "2020-09-25",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731448a2da5885c5bb1bc83ce1",
+    "url": "https://open.spotify.com/album/1RE0ZZJkxSZXdkNac4lcJD",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3Ytt3q5EhvSCbvCTrVkz11",
+    "album": "Let Me Move You (From the Netflix film Work It)",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2020-07-24",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736c9d6c83a5feac01c75a8c66",
+    "url": "https://open.spotify.com/album/3Ytt3q5EhvSCbvCTrVkz11",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1Jur7yH65lqd3d4IH66uEf",
+    "album": "Honeymoon Fades",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2020-02-14",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fbfc8e29755f8dbbf00bb1f8",
+    "url": "https://open.spotify.com/album/1Jur7yH65lqd3d4IH66uEf",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1ODOCRQWwjfJRqJ34RtrKa",
+    "album": "On My Way (Da Tweekaz Remix)",
+    "artist": "Alan Walker, Sabrina Carpenter, Farruko",
+    "release_date": "2019-06-25",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27327540f10032a15bb0514b977",
+    "url": "https://open.spotify.com/album/1ODOCRQWwjfJRqJ34RtrKa",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1xbFduKsdGu9oRbhKH6puf",
+    "album": "Sue Me (A Cappella)",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2019-03-22",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273eaebcdff03a5299824ccef6e",
+    "url": "https://open.spotify.com/album/1xbFduKsdGu9oRbhKH6puf",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1bcvtuHyO79DNAOOhHEkEm",
+    "album": "On My Way",
+    "artist": "Alan Walker, Sabrina Carpenter, Farruko",
+    "release_date": "2019-03-21",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a2f5fd413729345c3cb33e9e",
+    "url": "https://open.spotify.com/album/1bcvtuHyO79DNAOOhHEkEm",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6WZNqfmrunSLlgesOaPC5I",
+    "album": "Sue Me (Remixes)",
+    "artist": "Sabrina Carpenter, Marian Hill, Dave Audé",
+    "release_date": "2019-01-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736740b8d59f95e70ada9825f2",
+    "url": "https://open.spotify.com/album/6WZNqfmrunSLlgesOaPC5I",
+    "type": "single",
+    "total_tracks": 5
+  },
+  {
+    "id": "3lcQDXWOoIxMH8gEQzeETn",
+    "album": "Almost Love (Stargate Warehouse Mix)",
+    "artist": "Sabrina Carpenter, Stargate",
+    "release_date": "2018-09-28",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273cf350bbab36f521eb1837fd4",
+    "url": "https://open.spotify.com/album/3lcQDXWOoIxMH8gEQzeETn",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4AICAv06yCiu66i4TOPWgO",
+    "album": "Almost Love",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2018-08-24",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739ca7cb46036c57d536976606",
+    "url": "https://open.spotify.com/album/4AICAv06yCiu66i4TOPWgO",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "1wLllFkWq0hxBsCJ8hmCUd",
+    "album": "Almost Love (R3HAB Remix)",
+    "artist": "Sabrina Carpenter, R3HAB",
+    "release_date": "2018-07-13",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731c753399efbefc0054b0ab77",
+    "url": "https://open.spotify.com/album/1wLllFkWq0hxBsCJ8hmCUd",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6lA3p7IHcwFXjdy08QkGWS",
+    "album": "Alien (Acoustic)",
+    "artist": "Sabrina Carpenter, Jonas Blue",
+    "release_date": "2018-05-11",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27347286e15ecf78b73263b3dc6",
+    "url": "https://open.spotify.com/album/6lA3p7IHcwFXjdy08QkGWS",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0960lqbJIkGdYJ97UGY9My",
+    "album": "Alien (M-22 Remix)",
+    "artist": "Sabrina Carpenter, Jonas Blue, M-22",
+    "release_date": "2018-04-13",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739fc93f88f795ee13c874c85e",
+    "url": "https://open.spotify.com/album/0960lqbJIkGdYJ97UGY9My",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4mswsu3o2Bt2vYkXK9nKtC",
+    "album": "Alien (Dark Heart Remix)",
+    "artist": "Sabrina Carpenter, Jonas Blue, Dark Heart",
+    "release_date": "2018-04-13",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732afb8310298af44b86047d2b",
+    "url": "https://open.spotify.com/album/4mswsu3o2Bt2vYkXK9nKtC",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3LXVxMUrioKZcoheV2zT3u",
+    "album": "Alien",
+    "artist": "Sabrina Carpenter, Jonas Blue",
+    "release_date": "2018-03-16",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c573d0cec683a77243444dd0",
+    "url": "https://open.spotify.com/album/3LXVxMUrioKZcoheV2zT3u",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0PRCtct3H4TvrHdVBhKKxc",
+    "album": "First Love (Remixes)",
+    "artist": "Lost Kings, Sabrina Carpenter",
+    "release_date": "2017-12-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27325b8160b1f84f25ca507817e",
+    "url": "https://open.spotify.com/album/0PRCtct3H4TvrHdVBhKKxc",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "3oAvhwkc4AwieC8QHaEgVi",
+    "album": "Why (Acoustic)",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2017-11-03",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27353aceaec2efb22cc3e5c7303",
+    "url": "https://open.spotify.com/album/3oAvhwkc4AwieC8QHaEgVi",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "78ghmfG83tQUF43coZ6FiH",
+    "album": "Have Yourself a Merry Little Christmas",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2017-10-27",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27334b004af53aa15164112b5ea",
+    "url": "https://open.spotify.com/album/78ghmfG83tQUF43coZ6FiH",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "7syMmofF2t1xI0RFCtrSG9",
+    "album": "First Love",
+    "artist": "Lost Kings, Sabrina Carpenter",
+    "release_date": "2017-10-13",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273eeed72c68952f844f187e8f6",
+    "url": "https://open.spotify.com/album/7syMmofF2t1xI0RFCtrSG9",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "55QjSqhCofvsx559gCIMI7",
+    "album": "Why",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2017-07-07",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27360583dde7160b2e2f8d0e009",
+    "url": "https://open.spotify.com/album/55QjSqhCofvsx559gCIMI7",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3ztD4sCnTmP4ntaIoAJTwC",
+    "album": "Sign of the Times",
+    "artist": "Jasmine Thompson, Sabrina Carpenter",
+    "release_date": "2017-06-02",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273458837ec32961b485f3573e0",
+    "url": "https://open.spotify.com/album/3ztD4sCnTmP4ntaIoAJTwC",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2q3ZRR1ucbsr9XMcewLrU8",
+    "album": "Thumbs (Acoustic)",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2017-04-21",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27365b1617ecf5b2ee079bd7c6d",
+    "url": "https://open.spotify.com/album/2q3ZRR1ucbsr9XMcewLrU8",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3Es44cvPertgyqLdX7Shob",
+    "album": "A Dream Is a Wish Your Heart Makes/So This Is Love",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2016-08-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d7623db956d98a65880c33a8",
+    "url": "https://open.spotify.com/album/3Es44cvPertgyqLdX7Shob",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6BNXa8shuN3ANF4P0J2ElP",
+    "album": "Smoke and Fire",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2016-02-19",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27388239237faa20aa9aa7f5371",
+    "url": "https://open.spotify.com/album/6BNXa8shuN3ANF4P0J2ElP",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "637asSTw4aLXrTD4ZLHSMV",
+    "album": "Christmas the Whole Year Round",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2015-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27312a5667be1297558fda6c0e1",
+    "url": "https://open.spotify.com/album/637asSTw4aLXrTD4ZLHSMV",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3cfTPG7l0IBjJh7MVBqNdx",
+    "album": "Stand Out (From \"How to Build a Better Boy\")",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2014-08-12",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d1b827b30f924f0642c6157c",
+    "url": "https://open.spotify.com/album/3cfTPG7l0IBjJh7MVBqNdx",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2gfzrQkA6WzsX13kOhf3wU",
+    "album": "Take On the World (Theme Song From \"Girl Meets World\")",
+    "artist": "Rowan Blanchard, Sabrina Carpenter",
+    "release_date": "2014-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27397acaabc752a8c0a6f76486c",
+    "url": "https://open.spotify.com/album/2gfzrQkA6WzsX13kOhf3wU",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "7mLfPG1jF81sZHksUSi4sD",
+    "album": "Take On the World (From “Girl Meets World”/Summer Remix)",
+    "artist": "Rowan Blanchard, Sabrina Carpenter",
+    "release_date": "2014-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739ef0d1581cbee13847ee44a9",
+    "url": "https://open.spotify.com/album/7mLfPG1jF81sZHksUSi4sD",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "43yrS2rNyP9LGthAloWLZM",
+    "album": "Silver Nights",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2014-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e0ea1b1a2ea81dc5d3c197bc",
+    "url": "https://open.spotify.com/album/43yrS2rNyP9LGthAloWLZM",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0Ixya7yaDdNFbLpOCyEdvT",
+    "album": "I'll Be Home For Christmas",
+    "artist": "Ali Brustofski, Sabrina Carpenter, Danielle Lowe",
+    "release_date": "2012-12-19",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732c6ff044dec231cd3c1f0442",
+    "url": "https://open.spotify.com/album/0Ixya7yaDdNFbLpOCyEdvT",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6QNMhoV8V0u7cFuhhUBOn7",
+    "album": "The Life of a Showgirl + Acoustic Collection",
+    "artist": "Taylor Swift",
+    "release_date": "2025-11-07",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f756bdc2c11a985dc0c06d94",
+    "url": "https://open.spotify.com/album/6QNMhoV8V0u7cFuhhUBOn7",
+    "type": "album",
+    "total_tracks": 19
+  },
+  {
+    "id": "4a6NzYL1YHRUgx9e3YZI6I",
+    "album": "The Life of a Showgirl",
+    "artist": "Taylor Swift",
+    "release_date": "2025-10-03",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902",
+    "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I",
+    "type": "album",
+    "total_tracks": 12
+  },
+  {
+    "id": "4tFsJC9jQ0Qjj7HSExhAdm",
+    "album": "The Life of a Showgirl (Track by Track Version)",
+    "artist": "Taylor Swift",
+    "release_date": "2025-10-02",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737e0698e1398b6473de43f901",
+    "url": "https://open.spotify.com/album/4tFsJC9jQ0Qjj7HSExhAdm",
+    "type": "album",
+    "total_tracks": 26
+  },
+  {
+    "id": "5H7ixXZfsNMGbIE5OBSpcb",
+    "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+    "artist": "Taylor Swift",
+    "release_date": "2024-04-19",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa",
+    "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb",
+    "type": "album",
+    "total_tracks": 31
+  },
+  {
+    "id": "1Mo4aZ8pdj6L1jx8zSwJnt",
+    "album": "THE TORTURED POETS DEPARTMENT",
+    "artist": "Taylor Swift",
+    "release_date": "2024-04-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33",
+    "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt",
+    "type": "album",
+    "total_tracks": 16
+  },
+  {
+    "id": "1o59UpKw81iHR0HPiSkJR0",
+    "album": "1989 (Taylor's Version) [Deluxe]",
+    "artist": "Taylor Swift",
+    "release_date": "2023-10-27",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273dc2bacae1dca83d26e2b1949",
+    "url": "https://open.spotify.com/album/1o59UpKw81iHR0HPiSkJR0",
+    "type": "album",
+    "total_tracks": 22
+  },
+  {
+    "id": "64LU4c1nfjz1t4VnGhagcg",
+    "album": "1989 (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "release_date": "2023-10-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273904445d70d04eb24d6bb79ac",
+    "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg",
+    "type": "album",
+    "total_tracks": 21
+  },
+  {
+    "id": "5AEDGbliTTfjOB8TSm1sxt",
+    "album": "Speak Now (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "release_date": "2023-07-07",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481",
+    "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt",
+    "type": "album",
+    "total_tracks": 22
+  },
+  {
+    "id": "1fnJ7k0bllNfL1kVdNVW1A",
+    "album": "Midnights (The Til Dawn Edition)",
+    "artist": "Taylor Swift",
+    "release_date": "2023-05-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fa747621a53c8e2cc436dee0",
+    "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A",
+    "type": "album",
+    "total_tracks": 23
+  },
+  {
+    "id": "3lS1y25WAhcqJDATJK70Mq",
+    "album": "Midnights (3am Edition)",
+    "artist": "Taylor Swift",
+    "release_date": "2022-10-22",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e0b60c608586d88252b8fbc0",
+    "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq",
+    "type": "album",
+    "total_tracks": 20
+  },
+  {
+    "id": "151w1FgRZfnKZA9FEcg9Z3",
+    "album": "Midnights",
+    "artist": "Taylor Swift",
+    "release_date": "2022-10-21",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5",
+    "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3",
+    "type": "album",
+    "total_tracks": 13
+  },
+  {
+    "id": "6kZ42qRrzov54LcAk4onW9",
+    "album": "Red (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "release_date": "2021-11-12",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273318443aab3531a0558e79a4d",
+    "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9",
+    "type": "album",
+    "total_tracks": 30
+  },
+  {
+    "id": "4hDok0OAJd57SGIT8xuWJH",
+    "album": "Fearless (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "release_date": "2021-04-09",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a48964b5d9a3d6968ae3e0de",
+    "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH",
+    "type": "album",
+    "total_tracks": 26
+  },
+  {
+    "id": "6AORtDjduMM3bupSWzbTSG",
+    "album": "evermore (deluxe version)",
+    "artist": "Taylor Swift",
+    "release_date": "2021-01-07",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27390fd9741e1838115cd90b3b6",
+    "url": "https://open.spotify.com/album/6AORtDjduMM3bupSWzbTSG",
+    "type": "album",
+    "total_tracks": 17
+  },
+  {
+    "id": "2Xoteh7uEpea4TohMxjtaq",
+    "album": "evermore",
+    "artist": "Taylor Swift",
+    "release_date": "2020-12-11",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be",
+    "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq",
+    "type": "album",
+    "total_tracks": 15
+  },
+  {
+    "id": "0PZ7lAru5FDFHuirTkWe9Z",
+    "album": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
+    "artist": "Taylor Swift",
+    "release_date": "2020-11-25",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273045514e3ed4e1767a7c3ece5",
+    "url": "https://open.spotify.com/album/0PZ7lAru5FDFHuirTkWe9Z",
+    "type": "album",
+    "total_tracks": 34
+  },
+  {
+    "id": "1pzvBxYgT6OVwJLtHkrdQK",
+    "album": "folklore (deluxe version)",
+    "artist": "Taylor Swift",
+    "release_date": "2020-08-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c288028c2592f400dd0b9233",
+    "url": "https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK",
+    "type": "album",
+    "total_tracks": 17
+  },
+  {
+    "id": "2fenSS68JI1h4Fo296JfGr",
+    "album": "folklore",
+    "artist": "Taylor Swift",
+    "release_date": "2020-07-24",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc",
+    "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr",
+    "type": "album",
+    "total_tracks": 16
+  },
+  {
+    "id": "1NAmidJlEaVgA3MpcPFYGq",
+    "album": "Lover",
+    "artist": "Taylor Swift",
+    "release_date": "2019-08-23",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647",
+    "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq",
+    "type": "album",
+    "total_tracks": 18
+  },
+  {
+    "id": "1MHuZZrGT36cXLxAQ5cLP3",
+    "album": "Taylor Swift Karaoke: reputation",
+    "artist": "Taylor Swift",
+    "release_date": "2018-03-09",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27305fd6906725e3f12544c2d04",
+    "url": "https://open.spotify.com/album/1MHuZZrGT36cXLxAQ5cLP3",
+    "type": "album",
+    "total_tracks": 15
+  },
+  {
+    "id": "6DEjYFkNZh67HP7R9PSZvv",
+    "album": "reputation",
+    "artist": "Taylor Swift",
+    "release_date": "2017-11-10",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b",
+    "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv",
+    "type": "album",
+    "total_tracks": 15
+  },
+  {
+    "id": "1MPAXuTVL2Ej5x0JHiSPq8",
+    "album": "reputation Stadium Tour Surprise Song Playlist",
+    "artist": "Taylor Swift",
+    "release_date": "2017-11-09",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27363d77f99117b28af9f656918",
+    "url": "https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8",
+    "type": "album",
+    "total_tracks": 46
+  },
+  {
+    "id": "34OkZVpuzBa9y40DCy0LPR",
+    "album": "1989 (Deluxe Edition)",
+    "artist": "Taylor Swift",
+    "release_date": "2014-10-27",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273332d85510aba3eb28312cfb2",
+    "url": "https://open.spotify.com/album/34OkZVpuzBa9y40DCy0LPR",
+    "type": "album",
+    "total_tracks": 19
+  },
+  {
+    "id": "2QJmrSgbdM35R67eoGQo4j",
+    "album": "1989",
+    "artist": "Taylor Swift",
+    "release_date": "2014-10-27",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148",
+    "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j",
+    "type": "album",
+    "total_tracks": 13
+  },
+  {
+    "id": "1KlU96Hw9nlvqpBPlSqcTV",
+    "album": "Red (Deluxe Edition)",
+    "artist": "Taylor Swift",
+    "release_date": "2012-10-22",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a7613d346501b828b56a0bc3",
+    "url": "https://open.spotify.com/album/1KlU96Hw9nlvqpBPlSqcTV",
+    "type": "album",
+    "total_tracks": 22
+  },
+  {
+    "id": "1EoDsNmgTLtmwe1BDAVxV5",
+    "album": "Red",
+    "artist": "Taylor Swift",
+    "release_date": "2012-10-22",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5",
+    "url": "https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5",
+    "type": "album",
+    "total_tracks": 16
+  },
+  {
+    "id": "6fyR4wBPwLHKcRtxgd4sGh",
+    "album": "Speak Now World Tour Live",
+    "artist": "Taylor Swift",
+    "release_date": "2010-10-25",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273be4ec62353ee75fa11f6d6f7",
+    "url": "https://open.spotify.com/album/6fyR4wBPwLHKcRtxgd4sGh",
+    "type": "album",
+    "total_tracks": 16
+  },
+  {
+    "id": "5EpMjweRD573ASl7uNiHym",
+    "album": "Speak Now (Deluxe Edition)",
+    "artist": "Taylor Swift",
+    "release_date": "2010-10-25",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732e4ec3175d848eca7b76b07f",
+    "url": "https://open.spotify.com/album/5EpMjweRD573ASl7uNiHym",
+    "type": "album",
+    "total_tracks": 20
+  },
+  {
+    "id": "5MfAxS5zz8MlfROjGQVXhy",
+    "album": "Speak Now",
+    "artist": "Taylor Swift",
+    "release_date": "2010-10-25",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e11a75a2f2ff39cec788a015",
+    "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy",
+    "type": "album",
+    "total_tracks": 14
+  },
+  {
+    "id": "43OpbkiiIxJO8ktIB777Nn",
+    "album": "Fearless Platinum Edition",
+    "artist": "Taylor Swift",
+    "release_date": "2008-11-11",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27334e5885465afc8a497ac1b7e",
+    "url": "https://open.spotify.com/album/43OpbkiiIxJO8ktIB777Nn",
+    "type": "album",
+    "total_tracks": 19
+  },
+  {
+    "id": "2dqn5yOQWdyGwOpOIi9O4x",
+    "album": "Fearless",
+    "artist": "Taylor Swift",
+    "release_date": "2008-11-11",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc",
+    "url": "https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x",
+    "type": "album",
+    "total_tracks": 13
+  },
+  {
+    "id": "1ycoesYxIFymXWebfmz828",
+    "album": "Live From Clear Channel Stripped 2008",
+    "artist": "Taylor Swift",
+    "release_date": "2008-06-28",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c031e8322b3e8684536ed6d0",
+    "url": "https://open.spotify.com/album/1ycoesYxIFymXWebfmz828",
+    "type": "album",
+    "total_tracks": 8
+  },
+  {
+    "id": "7mzrIsaAjnXihW3InKjlC3",
+    "album": "Taylor Swift",
+    "artist": "Taylor Swift",
+    "release_date": "2006-10-24",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732f8c0fd72a80a93f8c53b96c",
+    "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3",
+    "type": "album",
+    "total_tracks": 15
+  },
+  {
+    "id": "264e9sevSUiitcQeM1y1C5",
+    "album": "The Fate of Ophelia (The Chainsmokers Remix)",
+    "artist": "Taylor Swift, The Chainsmokers",
+    "release_date": "2025-11-28",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735a9197396cb52631e73364b9",
+    "url": "https://open.spotify.com/album/264e9sevSUiitcQeM1y1C5",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "1Ed98OfVXz3CiJcupzuLTo",
+    "album": "The Fate of Ophelia (Loud Luxury Remix)",
+    "artist": "Taylor Swift, Loud Luxury",
+    "release_date": "2025-11-06",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27339b6ce4f493d53cfba83170a",
+    "url": "https://open.spotify.com/album/1Ed98OfVXz3CiJcupzuLTo",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "60pPcuYWCIAdcErvx2TLGB",
+    "album": "The Fate of Ophelia (Alone In My Tower Acoustic Version)",
+    "artist": "Taylor Swift",
+    "release_date": "2025-10-31",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273bc755429117cac056edd2bf7",
+    "url": "https://open.spotify.com/album/60pPcuYWCIAdcErvx2TLGB",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "3WNGsnTetig4bJbw2BMbK7",
+    "album": "I Can Do It With a Broken Heart (Dombresky Remix)",
+    "artist": "Taylor Swift, Dombresky",
+    "release_date": "2024-09-13",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f7dd2c5a8045a39fcecbfe8e",
+    "url": "https://open.spotify.com/album/3WNGsnTetig4bJbw2BMbK7",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "3yVqF1TOg60hk9ehgMj3na",
+    "album": "I Can Do It With a Broken Heart",
+    "artist": "Taylor Swift",
+    "release_date": "2024-07-16",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a8373ce028b3bd524eb0704a",
+    "url": "https://open.spotify.com/album/3yVqF1TOg60hk9ehgMj3na",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "5IYMYmX28qpI6OEnQhdazX",
+    "album": "Fortnight (Acoustic Version)",
+    "artist": "Taylor Swift, Cults",
+    "release_date": "2024-07-09",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273aecb5c6308cf8ce94199aea8",
+    "url": "https://open.spotify.com/album/5IYMYmX28qpI6OEnQhdazX",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "1agEHpWnELaZHWzcbGDCpu",
+    "album": "Fortnight (feat. Post Malone) [BLOND:ISH Remix]",
+    "artist": "Taylor Swift, BLOND:ISH",
+    "release_date": "2024-05-22",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e6b77b3eef9269d06e13fe17",
+    "url": "https://open.spotify.com/album/1agEHpWnELaZHWzcbGDCpu",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "5q3jthpn2h59P7pe2gmAl7",
+    "album": "You're Losing Me (From The Vault)",
+    "artist": "Taylor Swift",
+    "release_date": "2023-11-29",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734fe1868aa6838eb595f3673a",
+    "url": "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "12A1Byk8EpqzaHSw12nKyW",
+    "album": "The Cruelest Summer",
+    "artist": "Taylor Swift",
+    "release_date": "2023-10-19",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273905c0872bdf4e1787a6bb5da",
+    "url": "https://open.spotify.com/album/12A1Byk8EpqzaHSw12nKyW",
+    "type": "single",
+    "total_tracks": 4
+  },
+  {
+    "id": "6eKdbTio5viiwJ5FE5J8wU",
+    "album": "Lavender Haze (Acoustic Version)",
+    "artist": "Taylor Swift",
+    "release_date": "2023-03-31",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f233c37dddd971caf61515cf",
+    "url": "https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5LyzI39gkePgpHz38bEQIr",
+    "album": "Lavender Haze (Remixes)",
+    "artist": "Taylor Swift",
+    "release_date": "2023-03-03",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f7c84273e5c8ecb7594b4357",
+    "url": "https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr",
+    "type": "single",
+    "total_tracks": 5
+  },
+  {
+    "id": "5h060Rb0cfAGuny0L51zqV",
+    "album": "Lavender Haze (Felix Jaehn Remix)",
+    "artist": "Taylor Swift, Felix Jaehn",
+    "release_date": "2023-02-10",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27390212229c9230e320fe0ecd3",
+    "url": "https://open.spotify.com/album/5h060Rb0cfAGuny0L51zqV",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5vgWXUueeEU2labRz6TlNv",
+    "album": "Anti-Hero (Acoustic Version)",
+    "artist": "Taylor Swift",
+    "release_date": "2022-11-25",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730fc559ebbed8b0b100ad206c",
+    "url": "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "20wq0dFrgEhhulGXqnb4A6",
+    "album": "Anti-Hero (ILLENIUM Remix)",
+    "artist": "Taylor Swift, ILLENIUM",
+    "release_date": "2022-11-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273eb7289d463cd524a93b722c9",
+    "url": "https://open.spotify.com/album/20wq0dFrgEhhulGXqnb4A6",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "7irmI5g3OLC1gUXlxysOWt",
+    "album": "Anti-Hero (Remixes)",
+    "artist": "Taylor Swift",
+    "release_date": "2022-11-11",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739954fa9f0ba8534c3897b59d",
+    "url": "https://open.spotify.com/album/7irmI5g3OLC1gUXlxysOWt",
+    "type": "single",
+    "total_tracks": 5
+  },
+  {
+    "id": "18DEtVsRVQ4rxqnOIAPwRB",
+    "album": "Anti-Hero (feat. Bleachers)",
+    "artist": "Taylor Swift, Bleachers",
+    "release_date": "2022-11-08",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27350a1e24dde78df1d0ebc68ef",
+    "url": "https://open.spotify.com/album/18DEtVsRVQ4rxqnOIAPwRB",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "5Bwg2XxrjTlrNy6BC7KQZf",
+    "album": "Carolina (From The Motion Picture “Where The Crawdads Sing”)",
+    "artist": "Taylor Swift",
+    "release_date": "2022-06-24",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732c683c1b9fa1b711499408f7",
+    "url": "https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "2O1NYIBQCUobrL97A2Unk8",
+    "album": "All Too Well (10 Minute Version) (The Short Film)",
+    "artist": "Taylor Swift",
+    "release_date": "2022-06-11",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738e16c6e20dbed531a9006d58",
+    "url": "https://open.spotify.com/album/2O1NYIBQCUobrL97A2Unk8",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3In1CblWZswwun5MhOa10y",
+    "album": "This Love (Taylor’s Version)",
+    "artist": "Taylor Swift",
+    "release_date": "2022-05-06",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b7fe6e9265a84c3b6eb66d34",
+    "url": "https://open.spotify.com/album/3In1CblWZswwun5MhOa10y",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "0vkAczpFKCazPKaoLtnBr0",
+    "album": "The Joker And The Queen (feat. Taylor Swift)",
+    "artist": "Ed Sheeran, Taylor Swift",
+    "release_date": "2022-02-11",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27389aff4625958eac8d16535c7",
+    "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6d8IUfMwq7HGCnR2efXjdm",
+    "album": "Message In A Bottle (Fat Max G Remix) (Taylor’s Version)",
+    "artist": "Taylor Swift",
+    "release_date": "2022-01-21",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e53252ce47982a3d555a6b3b",
+    "url": "https://open.spotify.com/album/6d8IUfMwq7HGCnR2efXjdm",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "5f4rbgZJhYp4hgswKri00b",
+    "album": "Christmas Tree Farm (Old Timey Version)",
+    "artist": "Taylor Swift",
+    "release_date": "2021-11-22",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738538f5677d3ffe87257ac6c2",
+    "url": "https://open.spotify.com/album/5f4rbgZJhYp4hgswKri00b",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2jEFKhESvCLGpFP8KwpV2T",
+    "album": "Christmas Tree Farm",
+    "artist": "Taylor Swift",
+    "release_date": "2021-11-22",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733b86fc3447e27df6630ce0d8",
+    "url": "https://open.spotify.com/album/2jEFKhESvCLGpFP8KwpV2T",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "4qgs0gHJBgycj5SKqafFOB",
+    "album": "All Too Well (Sad Girl Autumn Version) - Recorded at Long Pond Studios",
+    "artist": "Taylor Swift",
+    "release_date": "2021-11-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27370f88b5ee2da16d3f3929fea",
+    "url": "https://open.spotify.com/album/4qgs0gHJBgycj5SKqafFOB",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1qEs8XpGGduMUF7jfAs5l3",
+    "album": "The More Red (Taylor’s Version) Chapter",
+    "artist": "Taylor Swift",
+    "release_date": "2021-11-12",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e508c5f5080d8a6c9db576df",
+    "url": "https://open.spotify.com/album/1qEs8XpGGduMUF7jfAs5l3",
+    "type": "single",
+    "total_tracks": 6
+  },
+  {
+    "id": "4eZKjfeKPSwd6NYsmlKjuR",
+    "album": "Safe & Sound (Taylor's Version)",
+    "artist": "Taylor Swift, Joy Williams, John Paul White",
+    "release_date": "2021-11-12",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734f719ea76d1b7048664b8fec",
+    "url": "https://open.spotify.com/album/4eZKjfeKPSwd6NYsmlKjuR",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6AeF9IkXFpHz5H3wUNX3L3",
+    "album": "Eyes Open (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "release_date": "2021-11-12",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d5cc403148a5161b4561cf61",
+    "url": "https://open.spotify.com/album/6AeF9IkXFpHz5H3wUNX3L3",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5hxKw2PurC0i1VVJMAntDU",
+    "album": "Wildest Dreams (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "release_date": "2021-09-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273eb10050f6fe8e2783a91a4b1",
+    "url": "https://open.spotify.com/album/5hxKw2PurC0i1VVJMAntDU",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "49yiYOnz2UyaNl72xvDERt",
+    "album": "Renegade (Pop Version)",
+    "artist": "Big Red Machine, Taylor Swift",
+    "release_date": "2021-08-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f0b56f34301a37d015cbb678",
+    "url": "https://open.spotify.com/album/49yiYOnz2UyaNl72xvDERt",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "40cMfQDrBCDmOaWZuNEmKq",
+    "album": "the lakes (original version)",
+    "artist": "Taylor Swift",
+    "release_date": "2021-07-24",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737d60bda8f85d66599c3fe851",
+    "url": "https://open.spotify.com/album/40cMfQDrBCDmOaWZuNEmKq",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5C41iVpK8HXCe3qlLL3I38",
+    "album": "willow (90's trend remix)",
+    "artist": "Taylor Swift",
+    "release_date": "2021-06-14",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27348ea2c0fbc6682c6d10d91aa",
+    "url": "https://open.spotify.com/album/5C41iVpK8HXCe3qlLL3I38",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6MMVrrxnNgGKg04ze1Pemw",
+    "album": "The More Fearless (Taylor’s Version) Chapter",
+    "artist": "Taylor Swift",
+    "release_date": "2021-04-09",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734beb2774135270cedfa28338",
+    "url": "https://open.spotify.com/album/6MMVrrxnNgGKg04ze1Pemw",
+    "type": "single",
+    "total_tracks": 5
+  },
+  {
+    "id": "6IZm7NfvWyXp952VF36Z5F",
+    "album": "If This Was A Movie (Taylor’s Version)",
+    "artist": "Taylor Swift",
+    "release_date": "2021-04-09",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273afe932e498abc159219bd2f3",
+    "url": "https://open.spotify.com/album/6IZm7NfvWyXp952VF36Z5F",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2MbdQUj7tAaaBBhUwJE3KG",
+    "album": "Mr. Perfectly Fine (Taylor’s Version) (From The Vault)",
+    "artist": "Taylor Swift",
+    "release_date": "2021-04-07",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27345731927c3396bb4c0276543",
+    "url": "https://open.spotify.com/album/2MbdQUj7tAaaBBhUwJE3KG",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5xd9LleY1wqsgKVTwLoXYI",
+    "album": "You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault)",
+    "artist": "Taylor Swift",
+    "release_date": "2021-03-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b7afb31fe699dae7c34eea1b",
+    "url": "https://open.spotify.com/album/5xd9LleY1wqsgKVTwLoXYI",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3x4gaf5IPyFQNrxZY07CXA",
+    "album": "Love Story (Taylor's Version) [Elvira Remix]",
+    "artist": "Taylor Swift",
+    "release_date": "2021-03-23",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f2d3584898505ffee9cacfde",
+    "url": "https://open.spotify.com/album/3x4gaf5IPyFQNrxZY07CXA",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4j2syEjl3h1To8KbRgvmJn",
+    "album": "Love Story (Taylor’s Version)",
+    "artist": "Taylor Swift",
+    "release_date": "2021-02-12",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273877ea8fa223c26f19aaef92d",
+    "url": "https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5lIglDJlPaEoqVl2hhi3O0",
+    "album": "Christmas Tree Farm (Recorded Live at the 2019 iHeartRadio Jingle Ball)",
+    "artist": "Taylor Swift",
+    "release_date": "2020-12-19",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273052249de01e68c82c8cf0858",
+    "url": "https://open.spotify.com/album/5lIglDJlPaEoqVl2hhi3O0",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6WzAiEDGTU7KmEyGwLpBXB",
+    "album": "willow (the witch collection)",
+    "artist": "Taylor Swift",
+    "release_date": "2020-12-16",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738312c50a6b9046d7dea5de12",
+    "url": "https://open.spotify.com/album/6WzAiEDGTU7KmEyGwLpBXB",
+    "type": "single",
+    "total_tracks": 4
+  },
+  {
+    "id": "5rZ2dHO8pco3A7cYToyvR0",
+    "album": "willow (moonlit witch version)",
+    "artist": "Taylor Swift",
+    "release_date": "2020-12-16",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ec07f0fc562d46804df394b4",
+    "url": "https://open.spotify.com/album/5rZ2dHO8pco3A7cYToyvR0",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "77wvNMSdOowJgpJx1kcKqc",
+    "album": "willow (lonely witch version)",
+    "artist": "Taylor Swift",
+    "release_date": "2020-12-15",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27373008bd7709ea6419803264f",
+    "url": "https://open.spotify.com/album/77wvNMSdOowJgpJx1kcKqc",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "23u5rTisTUAWuQxaDft11P",
+    "album": "willow [dancing witch version (Elvira remix)]",
+    "artist": "Taylor Swift",
+    "release_date": "2020-12-13",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e141efa4999ddb4b52512a7c",
+    "url": "https://open.spotify.com/album/23u5rTisTUAWuQxaDft11P",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5smqkYeHq9jKRbaXpy3TpL",
+    "album": "betty (Live from the 2020 Academy of Country Music Awards)",
+    "artist": "Taylor Swift",
+    "release_date": "2020-09-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736761ef4b8f9e8b2007f4d8c3",
+    "url": "https://open.spotify.com/album/5smqkYeHq9jKRbaXpy3TpL",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3kqqalY92DENp7FiztDOjH",
+    "album": "cardigan (cabin in candlelight version)",
+    "artist": "Taylor Swift",
+    "release_date": "2020-07-30",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27326ade10c17424417bd06f1d6",
+    "url": "https://open.spotify.com/album/3kqqalY92DENp7FiztDOjH",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4CF0YV0iNyfKoDt9jHbGj7",
+    "album": "Cornelia Street (Live From Paris)",
+    "artist": "Taylor Swift",
+    "release_date": "2020-05-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273eec5bf14fcf7c92ec8166027",
+    "url": "https://open.spotify.com/album/4CF0YV0iNyfKoDt9jHbGj7",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1w1zVWd1JmsqAgfCw117Ra",
+    "album": "You Need To Calm Down (Live From Paris)",
+    "artist": "Taylor Swift",
+    "release_date": "2020-05-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738546aa90c89127a13f02c73d",
+    "url": "https://open.spotify.com/album/1w1zVWd1JmsqAgfCw117Ra",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2A1msASmUbUdaZyeOxpbAD",
+    "album": "The Archer (Live From Paris)",
+    "artist": "Taylor Swift",
+    "release_date": "2020-05-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273cde19bd5377f06eb0bca3256",
+    "url": "https://open.spotify.com/album/2A1msASmUbUdaZyeOxpbAD",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1jIp7CChnwdj9zUCvPxzQ7",
+    "album": "ME! (Live From Paris)",
+    "artist": "Taylor Swift",
+    "release_date": "2020-05-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d8f29c3584e77996dd2f9950",
+    "url": "https://open.spotify.com/album/1jIp7CChnwdj9zUCvPxzQ7",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "7hvsmGyWH2kJS5X4E4t039",
+    "album": "Lover (Live From Paris)",
+    "artist": "Taylor Swift",
+    "release_date": "2020-05-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d29b148f84d0cd04ebdbe919",
+    "url": "https://open.spotify.com/album/7hvsmGyWH2kJS5X4E4t039",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5nDpkszadFMGW6ZSYM9Q1V",
+    "album": "Death By A Thousand Cuts (Live From Paris)",
+    "artist": "Taylor Swift",
+    "release_date": "2020-05-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737864c044d3fa4ac3814ca667",
+    "url": "https://open.spotify.com/album/5nDpkszadFMGW6ZSYM9Q1V",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2apcAEM6coXOMnHitrpRDk",
+    "album": "Daylight (Live From Paris)",
+    "artist": "Taylor Swift",
+    "release_date": "2020-05-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739638abe9135aed2817baf686",
+    "url": "https://open.spotify.com/album/2apcAEM6coXOMnHitrpRDk",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6l7iXnb2Y4yDR9zag3kckA",
+    "album": "The Man (Live From Paris)",
+    "artist": "Taylor Swift",
+    "release_date": "2020-02-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739a6d517fc78fb707bed067c2",
+    "url": "https://open.spotify.com/album/6l7iXnb2Y4yDR9zag3kckA",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5sZIjREu3s225wwqJkgsYV",
+    "album": "You're Not Sorry (CSI Remix)",
+    "artist": "Taylor Swift",
+    "release_date": "2020-02-07",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e8ae61ef7ff5c29b9f84828f",
+    "url": "https://open.spotify.com/album/5sZIjREu3s225wwqJkgsYV",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1iab5rfjNpGhoPlFzPyp4k",
+    "album": "Love Story (Pop Mix)",
+    "artist": "Taylor Swift",
+    "release_date": "2020-02-07",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d676631cbb331a320db57b64",
+    "url": "https://open.spotify.com/album/1iab5rfjNpGhoPlFzPyp4k",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2Z2KdJE0nGGu0qdWA45mza",
+    "album": "Love Story (Digital Dog Remix)",
+    "artist": "Taylor Swift",
+    "release_date": "2020-02-07",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c4d3acdcb5d53a2a3856786e",
+    "url": "https://open.spotify.com/album/2Z2KdJE0nGGu0qdWA45mza",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5LGsh3kexUfi3qkIIxb8vK",
+    "album": "Only The Young (Featured in Miss Americana)",
+    "artist": "Taylor Swift",
+    "release_date": "2020-01-31",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734aa13f6de271d8403a82e4a8",
+    "url": "https://open.spotify.com/album/5LGsh3kexUfi3qkIIxb8vK",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6Ou4LWiU2Vu2V7KdHzw9At",
+    "album": "Lover (First Dance Remix)",
+    "artist": "Taylor Swift",
+    "release_date": "2019-11-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273affd87a5167957a7adbf8e37",
+    "url": "https://open.spotify.com/album/6Ou4LWiU2Vu2V7KdHzw9At",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2UfvnX1YYeC2cExMQTMbXC",
+    "album": "Lover (Remix) [feat. Shawn Mendes]",
+    "artist": "Taylor Swift, Shawn Mendes",
+    "release_date": "2019-11-13",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27359457bdb1edb5c6417f3baa2",
+    "url": "https://open.spotify.com/album/2UfvnX1YYeC2cExMQTMbXC",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1Uauz6ql2dIPvIOH4JiuhD",
+    "album": "All Of The Girls You Loved Before",
+    "artist": "Taylor Swift",
+    "release_date": "2019-08-23",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738481d8f15859aa5bae75ee17",
+    "url": "https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "531nfs5NPsmkRC1LJb1cdj",
+    "album": "You Need To Calm Down (Clean Bandit Remix)",
+    "artist": "Taylor Swift, Clean Bandit",
+    "release_date": "2019-08-20",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739911942b4845c29ad3ad1224",
+    "url": "https://open.spotify.com/album/531nfs5NPsmkRC1LJb1cdj",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "7gU675c7KZ54MzEcL1O3px",
+    "album": "Delicate (Seeb Remix)",
+    "artist": "Taylor Swift, Seeb",
+    "release_date": "2018-06-08",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737809d9723e21370fe5926a7c",
+    "url": "https://open.spotify.com/album/7gU675c7KZ54MzEcL1O3px",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "7HEXQkjBNiZilJcTWXwLOA",
+    "album": "Delicate (Sawyr And Ryan Tedder Mix)",
+    "artist": "Taylor Swift, Sawyr, Ryan Tedder",
+    "release_date": "2018-05-25",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d8032a149cd86c879c9df63a",
+    "url": "https://open.spotify.com/album/7HEXQkjBNiZilJcTWXwLOA",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "74utZeTCeaXy01BjOddyv8",
+    "album": "Spotify Singles",
+    "artist": "Taylor Swift",
+    "release_date": "2018-04-13",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273bae8f095c58e137855f6d230",
+    "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "45fMDoh9dhhQicddIZzhKM",
+    "album": "...Ready For It? (BloodPop® Remix)",
+    "artist": "Taylor Swift, BloodPop®",
+    "release_date": "2017-12-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d41ccf8f43721c045a969300",
+    "url": "https://open.spotify.com/album/45fMDoh9dhhQicddIZzhKM",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1Tv3rrFNdXGtTeP1plX2xE",
+    "album": "Bad Blood",
+    "artist": "Taylor Swift",
+    "release_date": "2015-05-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737941dc6a3a023016acbe3d06",
+    "url": "https://open.spotify.com/album/1Tv3rrFNdXGtTeP1plX2xE",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4vkDxA22dFzObjOY1nnXPk",
+    "album": "Wildest Dreams (R3hab Remix)",
+    "artist": "Taylor Swift",
+    "release_date": "2015-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b8d01ff84dc531f884d90928",
+    "url": "https://open.spotify.com/album/4vkDxA22dFzObjOY1nnXPk",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "11e4xCXllbvk8pWc1cCas1",
+    "album": "Sweeter Than Fiction",
+    "artist": "Taylor Swift",
+    "release_date": "2013-10-21",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a8d770d373f0bb3f0818526c",
+    "url": "https://open.spotify.com/album/11e4xCXllbvk8pWc1cCas1",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "7CoqvPGCLHm7LbgH2Pz9aY",
+    "album": "Everything Has Changed (Remix)",
+    "artist": "Taylor Swift",
+    "release_date": "2013-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27365a688af20f457a034ce167d",
+    "url": "https://open.spotify.com/album/7CoqvPGCLHm7LbgH2Pz9aY",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4T5606j6qpkQrWlwbKPLOp",
+    "album": "Ronan",
+    "artist": "Taylor Swift",
+    "release_date": "2012-09-08",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273dbe6e4dd1b2a61e375a12c63",
+    "url": "https://open.spotify.com/album/4T5606j6qpkQrWlwbKPLOp",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2JK0T590oG0pJckY9HRniL",
+    "album": "Today Was A Fairytale",
+    "artist": "Taylor Swift",
+    "release_date": "2010-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27393b047c75268dd2847187910",
+    "url": "https://open.spotify.com/album/2JK0T590oG0pJckY9HRniL",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "7vzYp7FrKnTRoktBYsx9SF",
+    "album": "The Taylor Swift Holiday Collection",
+    "artist": "Taylor Swift",
+    "release_date": "2008-12-02",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732a0face7d69df61c20a6db2b",
+    "url": "https://open.spotify.com/album/7vzYp7FrKnTRoktBYsx9SF",
+    "type": "single",
+    "total_tracks": 6
+  },
+  {
+    "id": "6RmbogR9qpWasS4ZNa7cuK",
+    "album": "Love Sux (Deluxe)",
+    "artist": "Avril Lavigne",
+    "release_date": "2022-11-25",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ae6b206adcb3d283e9b327ca",
+    "url": "https://open.spotify.com/album/6RmbogR9qpWasS4ZNa7cuK",
+    "type": "album",
+    "total_tracks": 18
+  },
+  {
+    "id": "7JxjNcaooYpX0JcfNQMxqs",
+    "album": "Let Go (20th Anniversary Edition)",
+    "artist": "Avril Lavigne",
+    "release_date": "2022-06-03",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731e311ae42181e0351cc8aa94",
+    "url": "https://open.spotify.com/album/7JxjNcaooYpX0JcfNQMxqs",
+    "type": "album",
+    "total_tracks": 19
+  },
+  {
+    "id": "5pkQpJAHxy9BzwA7E1UWxF",
+    "album": "Love Sux",
+    "artist": "Avril Lavigne",
+    "release_date": "2022-02-25",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273dcb20af72a164e4b265cf89b",
+    "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF",
+    "type": "album",
+    "total_tracks": 12
+  },
+  {
+    "id": "3FrkD0TTaXBuW19vuEhDGz",
+    "album": "Head Above Water",
+    "artist": "Avril Lavigne",
+    "release_date": "2019-02-15",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732104ec6803bdd7acb20309bf",
+    "url": "https://open.spotify.com/album/3FrkD0TTaXBuW19vuEhDGz",
+    "type": "album",
+    "total_tracks": 12
+  },
+  {
+    "id": "7qjA5gbagHWVbqKUgVt49l",
+    "album": "Avril Lavigne (Expanded Edition)",
+    "artist": "Avril Lavigne",
+    "release_date": "2013-11-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273817da73d6641ddbcc0a50363",
+    "url": "https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l",
+    "type": "album",
+    "total_tracks": 16
+  },
+  {
+    "id": "1COPJyU2PpM2Itcob3vhFF",
+    "album": "Goodbye Lullaby (Expanded Edition)",
+    "artist": "Avril Lavigne",
+    "release_date": "2011-03-08",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27372c9f7a7c75eba39726106a6",
+    "url": "https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF",
+    "type": "album",
+    "total_tracks": 21
+  },
+  {
+    "id": "6lqE05fiHWJVYYdMVJNj38",
+    "album": "The Best Damn Thing (Expanded Edition)",
+    "artist": "Avril Lavigne",
+    "release_date": "2007-04-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273476cdf5837ae39eee951cc15",
+    "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38",
+    "type": "album",
+    "total_tracks": 17
+  },
+  {
+    "id": "7851Vsjv3apS52sXUik6iF",
+    "album": "Under My Skin",
+    "artist": "Avril Lavigne",
+    "release_date": "2004",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739c291af4bf0c3071847f2b80",
+    "url": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF",
+    "type": "album",
+    "total_tracks": 13
+  },
+  {
+    "id": "3zXjR3y2dUWklKmmp6lEhy",
+    "album": "Let Go",
+    "artist": "Avril Lavigne",
+    "release_date": "2002-06-04",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f7ec724fbf97a30869d06240",
+    "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy",
+    "type": "album",
+    "total_tracks": 13
+  },
+  {
+    "id": "3CwY3BM1DVO7G78p5rlcai",
+    "album": "You Broke Me Too (feat. Avril Lavigne)",
+    "artist": "Yellowcard, Avril Lavigne",
+    "release_date": "2025-10-10",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736ce55eb042774b131dec8d78",
+    "url": "https://open.spotify.com/album/3CwY3BM1DVO7G78p5rlcai",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4qiHuolMaUIhdu27VJpntV",
+    "album": "Young & Dumb (feat. Simple Plan)",
+    "artist": "Avril Lavigne, Simple Plan",
+    "release_date": "2025-05-09",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d7a751f0ad89ebbf27a9b9a5",
+    "url": "https://open.spotify.com/album/4qiHuolMaUIhdu27VJpntV",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "54XHsP7QjQy7MPPGdq5Npt",
+    "album": "77 (feat. Avril Lavigne)",
+    "artist": "Billy Idol, Avril Lavigne",
+    "release_date": "2025-04-22",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738db3a45ab79071257b0abef6",
+    "url": "https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "2KDbfU7ZAp8kOdFYZZadim",
+    "album": "Can You Die From a Broken Heart (feat. Avril Lavigne)",
+    "artist": "Nate Smith, Avril Lavigne",
+    "release_date": "2024-09-30",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d20c9548dbb40ea1d11a03ae",
+    "url": "https://open.spotify.com/album/2KDbfU7ZAp8kOdFYZZadim",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1tEc7o0AbTqnl3RA873yHK",
+    "album": "Bulletproof (feat. Avril Lavigne)",
+    "artist": "Nate Smith, Avril Lavigne",
+    "release_date": "2024-05-16",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b10948203f22026424cc7d08",
+    "url": "https://open.spotify.com/album/1tEc7o0AbTqnl3RA873yHK",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "39fNnKFUvJIyEyItTOoc9Z",
+    "album": "Fake As Hell (with Avril Lavigne)",
+    "artist": "All Time Low, Avril Lavigne",
+    "release_date": "2023-09-15",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fc15e9f9cc119676339ea396",
+    "url": "https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5CcsKjHTw6EnwOvVbuXGBw",
+    "album": "Eyes Wide Shut (feat. Travis Barker) [Culture Code Remix]",
+    "artist": "ILLENIUM, Avril Lavigne, Culture Code",
+    "release_date": "2023-07-21",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c903b37f23955c73b513e699",
+    "url": "https://open.spotify.com/album/5CcsKjHTw6EnwOvVbuXGBw",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "4Bt8V9IUywrDQCqcJWO3Ko",
+    "album": "Eyes Wide Shut (feat. Travis Barker) [Sickick Remix]",
+    "artist": "ILLENIUM, Avril Lavigne, Sickick",
+    "release_date": "2023-07-14",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736df7ae4d2e35a4df3c8dbd6e",
+    "url": "https://open.spotify.com/album/4Bt8V9IUywrDQCqcJWO3Ko",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "7hbt4WhRMmds5FalxeNduA",
+    "album": "Eyes Wide Shut",
+    "artist": "ILLENIUM, Avril Lavigne, Travis Barker",
+    "release_date": "2023-04-27",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739e558c693dca906f7b38ce3a",
+    "url": "https://open.spotify.com/album/7hbt4WhRMmds5FalxeNduA",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "7kpLyQOiE4j9bNCZhKvWBr",
+    "album": "I’m a Mess (with YUNGBLUD)",
+    "artist": "Avril Lavigne, YUNGBLUD",
+    "release_date": "2022-11-03",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27339c1f773f83365d4dae1fd74",
+    "url": "https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr",
+    "type": "single",
+    "total_tracks": 4
+  },
+  {
+    "id": "23GAyvm3WUVwTIjXDh9JgN",
+    "album": "Bois Lie (feat. Machine Gun Kelly) [Acoustic]",
+    "artist": "Avril Lavigne",
+    "release_date": "2022-08-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27331d97a3a8995847ba3fe5e08",
+    "url": "https://open.spotify.com/album/23GAyvm3WUVwTIjXDh9JgN",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "79OPMp6YweXMi4whs0eJIV",
+    "album": "Spotify Singles",
+    "artist": "Avril Lavigne",
+    "release_date": "2022-06-24",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273dee7448eabc9cc917158d471",
+    "url": "https://open.spotify.com/album/79OPMp6YweXMi4whs0eJIV",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "65HfGumTbHNFANxNu07PlC",
+    "album": "Bite Me (Acoustic)",
+    "artist": "Avril Lavigne",
+    "release_date": "2021-12-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733cf007c67b081b61ef8c6780",
+    "url": "https://open.spotify.com/album/65HfGumTbHNFANxNu07PlC",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "4XypbOeFq7qfgR6EugsrwH",
+    "album": "Flames (feat. Avril Lavigne) [Acoustic]",
+    "artist": "MOD SUN, Avril Lavigne",
+    "release_date": "2021-04-16",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27373b8dc78845de7f39432bd19",
+    "url": "https://open.spotify.com/album/4XypbOeFq7qfgR6EugsrwH",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3woElJWz4XHbRXbKm9kKgH",
+    "album": "Flames (feat. Avril Lavigne)",
+    "artist": "MOD SUN, Avril Lavigne",
+    "release_date": "2021-01-08",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ce701dcde633d3259917ec29",
+    "url": "https://open.spotify.com/album/3woElJWz4XHbRXbKm9kKgH",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "7tfebDARMVij3EgBLH4e8y",
+    "album": "We Are Warriors",
+    "artist": "Avril Lavigne",
+    "release_date": "2020-04-24",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738e826eba667d79236b4d542c",
+    "url": "https://open.spotify.com/album/7tfebDARMVij3EgBLH4e8y",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3xShFsByOTAXRTZWaS49hA",
+    "album": "I Fell In Love With the Devil (Radio Edit)",
+    "artist": "Avril Lavigne",
+    "release_date": "2019-06-28",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273eb958c70df5c96d7530ae0b1",
+    "url": "https://open.spotify.com/album/3xShFsByOTAXRTZWaS49hA",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2X9RnWINesrptLqIluNlfx",
+    "album": "Head Above Water (feat. We The Kings)",
+    "artist": "Avril Lavigne",
+    "release_date": "2018-09-19",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27363df1342b22c0370850bad59",
+    "url": "https://open.spotify.com/album/2X9RnWINesrptLqIluNlfx",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "32nZJWElHDB2fZmAbg9D3S",
+    "album": "Baby It's Cold Outside",
+    "artist": "Avril Lavigne, Jonny Blu",
+    "release_date": "2017-11-22",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273576581ddb76907080194463e",
+    "url": "https://open.spotify.com/album/32nZJWElHDB2fZmAbg9D3S",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "219up2siAbatGbtStPCIBf",
+    "album": "Fly",
+    "artist": "Avril Lavigne",
+    "release_date": "2015-04-16",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27308b2458b4cf6ada68a09c262",
+    "url": "https://open.spotify.com/album/219up2siAbatGbtStPCIBf",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1WLodErijfuAce7p1SlBUc",
+    "album": "Wish You Were Here",
+    "artist": "Avril Lavigne",
+    "release_date": "2011-09-09",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27317bc002367b006c2bce1c4a7",
+    "url": "https://open.spotify.com/album/1WLodErijfuAce7p1SlBUc",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "4jBxaFNuqq4qfI7cYLCHun",
+    "album": "Alice",
+    "artist": "Avril Lavigne",
+    "release_date": "2010-01-29",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d7e882779bf2693beeb0f4b1",
+    "url": "https://open.spotify.com/album/4jBxaFNuqq4qfI7cYLCHun",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0wp3BhIcvD1DjOO1PkR05w",
+    "album": "Control Room - Live EP",
+    "artist": "Avril Lavigne",
+    "release_date": "2008-05-14",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27396b836981aad5aa29bd6758d",
+    "url": "https://open.spotify.com/album/0wp3BhIcvD1DjOO1PkR05w",
+    "type": "single",
+    "total_tracks": 6
+  },
+  {
+    "id": "6WRoFDc1f69ilu8DLaNOsS",
+    "album": "Girlfriend EP",
+    "artist": "Avril Lavigne",
+    "release_date": "2007-02-27",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ef2bfca7e7ab6648abbaef36",
+    "url": "https://open.spotify.com/album/6WRoFDc1f69ilu8DLaNOsS",
+    "type": "single",
+    "total_tracks": 25
+  },
+  {
+    "id": "3lcqYhgY599FdXetGtNElV",
+    "album": "Nobody's Home",
+    "artist": "Avril Lavigne",
+    "release_date": "2004-11-04",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27301eb05f6ed3e145378912ab4",
+    "url": "https://open.spotify.com/album/3lcqYhgY599FdXetGtNElV",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "3FPeD9znYeQihGhVIOqg3e",
+    "album": "My Happy Ending",
+    "artist": "Avril Lavigne",
+    "release_date": "2004-06-16",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e89c02413e483601ccd338c5",
+    "url": "https://open.spotify.com/album/3FPeD9znYeQihGhVIOqg3e",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "5GCe6qAhhmsLfo2gkVA7lX",
+    "album": "Avril Live: Try To Shut Me Up",
+    "artist": "Avril Lavigne",
+    "release_date": "2003-12-31",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273cb71dc660d20dfeeac54a84d",
+    "url": "https://open.spotify.com/album/5GCe6qAhhmsLfo2gkVA7lX",
+    "type": "single",
+    "total_tracks": 5
+  },
+  {
+    "id": "6MIcgqSnsO4BVc857AfZPi",
+    "album": "My World EP",
+    "artist": "Avril Lavigne",
+    "release_date": "2003-11-03",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738f4986d81b97683e21c41e84",
+    "url": "https://open.spotify.com/album/6MIcgqSnsO4BVc857AfZPi",
+    "type": "single",
+    "total_tracks": 6
   }
 ]
