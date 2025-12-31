@@ -16,6 +16,9 @@ jobs:
           node-version: 18
 
       - run: node scripts/update.js
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
 
       - run: |
           git config user.name "github-actions"
