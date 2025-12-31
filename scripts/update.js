@@ -42,7 +42,7 @@ async function getSpotifyToken() {
 // Fetch albums for one artist
 async function fetchAlbumsForArtist(artistId, token) {
   let albums = [];
-  let url = `https://api.spotify.com/v1/artists/${artistId}/albums?limit=50&include_groups=album,single,appears_on,compilation`;
+  let url = `https://api.spotify.com/v1/artists/${artistId}/albums?limit=50&include_groups=album,single`;
 
   while (url) {
     const resp = await fetch(url, {
@@ -52,16 +52,20 @@ async function fetchAlbumsForArtist(artistId, token) {
 
     if (data.items) {
       albums.push(
-        ...data.items.map((a) => ({
-          id: a.id,
-          album: a.name,
-          artist: a.artists.map(ar => ar.name).join(", "),
-          release_date: a.release_date,
-          cover: a.images[0]?.url || "",
-          url: a.external_urls.spotify,
-          type: a.album_type,
-          total_tracks: a.total_tracks,
-        }))
+        ...data.items
+          .filter((a) =>
+            a.artists.some((ar) => ar.id === artistId) // only albums where artist is on the album
+          )
+          .map((a) => ({
+            id: a.id,
+            album: a.name,
+            artist: a.artists.map((ar) => ar.name).join(", "),
+            release_date: a.release_date,
+            cover: a.images[0]?.url || "",
+            url: a.external_urls.spotify,
+            type: a.album_type,
+            total_tracks: a.total_tracks,
+          }))
       );
     }
 
