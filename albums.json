@@ -2,7 +2,7 @@
   {
     "id": "1Xyo4u8uXC1ZmMpatF05PJ",
     "album": "Dawn FM",
-    "artist": "The Weeknd",      
+    "artist": "The Weeknd",
     "release_date": "2022-01-07",
     "cover": "https://i.scdn.co/image/abc123",
     "url": "https://open.spotify.com/album/1Xyo4u8uXC1ZmMpatF05PJ",
@@ -19,4 +19,32 @@
     "type": "album",
     "total_tracks": 12
   },
+  {
+    "id": "3xyzABC123track",
+    "album": "Single Name Example",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2025-11-01",
+    "cover": "https://i.scdn.co/image/single789",
+    "url": "https://open.spotify.com/track/3xyzABC123track",
+    "type": "single"
+  },
+  {
+    "id": "2LMNOP456EP",
+    "album": "Short n' Sweet (Deluxe)",
+    "artist": "Sabrina Carpenter",
+    "release_date": "2024-09-12",
+    "cover": "https://i.scdn.co/image/ep123",
+    "url": "https://open.spotify.com/album/2LMNOP456EP",
+    "type": "EP",
+    "total_tracks": 8
+  },
+  {
+    "id": "7ABCD789collab",
+    "album": "Collab Song Example",
+    "artist": "The Weeknd",
+    "release_date": "2023-08-21",
+    "cover": "https://i.scdn.co/image/collab456",
+    "url": "https://open.spotify.com/track/7ABCD789collab",
+    "type": "single"
+  }
 ]
