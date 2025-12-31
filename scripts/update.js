@@ -1,11 +1,11 @@
-// scripts/update.js (CommonJS)
+// scripts/update.js
 const fs = require("fs");
-const fetch = require("node-fetch");
+const fetch = require("node-fetch"); // make sure v2 is installed
 require("dotenv").config();
 
 /* ---------- Config ---------- */
-const BATCH_SIZE = 1000;          // number of artists per batch
-const BATCHES_PER_RUN = 5;        // number of batches to process per workflow run
+const BATCH_SIZE = 1000;        // artists per batch
+const BATCHES_PER_RUN = 5;      // batches per workflow run
 const ARTISTS_FILE = "artists.json";
 const ALBUMS_FILE = "albums.json";
 const META_FILE = "meta.json";
@@ -134,7 +134,7 @@ async function run() {
   meta.artists_checked_this_run = totalArtistsProcessed;
   fs.writeFileSync(META_FILE, JSON.stringify(meta, null, 2));
 
-  console.log(`Run complete. Total albums in albums.json: ${uniqueAlbums.length}`);
+  console.log(`Run complete. Total albums: ${uniqueAlbums.length}`);
   console.log(`Artists processed this run: ${totalArtistsProcessed}`);
 }
 
