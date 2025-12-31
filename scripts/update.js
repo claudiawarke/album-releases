@@ -132,6 +132,19 @@ async function run() {
 
   console.log(`Run complete. Total albums: ${uniqueAlbums.length}`);
   console.log(`Artists processed this run: ${totalArtistsProcessed}`);
+
+  // Commit updated albums.json and meta.json to GitHub
+  const { execSync } = require("child_process");
+  
+  execSync("git config user.name 'github-actions'", { stdio: "inherit" });
+  execSync("git config user.email 'actions@github.com'", { stdio: "inherit" });
+  execSync("git add albums.json meta.json", { stdio: "inherit" });
+  execSync(
+    `git commit -m "Update albums.json - ${new Date().toISOString().slice(0, 10)}"`,
+    { stdio: "inherit" }
+  );
+  execSync("git push", { stdio: "inherit" });
+
 }
 
 run();
