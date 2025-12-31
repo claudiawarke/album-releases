@@ -1,3 +1,6 @@
+console.log("CLIENT_ID exists:", !!process.env.SPOTIFY_CLIENT_ID);
+console.log("CLIENT_SECRET exists:", !!process.env.SPOTIFY_CLIENT_SECRET);
+
 const fs = require("fs");
 
 const CLIENT_ID = process.env.SPOTIFY_CLIENT_ID;
