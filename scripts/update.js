@@ -1,10 +1,11 @@
-console.log("CLIENT_ID exists:", !!process.env.SPOTIFY_CLIENT_ID);
-console.log("CLIENT_SECRET exists:", !!process.env.SPOTIFY_CLIENT_SECRET);
-
 const fs = require("fs");
 
 const CLIENT_ID = process.env.SPOTIFY_CLIENT_ID;
 const CLIENT_SECRET = process.env.SPOTIFY_CLIENT_SECRET;
+
+env:
+  CLIENT_ID: ${{ secrets.CLIENT_ID }}
+  CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
 
 async function getToken() {
   const res = await fetch("https://accounts.spotify.com/api/token", {
