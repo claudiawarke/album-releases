@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": "3OxfaVgvTxUTy7276t7SPU",
+    "album": "Hurry Up Tomorrow",
+    "artist": "The Weeknd",
+    "release_date": "2025-01-31",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273982320da137d0de34410df61",
+    "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+  },
+  {
+    "id": "35dut3ICqF3NEDkjxfzJJ1",
+    "album": "Starboy (Deluxe)",
+    "artist": "The Weeknd",
+    "release_date": "2023-03-14",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738ad8f5243d6534e03b656c8b",
+    "url": "https://open.spotify.com/album/35dut3ICqF3NEDkjxfzJJ1"
+  },
+  {
+    "id": "1OARrXe5sB0gyy3MhQ8h92",
+    "album": "Live At SoFi Stadium",
+    "artist": "The Weeknd",
+    "release_date": "2023-03-03",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273308f9319a3d6f6737f43b3fc",
+    "url": "https://open.spotify.com/album/1OARrXe5sB0gyy3MhQ8h92"
+  },
+  {
+    "id": "12INlMsFtBjyehNnawBv36",
+    "album": "Dawn FM (Alternate World)",
+    "artist": "The Weeknd",
+    "release_date": "2022-01-07",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ade87e5f9c3764f0a1e5df64",
+    "url": "https://open.spotify.com/album/12INlMsFtBjyehNnawBv36"
+  },
+  {
+    "id": "2nLOHgzXzwFEpl62zAgCEC",
+    "album": "Dawn FM",
+    "artist": "The Weeknd",
+    "release_date": "2022-01-06",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d",
+    "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+  }
+]
