@@ -3058,5 +3058,4665 @@
     "url": "https://open.spotify.com/album/7qAJpYeABXN9ZV5wOOX59k",
     "type": "single",
     "total_tracks": 1
+  },
+  {
+    "id": "0Q0rJ81u7O4EFCpqkcwJJ2",
+    "album": "Silence Between Songs",
+    "artist": "Madison Beer",
+    "release_date": "2023-09-15",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273cce741931c17fe160736ca2a",
+    "url": "https://open.spotify.com/album/0Q0rJ81u7O4EFCpqkcwJJ2",
+    "type": "album",
+    "total_tracks": 14
+  },
+  {
+    "id": "1TKYO9znkrY14VayHze05r",
+    "album": "Life Support",
+    "artist": "Madison Beer",
+    "release_date": "2021-02-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27395c70288d24b6a9683d4c63a",
+    "url": "https://open.spotify.com/album/1TKYO9znkrY14VayHze05r",
+    "type": "album",
+    "total_tracks": 17
+  },
+  {
+    "id": "3PYA0lKJUKoKhYkVSLDyDb",
+    "album": "As She Pleases",
+    "artist": "Madison Beer",
+    "release_date": "2018-02-02",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273adc16f7df1d7a810a859cd86",
+    "url": "https://open.spotify.com/album/3PYA0lKJUKoKhYkVSLDyDb",
+    "type": "album",
+    "total_tracks": 7
+  },
+  {
+    "id": "6lR8zt2MKz7xdqBQqxZ5yR",
+    "album": "bittersweet",
+    "artist": "Madison Beer",
+    "release_date": "2025-10-10",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732fb3d517253228abf2468f74",
+    "url": "https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "4arOnJKD3OYnk72Q1i7PEL",
+    "album": "yes baby",
+    "artist": "Madison Beer",
+    "release_date": "2025-09-19",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731e0cd44b64047c750972772f",
+    "url": "https://open.spotify.com/album/4arOnJKD3OYnk72Q1i7PEL",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4OFZVvqlg84Czl7td7XddK",
+    "album": "15 MINUTES",
+    "artist": "Madison Beer",
+    "release_date": "2024-07-19",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737201aab69fc55d3617d3b4ec",
+    "url": "https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "62g7jm7YqkuQOhfhFpDQXC",
+    "album": "make you mine",
+    "artist": "Madison Beer",
+    "release_date": "2024-02-09",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e0fbdeed0ac9e8daca2d9bd1",
+    "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1H231df9UtLpu609triLDa",
+    "album": "Spinnin",
+    "artist": "Madison Beer",
+    "release_date": "2023-08-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739b03ca90b4a7108b9ca71782",
+    "url": "https://open.spotify.com/album/1H231df9UtLpu609triLDa",
+    "type": "single",
+    "total_tracks": 5
+  },
+  {
+    "id": "78xZ4lXCK9YVBoWNju8cu1",
+    "album": "Home To Another One (Timbaland Remix)",
+    "artist": "Madison Beer, Timbaland",
+    "release_date": "2023-06-30",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f2789cb72109a21b42f6fcc1",
+    "url": "https://open.spotify.com/album/78xZ4lXCK9YVBoWNju8cu1",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "1BMDuG9g9KE5GgrvM17jp9",
+    "album": "Home To Another One (Acoustic)",
+    "artist": "Madison Beer",
+    "release_date": "2023-06-23",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732e56a3e15bd6e09f3b8f78d5",
+    "url": "https://open.spotify.com/album/1BMDuG9g9KE5GgrvM17jp9",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "6T4kLqRny6Fe3CgOP6ahbt",
+    "album": "Home To Another One",
+    "artist": "Madison Beer",
+    "release_date": "2023-06-02",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27368e4badd13533ee6e4bfe278",
+    "url": "https://open.spotify.com/album/6T4kLqRny6Fe3CgOP6ahbt",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "78MbgfbZml1ZYJ0AUJB1HR",
+    "album": "Showed Me (How I Fell In Love With You)",
+    "artist": "Madison Beer",
+    "release_date": "2022-10-13",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27326192c910a51710d55616099",
+    "url": "https://open.spotify.com/album/78MbgfbZml1ZYJ0AUJB1HR",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "7rH6ZOH1ZnbYqUfXEJW3xP",
+    "album": "Dangerous",
+    "artist": "Madison Beer",
+    "release_date": "2022-08-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ec0f83f48b81e9f3360db09c",
+    "url": "https://open.spotify.com/album/7rH6ZOH1ZnbYqUfXEJW3xP",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4CMGvkAxokAjuV68nGzMuA",
+    "album": "I Have Never Felt More Alive (from the feature film \"Fall\")",
+    "artist": "Madison Beer",
+    "release_date": "2022-07-22",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273cd19099929929a42586dcadf",
+    "url": "https://open.spotify.com/album/4CMGvkAxokAjuV68nGzMuA",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5lVImnUah94yoxXy2H1qo7",
+    "album": "Reckless",
+    "artist": "Madison Beer",
+    "release_date": "2021-06-04",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273dae725bad5cb4ec4eba31c3a",
+    "url": "https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "57LmwffyQvnFHRHzbitsEO",
+    "album": "Carried Away (Love To Love) (with Madison Beer)",
+    "artist": "Surf Mesa, Madison Beer",
+    "release_date": "2021-02-12",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27310ee2e5e29b10edb94964701",
+    "url": "https://open.spotify.com/album/57LmwffyQvnFHRHzbitsEO",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5y0HdjRMItB3GQEr8EStYp",
+    "album": "BOYSHIT",
+    "artist": "Madison Beer",
+    "release_date": "2020-12-11",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b607cbee819047fc2e5c3ba4",
+    "url": "https://open.spotify.com/album/5y0HdjRMItB3GQEr8EStYp",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5v3ALaT37zXgVHr3MZTVVx",
+    "album": "MORE",
+    "artist": "K/DA, Madison Beer, i-dle",
+    "release_date": "2020-10-28",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735374c2564afb860c65f4d01d",
+    "url": "https://open.spotify.com/album/5v3ALaT37zXgVHr3MZTVVx",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "15MdpxnwVWx1DGHaWNSxOT",
+    "album": "Baby (Jonas Blue Remix)",
+    "artist": "Madison Beer, Jonas Blue",
+    "release_date": "2020-10-16",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27318112ed4d61ed8fb45b1e1e0",
+    "url": "https://open.spotify.com/album/15MdpxnwVWx1DGHaWNSxOT",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3VXpKmJEZteOGzNCp0ijy6",
+    "album": "Baby (Syn Cole Remix)",
+    "artist": "Madison Beer",
+    "release_date": "2020-10-02",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273670b792de7ef9c3fcdf09bd2",
+    "url": "https://open.spotify.com/album/3VXpKmJEZteOGzNCp0ijy6",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1w9947gaSEqv6sJcxUKmtI",
+    "album": "Baby",
+    "artist": "Madison Beer",
+    "release_date": "2020-08-21",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732231abb3b9c86b22b887d198",
+    "url": "https://open.spotify.com/album/1w9947gaSEqv6sJcxUKmtI",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "52S0DGimdMtS40jtnjRSGn",
+    "album": "Selfish (Alan Walker Remix)",
+    "artist": "Madison Beer, Alan Walker",
+    "release_date": "2020-05-29",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737fa47a234af48bbf34bfd089",
+    "url": "https://open.spotify.com/album/52S0DGimdMtS40jtnjRSGn",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2MyIV1UB0a7X7m5ZPS2bIl",
+    "album": "Stained Glass",
+    "artist": "Madison Beer",
+    "release_date": "2020-04-03",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ea6e1fd7adf2fb8db04f200a",
+    "url": "https://open.spotify.com/album/2MyIV1UB0a7X7m5ZPS2bIl",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5oGJKFb3M2At4rwLBDFlTP",
+    "album": "Selfish",
+    "artist": "Madison Beer",
+    "release_date": "2020-02-14",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273603d62ea5d5919e8920ba450",
+    "url": "https://open.spotify.com/album/5oGJKFb3M2At4rwLBDFlTP",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1VJJaEzHs2SHX4ZobSFAVh",
+    "album": "Good In Goodbye",
+    "artist": "Madison Beer",
+    "release_date": "2020-01-31",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273718f5724ef966438594ea2ed",
+    "url": "https://open.spotify.com/album/1VJJaEzHs2SHX4ZobSFAVh",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4YkrIoFtO4okaIheg9VEPF",
+    "album": "All Day And Night (Jax Jones & Martin Solveig Present Europa / Axwell Remix)",
+    "artist": "Jax Jones, Martin Solveig, Madison Beer",
+    "release_date": "2019-06-28",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731d25418309fb383622058385",
+    "url": "https://open.spotify.com/album/4YkrIoFtO4okaIheg9VEPF",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3GBOhyIQRKTS8GiBgDaQLg",
+    "album": "Dear Society",
+    "artist": "Madison Beer",
+    "release_date": "2019-05-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27323c03d31828b719a9926e410",
+    "url": "https://open.spotify.com/album/3GBOhyIQRKTS8GiBgDaQLg",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1VQjtx21AAQnQe442bJssW",
+    "album": "All Day And Night (Jax Jones & Martin Solveig Present Europa)",
+    "artist": "Jax Jones, Martin Solveig, Madison Beer",
+    "release_date": "2019-03-28",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a382ac3d6d192d24f0858672",
+    "url": "https://open.spotify.com/album/1VQjtx21AAQnQe442bJssW",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5b00KV4OG63kqoqzsdwhHk",
+    "album": "Hurts Like Hell (Feenixpawl Remix)",
+    "artist": "Madison Beer, Feenixpawl",
+    "release_date": "2019-03-06",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735c71d6ae8daf735bdcd2ba0f",
+    "url": "https://open.spotify.com/album/5b00KV4OG63kqoqzsdwhHk",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0wHkLqf4paK3PIta30Pwry",
+    "album": "Hurts Like Hell (Acoustic Live)",
+    "artist": "Madison Beer",
+    "release_date": "2019-01-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273911df9c08b7c1cfc6c970aa2",
+    "url": "https://open.spotify.com/album/0wHkLqf4paK3PIta30Pwry",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1oLgEL9h1BcRpntPNBDQyE",
+    "album": "Hurts Like Hell (feat. Offset)",
+    "artist": "Madison Beer, Offset",
+    "release_date": "2018-11-09",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27315ab87927ab267cb6bc8113c",
+    "url": "https://open.spotify.com/album/1oLgEL9h1BcRpntPNBDQyE",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6kCiN9VNYVhF2TDekK1mzz",
+    "album": "POP/STARS",
+    "artist": "K/DA, Madison Beer, i-dle",
+    "release_date": "2018-11-03",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739703a4afd5c93a80bc13382b",
+    "url": "https://open.spotify.com/album/6kCiN9VNYVhF2TDekK1mzz",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1Bfs1ZYWGsluVBafVZE2jJ",
+    "album": "Home With You (Remixes)",
+    "artist": "Madison Beer",
+    "release_date": "2018-07-13",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fa4ca010c97acb5da243f8a8",
+    "url": "https://open.spotify.com/album/1Bfs1ZYWGsluVBafVZE2jJ",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "2Zmx7tVUEdD3Rw8OJMDR7Q",
+    "album": "Dead (Laibert Remix)",
+    "artist": "Madison Beer, Laibert",
+    "release_date": "2017-12-29",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ac8551f1d19b7488259737f5",
+    "url": "https://open.spotify.com/album/2Zmx7tVUEdD3Rw8OJMDR7Q",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "7pQz7HSIsvp2iY0qerAOxn",
+    "album": "Say It to My Face (The Wideboys Remix)",
+    "artist": "Madison Beer, Wideboys",
+    "release_date": "2017-12-15",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730a3267a72d22e5c4be1ba75c",
+    "url": "https://open.spotify.com/album/7pQz7HSIsvp2iY0qerAOxn",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "1UnOXSOgxL1dxxHIPFV5ni",
+    "album": "Say It to My Face",
+    "artist": "Madison Beer",
+    "release_date": "2017-11-03",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27359b28113ae8d705b00856f45",
+    "url": "https://open.spotify.com/album/1UnOXSOgxL1dxxHIPFV5ni",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5zzGLyyVM7RnMGOTYr5o2A",
+    "album": "Dead (Acoustic)",
+    "artist": "Madison Beer",
+    "release_date": "2017-08-25",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27324535c6773f1de80ddd2bfa6",
+    "url": "https://open.spotify.com/album/5zzGLyyVM7RnMGOTYr5o2A",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0TLZdqSOea4KrIQLs6Dais",
+    "album": "Dead (Madison Beer vs. Cedric Gervais) [Cedric Gervais Remix]",
+    "artist": "Madison Beer, Cedric Gervais",
+    "release_date": "2017-08-11",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a79ef8138b190acce3b8f81c",
+    "url": "https://open.spotify.com/album/0TLZdqSOea4KrIQLs6Dais",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4uBanKXJBoyN8D1ZLbMSx8",
+    "album": "Dead",
+    "artist": "Madison Beer",
+    "release_date": "2017-05-19",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c7907a66ec80f99ac4f6091d",
+    "url": "https://open.spotify.com/album/4uBanKXJBoyN8D1ZLbMSx8",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "44hQEWUypn3YKq0pum1QDm",
+    "album": "Something Sweet (Exit Friendzone Remix)",
+    "artist": "Madison Beer, Exit Friendzone",
+    "release_date": "2016-05-19",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273138c76267fb9339a2de97d77",
+    "url": "https://open.spotify.com/album/44hQEWUypn3YKq0pum1QDm",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2oIUFdMdCZB6KSxcByEbDT",
+    "album": "Something Sweet",
+    "artist": "Madison Beer",
+    "release_date": "2015-12-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27352e75e46c73699079df93c4d",
+    "url": "https://open.spotify.com/album/2oIUFdMdCZB6KSxcByEbDT",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "7mJK3UAv5hWE7p7rzvAjuV",
+    "album": "All For Love",
+    "artist": "Madison Beer",
+    "release_date": "2015-09-04",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730504a2ce213a4b232698fbc3",
+    "url": "https://open.spotify.com/album/7mJK3UAv5hWE7p7rzvAjuV",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1g2Lm2ndvKi5vqbLAs4QfH",
+    "album": "Unbreakable (Monsieur Adi Remix)",
+    "artist": "Madison Beer",
+    "release_date": "2014-08-05",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739804eabc6d6638507c3869b5",
+    "url": "https://open.spotify.com/album/1g2Lm2ndvKi5vqbLAs4QfH",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2IZVcfWO8gVzIL1JU7HjNu",
+    "album": "Unbreakable",
+    "artist": "Madison Beer",
+    "release_date": "2014-06-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273869740236531ae43579831f9",
+    "url": "https://open.spotify.com/album/2IZVcfWO8gVzIL1JU7HjNu",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2583exexsuuLIl7njVa8Vh",
+    "album": "Melodies",
+    "artist": "Madison Beer",
+    "release_date": "2013-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e2f5bb3cd3fd9f9808527263",
+    "url": "https://open.spotify.com/album/2583exexsuuLIl7njVa8Vh",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6pamCzTowX31m57z8dC1Sk",
+    "album": "Wicked: For Good – The Soundtrack",
+    "artist": "Wicked Movie Cast, Cynthia Erivo, Ariana Grande",
+    "release_date": "2025-11-21",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733a81e76442b1aa620895a211",
+    "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk",
+    "type": "album",
+    "total_tracks": 11
+  },
+  {
+    "id": "6cbwstHlsAIIWurIIXXBPd",
+    "album": "eternal sunshine deluxe: brighter days ahead",
+    "artist": "Ariana Grande",
+    "release_date": "2025-03-28",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735ab3c842fde848df7a4ee6d9",
+    "url": "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd",
+    "type": "album",
+    "total_tracks": 19
+  },
+  {
+    "id": "7saicsozAZSsKEVQh4WAig",
+    "album": "eternal sunshine deluxe: brighter days ahead (instrumental version)",
+    "artist": "Ariana Grande",
+    "release_date": "2025-03-27",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736c9d796f3d1a060de02a3077",
+    "url": "https://open.spotify.com/album/7saicsozAZSsKEVQh4WAig",
+    "type": "album",
+    "total_tracks": 38
+  },
+  {
+    "id": "2xqTa2dCR54yYHEcttiXyD",
+    "album": "eternal sunshine deluxe: brighter days ahead (a cappella version)",
+    "artist": "Ariana Grande",
+    "release_date": "2025-03-27",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27396094d0c80f0f321da705f88",
+    "url": "https://open.spotify.com/album/2xqTa2dCR54yYHEcttiXyD",
+    "type": "album",
+    "total_tracks": 38
+  },
+  {
+    "id": "3JUrJP460nFIqwjxM19slT",
+    "album": "Wicked: The Soundtrack",
+    "artist": "Wicked Movie Cast, Cynthia Erivo, Ariana Grande",
+    "release_date": "2024-11-22",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27341ded89391c5350f6b8f991c",
+    "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT",
+    "type": "album",
+    "total_tracks": 12
+  },
+  {
+    "id": "3L2iweH45rVdTBPldbY6dp",
+    "album": "eternal sunshine (slightly deluxe and also live)",
+    "artist": "Ariana Grande",
+    "release_date": "2024-10-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730497121c2a34a6a1cb885e97",
+    "url": "https://open.spotify.com/album/3L2iweH45rVdTBPldbY6dp",
+    "type": "album",
+    "total_tracks": 24
+  },
+  {
+    "id": "2uMTmPEFafKfKeobvdx5EE",
+    "album": "My Everything (Tenth Anniversary Edition)",
+    "artist": "Ariana Grande",
+    "release_date": "2024-08-22",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730fdf1dcbc3e34ed740e12710",
+    "url": "https://open.spotify.com/album/2uMTmPEFafKfKeobvdx5EE",
+    "type": "album",
+    "total_tracks": 17
+  },
+  {
+    "id": "5Csjy4XeA7KnizkhIvI7y2",
+    "album": "eternal sunshine (slightly deluxe)",
+    "artist": "Ariana Grande",
+    "release_date": "2024-03-11",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273bd3de668e4784d791c4ab695",
+    "url": "https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2",
+    "type": "album",
+    "total_tracks": 17
+  },
+  {
+    "id": "5EYKrEDnKhhcNxGedaRQeK",
+    "album": "eternal sunshine",
+    "artist": "Ariana Grande",
+    "release_date": "2024-03-08",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4",
+    "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK",
+    "type": "album",
+    "total_tracks": 13
+  },
+  {
+    "id": "2VSBGJ8bUuNgmOYXHIQagM",
+    "album": "Yours Truly (Tenth Anniversary Edition)",
+    "artist": "Ariana Grande",
+    "release_date": "2023-08-25",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273db6ed492fdc27def8f979263",
+    "url": "https://open.spotify.com/album/2VSBGJ8bUuNgmOYXHIQagM",
+    "type": "album",
+    "total_tracks": 19
+  },
+  {
+    "id": "74vajFwEwXJ61OW1DKSPEa",
+    "album": "Positions (Deluxe)",
+    "artist": "Ariana Grande",
+    "release_date": "2021-02-19",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739508fb7ca2eedc0d98b9139f",
+    "url": "https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa",
+    "type": "album",
+    "total_tracks": 19
+  },
+  {
+    "id": "3euz4vS7ezKGnNSwgyvKcd",
+    "album": "Positions",
+    "artist": "Ariana Grande",
+    "release_date": "2020-10-30",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27355b8f4c3458e256eca14f18f",
+    "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd",
+    "type": "album",
+    "total_tracks": 14
+  },
+  {
+    "id": "5UACk85y1hNRSUtY0ss8pb",
+    "album": "k bye for now (swt live)",
+    "artist": "Ariana Grande",
+    "release_date": "2019-12-23",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d0f561d8bb164349dccbfde4",
+    "url": "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb",
+    "type": "album",
+    "total_tracks": 32
+  },
+  {
+    "id": "2fYhqwDWXjbpjaIJPEfKFw",
+    "album": "thank u, next",
+    "artist": "Ariana Grande",
+    "release_date": "2019-02-08",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8",
+    "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw",
+    "type": "album",
+    "total_tracks": 12
+  },
+  {
+    "id": "3tx8gQqWbGwqIGZHqDNrGe",
+    "album": "Sweetener",
+    "artist": "Ariana Grande",
+    "release_date": "2018-08-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394",
+    "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe",
+    "type": "album",
+    "total_tracks": 15
+  },
+  {
+    "id": "5X7x18kW3mVIvnuNeedM6b",
+    "album": "Dangerous Woman",
+    "artist": "Ariana Grande",
+    "release_date": "2016-05-20",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732e651648db439a9b5995e065",
+    "url": "https://open.spotify.com/album/5X7x18kW3mVIvnuNeedM6b",
+    "type": "album",
+    "total_tracks": 17
+  },
+  {
+    "id": "6EVYTRG1drKdO8OnIQBeEj",
+    "album": "My Everything (Deluxe)",
+    "artist": "Ariana Grande",
+    "release_date": "2014-08-22",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+    "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj",
+    "type": "album",
+    "total_tracks": 15
+  },
+  {
+    "id": "5xSvNPstcxHtR4ap2vvN8A",
+    "album": "Yours Truly",
+    "artist": "Ariana Grande",
+    "release_date": "2013-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734bb9f35da9ff34b1e2314d8e",
+    "url": "https://open.spotify.com/album/5xSvNPstcxHtR4ap2vvN8A",
+    "type": "album",
+    "total_tracks": 12
+  },
+  {
+    "id": "6h0nkpR0KgZbat8CbOEctb",
+    "album": "For Good (from Wicked: For Good - The Soundtrack)",
+    "artist": "Cynthia Erivo, Ariana Grande",
+    "release_date": "2025-11-20",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fca733bb1088d59588f69e21",
+    "url": "https://open.spotify.com/album/6h0nkpR0KgZbat8CbOEctb",
+    "type": "single",
+    "total_tracks": 4
+  },
+  {
+    "id": "4FuGDyTBy2UQFdkpfJgGK3",
+    "album": "supernatural",
+    "artist": "Ariana Grande",
+    "release_date": "2025-09-04",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738e7e2c150cdfe189f7584fc4",
+    "url": "https://open.spotify.com/album/4FuGDyTBy2UQFdkpfJgGK3",
+    "type": "single",
+    "total_tracks": 5
+  },
+  {
+    "id": "7CL6fVngqU6X5VYXHQtBis",
+    "album": "Hotel Rock Bottom",
+    "artist": "Frankie Grande, Ariana Grande",
+    "release_date": "2025-07-10",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27379482ddb4d7a444437bcacf0",
+    "url": "https://open.spotify.com/album/7CL6fVngqU6X5VYXHQtBis",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2OqSK4OKrorvnUzYunU2lX",
+    "album": "twilight zone",
+    "artist": "Ariana Grande",
+    "release_date": "2025-06-20",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27307894829ab71aac2e995f425",
+    "url": "https://open.spotify.com/album/2OqSK4OKrorvnUzYunU2lX",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "4cCVfhdZyqipuaZ89KmMvi",
+    "album": "I Don't Know Why (I Just Do)",
+    "artist": "Jeff Goldblum & The Mildred Snitzer Orchestra, Ariana Grande",
+    "release_date": "2025-03-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734844e381742b58ac71080ab4",
+    "url": "https://open.spotify.com/album/4cCVfhdZyqipuaZ89KmMvi",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0BL4n7JwPd0Ml4nhpjRCFv",
+    "album": "Sympathy is a knife featuring ariana grande",
+    "artist": "Charli xcx, Ariana Grande",
+    "release_date": "2024-10-10",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273cb260d46ad3b5cc7f91dc6ee",
+    "url": "https://open.spotify.com/album/0BL4n7JwPd0Ml4nhpjRCFv",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "65X8oNWJyq6abR094X1hlD",
+    "album": "we can't be friends (wait for your love) [acoustic (live from jungle city studios)]",
+    "artist": "Ariana Grande",
+    "release_date": "2024-09-08",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731aa109856c4781fd6c9cd111",
+    "url": "https://open.spotify.com/album/65X8oNWJyq6abR094X1hlD",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6QfFpCdG9XXQQ9pPJQtxz7",
+    "album": "the boy is mine",
+    "artist": "Ariana Grande",
+    "release_date": "2024-07-19",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730f41d138987a79efce0f884c",
+    "url": "https://open.spotify.com/album/6QfFpCdG9XXQQ9pPJQtxz7",
+    "type": "single",
+    "total_tracks": 5
+  },
+  {
+    "id": "3AICoyb5EH2OBmQJnaPDIt",
+    "album": "the boy is mine (Remix)",
+    "artist": "Ariana Grande, Brandy, Monica",
+    "release_date": "2024-06-21",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273318479c9f214577c1e7077f6",
+    "url": "https://open.spotify.com/album/3AICoyb5EH2OBmQJnaPDIt",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "1kY0kHkLtxqZb0tBqPsIx4",
+    "album": "we can't be friends (wait for your love)",
+    "artist": "Ariana Grande",
+    "release_date": "2024-03-08",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c5bce200a907e3b21bf20587",
+    "url": "https://open.spotify.com/album/1kY0kHkLtxqZb0tBqPsIx4",
+    "type": "single",
+    "total_tracks": 5
+  },
+  {
+    "id": "7cE0lgNHmBxutHd5g4D3q8",
+    "album": "yes, and?",
+    "artist": "Ariana Grande, Mariah Carey",
+    "release_date": "2024-02-16",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e39fbe1ce1bcd27800bcac10",
+    "url": "https://open.spotify.com/album/7cE0lgNHmBxutHd5g4D3q8",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6mNdtZhr5zcz2SLzyPxweY",
+    "album": "yes, and?",
+    "artist": "Ariana Grande",
+    "release_date": "2024-01-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27350d52e177103f2e0c40a2e94",
+    "url": "https://open.spotify.com/album/6mNdtZhr5zcz2SLzyPxweY",
+    "type": "single",
+    "total_tracks": 8
+  },
+  {
+    "id": "0kHBlnc69hLOSyXAZn2yeX",
+    "album": "yes, and? (remixes)",
+    "artist": "Ariana Grande",
+    "release_date": "2024-01-12",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27378b1c468de3d983892c3c80c",
+    "url": "https://open.spotify.com/album/0kHBlnc69hLOSyXAZn2yeX",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "61dUL51qxsxQJMdai6HiUH",
+    "album": "yes, and? (The Blessed Madonna’s Godsquad Mix)",
+    "artist": "Ariana Grande, The Blessed Madonna",
+    "release_date": "2024-01-12",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735813b17a0ce0a0da2171302d",
+    "url": "https://open.spotify.com/album/61dUL51qxsxQJMdai6HiUH",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0RhZMUvozZXn2at1sfSogT",
+    "album": "yes, and? (Jonas Blue Remix)",
+    "artist": "Ariana Grande, Jonas Blue",
+    "release_date": "2024-01-12",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273686cc5c96d9d1774a06eca9c",
+    "url": "https://open.spotify.com/album/0RhZMUvozZXn2at1sfSogT",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1K9Kpjfdj7Y3MHxuq3M6TK",
+    "album": "yes, and? (Felix Jaehn Remix)",
+    "artist": "Ariana Grande, Felix Jaehn",
+    "release_date": "2024-01-12",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27346e17cda3c6c13af4bf867fd",
+    "url": "https://open.spotify.com/album/1K9Kpjfdj7Y3MHxuq3M6TK",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4xKjjV0sVc9PiJ1sPU9RiN",
+    "album": "Santa, Can’t You Hear Me (Live)",
+    "artist": "Kelly Clarkson, Ariana Grande",
+    "release_date": "2022-12-14",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735516f0c8980dd64d131a5664",
+    "url": "https://open.spotify.com/album/4xKjjV0sVc9PiJ1sPU9RiN",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "7LsTjhsTKJA0Rfwwx1ppXs",
+    "album": "It Was A… (Masked Christmas)",
+    "artist": "Jimmy Fallon, Ariana Grande, Megan Thee Stallion",
+    "release_date": "2021-12-07",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a3ddc603dcab9bb83161a763",
+    "url": "https://open.spotify.com/album/7LsTjhsTKJA0Rfwwx1ppXs",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1geA7d12ed5LXsBns7ONB4",
+    "album": "Just Look Up (From Don’t Look Up)",
+    "artist": "Ariana Grande, Kid Cudi",
+    "release_date": "2021-12-03",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739675cabe34ef4cc14556ea35",
+    "url": "https://open.spotify.com/album/1geA7d12ed5LXsBns7ONB4",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0otLQ4v3d6BUAJ53EgFllJ",
+    "album": "Positions (Vevo Official Live Performances)",
+    "artist": "Ariana Grande",
+    "release_date": "2021-10-30",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736707048e45c2a4bdcab2a012",
+    "url": "https://open.spotify.com/album/0otLQ4v3d6BUAJ53EgFllJ",
+    "type": "single",
+    "total_tracks": 6
+  },
+  {
+    "id": "5RNKudvhTz6IX57BupmjeD",
+    "album": "Santa, Can’t You Hear Me",
+    "artist": "Kelly Clarkson, Ariana Grande",
+    "release_date": "2021-10-14",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d33d459f99f410c7a64ddaf2",
+    "url": "https://open.spotify.com/album/5RNKudvhTz6IX57BupmjeD",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3UIdh1xeV6hqlfhmimFkWx",
+    "album": "Met Him Last Night",
+    "artist": "Demi Lovato, Ariana Grande",
+    "release_date": "2021-04-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fdd68060403900821036c33a",
+    "url": "https://open.spotify.com/album/3UIdh1xeV6hqlfhmimFkWx",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "11X2d5C6rFBFZZUOCJLPt9",
+    "album": "34+35 (Remix)",
+    "artist": "Ariana Grande",
+    "release_date": "2021-01-15",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27343d04ae192008a5113862faf",
+    "url": "https://open.spotify.com/album/11X2d5C6rFBFZZUOCJLPt9",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "7vAZjssOcIuksA5DxN5sM1",
+    "album": "Rain On Me (Ralphi Rosario Remix)",
+    "artist": "Lady Gaga, Ariana Grande, Ralphi Rosario",
+    "release_date": "2020-07-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273efaa0894111ccf3e719f33ca",
+    "url": "https://open.spotify.com/album/7vAZjssOcIuksA5DxN5sM1",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "42hbqXgvZ1dI3gQ1ZDnHA5",
+    "album": "Rain On Me (Purple Disco Machine Remix)",
+    "artist": "Lady Gaga, Ariana Grande, Purple Disco Machine",
+    "release_date": "2020-07-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b1e85091fafe0597d4f129ca",
+    "url": "https://open.spotify.com/album/42hbqXgvZ1dI3gQ1ZDnHA5",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "4TqgXMSSTwP3RCo3MMSR6t",
+    "album": "Rain On Me (with Ariana Grande)",
+    "artist": "Lady Gaga, Ariana Grande",
+    "release_date": "2020-05-22",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c8583f0bd97d3042d4971acf",
+    "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5mUdh6YWnUvf0MfklEk1oi",
+    "album": "Stuck with U",
+    "artist": "Ariana Grande, Justin Bieber",
+    "release_date": "2020-05-08",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732babb9dbd8f5146112f1bf86",
+    "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "62OlfZyTDTwngT4QlTxiAo",
+    "album": "A Hand For Mrs. Claus",
+    "artist": "Idina Menzel, Ariana Grande",
+    "release_date": "2019-10-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27365947a7758ad0eb53beb8ab5",
+    "url": "https://open.spotify.com/album/62OlfZyTDTwngT4QlTxiAo",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3zVB99XMdbP9HTVNg0GJwV",
+    "album": "boyfriend",
+    "artist": "Ariana Grande, Social House",
+    "release_date": "2019-08-02",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732ca010dcf3863a07611d8b4f",
+    "url": "https://open.spotify.com/album/3zVB99XMdbP9HTVNg0GJwV",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0MbXjBEw6FrGtcglqEDHpb",
+    "album": "MONOPOLY",
+    "artist": "Ariana Grande, Victoria Monét",
+    "release_date": "2019-04-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737eff60e72e37142e98e986f3",
+    "url": "https://open.spotify.com/album/0MbXjBEw6FrGtcglqEDHpb",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6FK2NjcZxGIGmFjKfOkrNi",
+    "album": "7 rings (Remix)",
+    "artist": "Ariana Grande",
+    "release_date": "2019-02-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731ff0d73c806cee99181eb06e",
+    "url": "https://open.spotify.com/album/6FK2NjcZxGIGmFjKfOkrNi",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5DZ9A2AgtgmezypepyYGeJ",
+    "album": "Somewhere Over The Rainbow (Live From Manchester)",
+    "artist": "Ariana Grande",
+    "release_date": "2017-06-06",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733d80ef1d72fee7c12edc4e77",
+    "url": "https://open.spotify.com/album/5DZ9A2AgtgmezypepyYGeJ",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6I3a9Dp8ZrsVWhbQja7xBz",
+    "album": "Side To Side (Remixes)",
+    "artist": "Ariana Grande",
+    "release_date": "2017-02-03",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27384151e4881d2a5f8a9b10985",
+    "url": "https://open.spotify.com/album/6I3a9Dp8ZrsVWhbQja7xBz",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "3UriCAbU5UjggYgpOQYCQI",
+    "album": "Jason's Song (Gave It Away)",
+    "artist": "Ariana Grande",
+    "release_date": "2016-09-16",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273722bd42dc7c1f6331b00d46b",
+    "url": "https://open.spotify.com/album/3UriCAbU5UjggYgpOQYCQI",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6ec1HRowDGniTh3LVi6N8N",
+    "album": "Into You (Alex Ghenea Remix)",
+    "artist": "Ariana Grande",
+    "release_date": "2016-08-19",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b9d238e6b3cc82c39882b1fe",
+    "url": "https://open.spotify.com/album/6ec1HRowDGniTh3LVi6N8N",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3c5hq7WzAnJapzz9CNuuLl",
+    "album": "Into You (3LAU Remix)",
+    "artist": "Ariana Grande",
+    "release_date": "2016-08-19",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730268b2c00f9a14ed9ff77793",
+    "url": "https://open.spotify.com/album/3c5hq7WzAnJapzz9CNuuLl",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1k1HuvFs562Z3CCiSYhtc1",
+    "album": "Good as Hell (feat. Ariana Grande) [Remix]",
+    "artist": "Lizzo, Ariana Grande",
+    "release_date": "2016",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27383689afe01c228ceeef579c5",
+    "url": "https://open.spotify.com/album/1k1HuvFs562Z3CCiSYhtc1",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "5wJD60fqranwuUGvOGSiyt",
+    "album": "Christmas & Chill",
+    "artist": "Ariana Grande",
+    "release_date": "2015-12-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737597b1f8b6368c1a79e15e4c",
+    "url": "https://open.spotify.com/album/5wJD60fqranwuUGvOGSiyt",
+    "type": "single",
+    "total_tracks": 7
+  },
+  {
+    "id": "3IGM1sXYke2UGII2DORrof",
+    "album": "Focus",
+    "artist": "Ariana Grande",
+    "release_date": "2015-10-30",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d6ec808748fa5b0c2d3a6618",
+    "url": "https://open.spotify.com/album/3IGM1sXYke2UGII2DORrof",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "27MNgBEnLCKoafz1g2Zu97",
+    "album": "Santa Tell Me",
+    "artist": "Ariana Grande",
+    "release_date": "2014-11-24",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a1db745e63940bc06985dea5",
+    "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "48uMMsVHGfKipIsOuYcvjs",
+    "album": "Brand New You (From \"13\")",
+    "artist": "Ariana Grande",
+    "release_date": "2014-11-20",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a84854b5dc949afb281d3cbc",
+    "url": "https://open.spotify.com/album/48uMMsVHGfKipIsOuYcvjs",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "3ONhXhn7uDBCAW3Jy6lQFX",
+    "album": "Bang Bang (Remixes)",
+    "artist": "Jessie J, Ariana Grande, Nicki Minaj",
+    "release_date": "2014-09-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738286dbe48374eb78df70ac97",
+    "url": "https://open.spotify.com/album/3ONhXhn7uDBCAW3Jy6lQFX",
+    "type": "single",
+    "total_tracks": 5
+  },
+  {
+    "id": "2jU2AI6nKiV3y50cnlgAkx",
+    "album": "One Last Time",
+    "artist": "Ariana Grande",
+    "release_date": "2014-08-22",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739db9c19b2485517da3bbdf60",
+    "url": "https://open.spotify.com/album/2jU2AI6nKiV3y50cnlgAkx",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "4z9auB26ODtVUvLk7tc9xo",
+    "album": "Bang Bang",
+    "artist": "Jessie J, Ariana Grande, Nicki Minaj",
+    "release_date": "2014-07-28",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a637a074ea21838797540ead",
+    "url": "https://open.spotify.com/album/4z9auB26ODtVUvLk7tc9xo",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "4WFgnJrj9Kb67y4NcFBaHo",
+    "album": "Break Free",
+    "artist": "Ariana Grande",
+    "release_date": "2014-07-02",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a1335e762b2b00fa329f2d9d",
+    "url": "https://open.spotify.com/album/4WFgnJrj9Kb67y4NcFBaHo",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "6YaOfJYBAlkWqI5Gfsgttp",
+    "album": "Problem",
+    "artist": "Ariana Grande",
+    "release_date": "2014-04-28",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27324127bf4a3b699ac91a10f0a",
+    "url": "https://open.spotify.com/album/6YaOfJYBAlkWqI5Gfsgttp",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "5MfeQZrrNfMqcaq03U9qOr",
+    "album": "Christmas Kisses",
+    "artist": "Ariana Grande",
+    "release_date": "2013-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730c053ee476f7ce576369241e",
+    "url": "https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr",
+    "type": "single",
+    "total_tracks": 4
+  },
+  {
+    "id": "4tR7U06JWAgDcA1qfxtrD2",
+    "album": "Put Your Hearts Up",
+    "artist": "Ariana Grande",
+    "release_date": "2011-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273680c74559b2b66c8b484b84b",
+    "url": "https://open.spotify.com/album/4tR7U06JWAgDcA1qfxtrD2",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1XKT456HjHTeUw56O9HQEe",
+    "album": "Nobody Wants This Season 2: The Soundtrack",
+    "artist": "Nobody Wants This, Selena Gomez, Kacey Musgraves",
+    "release_date": "2025-10-23",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c4b40fa8977a5aa12cb9257a",
+    "url": "https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe",
+    "type": "album",
+    "total_tracks": 19
+  },
+  {
+    "id": "5Gb94494MtenpCCWoNX0e5",
+    "album": "I Said I Love You First... And You Said It Back",
+    "artist": "Selena Gomez, benny blanco",
+    "release_date": "2025-05-02",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736680b3854ec9cd3db9a94cc2",
+    "url": "https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5",
+    "type": "album",
+    "total_tracks": 22
+  },
+  {
+    "id": "6mfLgMAN1pZTa2o4LjVGjX",
+    "album": "I Said I Love You First...",
+    "artist": "Selena Gomez, benny blanco",
+    "release_date": "2025-03-28",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732277eb6b47089ae5f64b50e5",
+    "url": "https://open.spotify.com/album/6mfLgMAN1pZTa2o4LjVGjX",
+    "type": "album",
+    "total_tracks": 16
+  },
+  {
+    "id": "5obQ9rPASQW2mLxYM8Ko6Z",
+    "album": "Rare (Deluxe)",
+    "artist": "Selena Gomez",
+    "release_date": "2020-04-09",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27359e699338051e7fec4f2139a",
+    "url": "https://open.spotify.com/album/5obQ9rPASQW2mLxYM8Ko6Z",
+    "type": "album",
+    "total_tracks": 17
+  },
+  {
+    "id": "3YPFaTR7WMi1Hd4NVKdCJx",
+    "album": "Rare",
+    "artist": "Selena Gomez",
+    "release_date": "2020-01-10",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732abcc266597eb46f897a8666",
+    "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx",
+    "type": "album",
+    "total_tracks": 13
+  },
+  {
+    "id": "7lDBDk8OQarV5dBMu3qrdz",
+    "album": "Revival (Deluxe)",
+    "artist": "Selena Gomez",
+    "release_date": "2015-10-09",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e6f5ed9a9059f686965ba90a",
+    "url": "https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz",
+    "type": "album",
+    "total_tracks": 14
+  },
+  {
+    "id": "3cGKAHAUhAaTTezK4GbBhQ",
+    "album": "Stars Dance (Bonus Track Version)",
+    "artist": "Selena Gomez",
+    "release_date": "2013-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730e36690135fa1a30d048e604",
+    "url": "https://open.spotify.com/album/3cGKAHAUhAaTTezK4GbBhQ",
+    "type": "album",
+    "total_tracks": 13
+  },
+  {
+    "id": "58EwvlQo4harE9P2i3bafT",
+    "album": "In The Dark (From the Netflix Series \"Nobody Wants This\" Season 2)",
+    "artist": "Selena Gomez",
+    "release_date": "2025-10-20",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c9e80ee7b046214b3af2d624",
+    "url": "https://open.spotify.com/album/58EwvlQo4harE9P2i3bafT",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5bX4EPkeJLDXI5kuIcoZ8Y",
+    "album": "Pick It Up (feat. Selena Gomez)",
+    "artist": "Cardi B, Selena Gomez",
+    "release_date": "2025-09-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273dab0b2b05d68ccf499477acd",
+    "url": "https://open.spotify.com/album/5bX4EPkeJLDXI5kuIcoZ8Y",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4hnX5vXj6JoAhZ2lUrxwn3",
+    "album": "Call Me When You Break Up (with Gracie Abrams)",
+    "artist": "Selena Gomez, benny blanco, Gracie Abrams",
+    "release_date": "2025-02-20",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c6db47ceb1b9a67b04859558",
+    "url": "https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "7I7rbWQoLZ7PrTMsRfocpL",
+    "album": "Love On",
+    "artist": "Selena Gomez",
+    "release_date": "2024-02-22",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731dd155d9de58c834e0eb38b6",
+    "url": "https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6EejduBuRYb7rzJaD2YCqO",
+    "album": "Single Soon",
+    "artist": "Selena Gomez",
+    "release_date": "2023-08-25",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fabd32dd9cefca8714c0ed41",
+    "url": "https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5quJSeTB33tFzfp2EZx9z5",
+    "album": "My Mind & Me",
+    "artist": "Selena Gomez",
+    "release_date": "2022-11-03",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273781904f69fd550c19e6e3b55",
+    "url": "https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2b2GHWESCWEuHiCZ2Skedp",
+    "album": "Calm Down (with Selena Gomez)",
+    "artist": "Rema, Selena Gomez",
+    "release_date": "2022-08-25",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a3a7f38ea2033aa501afd4cf",
+    "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "7lbSZjlBsWuXtR3WqsdOSN",
+    "album": "Let Somebody Go (Ofenbach Remix)",
+    "artist": "Coldplay, Selena Gomez, Ofenbach",
+    "release_date": "2022-04-15",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c1872d02df5bf96ffb8ef81c",
+    "url": "https://open.spotify.com/album/7lbSZjlBsWuXtR3WqsdOSN",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1mbwiDXEr8l6mK7o76dqyu",
+    "album": "Let Somebody Go (Piano Version)",
+    "artist": "Coldplay, Selena Gomez",
+    "release_date": "2022-03-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730e40385d4f6875e628ca95a2",
+    "url": "https://open.spotify.com/album/1mbwiDXEr8l6mK7o76dqyu",
+    "type": "single",
+    "total_tracks": 4
+  },
+  {
+    "id": "7EZAIhKzfjXbAsL0hrQjGF",
+    "album": "Let Somebody Go (Kygo Remix)",
+    "artist": "Coldplay, Selena Gomez",
+    "release_date": "2022-03-11",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b62de78380d082027bc37240",
+    "url": "https://open.spotify.com/album/7EZAIhKzfjXbAsL0hrQjGF",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "0vS8EETjc2cnCu5j32uxxq",
+    "album": "Let Somebody Go",
+    "artist": "Coldplay, Selena Gomez",
+    "release_date": "2022-03-04",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b69a2033d72a130888a227a1",
+    "url": "https://open.spotify.com/album/0vS8EETjc2cnCu5j32uxxq",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "1ku34hDkNqM7caSllxf5Tu",
+    "album": "999 (with Camilo)",
+    "artist": "Selena Gomez, Camilo",
+    "release_date": "2021-08-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734a74d9fd12c5d093fd76b642",
+    "url": "https://open.spotify.com/album/1ku34hDkNqM7caSllxf5Tu",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5gaTlwqxtq9ciRVqgOfusR",
+    "album": "Selfish Love (with Selena Gomez) EP",
+    "artist": "DJ Snake, Selena Gomez",
+    "release_date": "2021-05-07",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27324bd18cef4a3d5c76bae12fd",
+    "url": "https://open.spotify.com/album/5gaTlwqxtq9ciRVqgOfusR",
+    "type": "single",
+    "total_tracks": 4
+  },
+  {
+    "id": "3gbLAG6BvUnImIn6AGKNcE",
+    "album": "Selfish Love (with Selena Gomez) (Jack Chirak Remix)",
+    "artist": "DJ Snake, Selena Gomez",
+    "release_date": "2021-04-30",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27360d5a7ea15886707f911c812",
+    "url": "https://open.spotify.com/album/3gbLAG6BvUnImIn6AGKNcE",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6PFuomeQgR2sRWje5dxPKa",
+    "album": "Selfish Love (with Selena Gomez) (Tiësto Remix)",
+    "artist": "DJ Snake, Selena Gomez, Tiësto",
+    "release_date": "2021-04-16",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f3fe13f56ce3ee27747c44ad",
+    "url": "https://open.spotify.com/album/6PFuomeQgR2sRWje5dxPKa",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2jGa3OwXatFYQAIS7OV7k9",
+    "album": "Revelación - EP",
+    "artist": "Selena Gomez",
+    "release_date": "2021-03-12",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738b11b0be988e17da2799b94d",
+    "url": "https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9",
+    "type": "single",
+    "total_tracks": 7
+  },
+  {
+    "id": "0WvtxtkwXaFDLrmOl9mXDQ",
+    "album": "Selfish Love (with Selena Gomez)",
+    "artist": "DJ Snake, Selena Gomez",
+    "release_date": "2021-03-04",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730a4a6bb7959ab3a38ff60324",
+    "url": "https://open.spotify.com/album/0WvtxtkwXaFDLrmOl9mXDQ",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "61ERk3872OEeGCXXEd7ne2",
+    "album": "Selena x Votes",
+    "artist": "Selena Gomez",
+    "release_date": "2020-10-30",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fcfc2b42febf9456ee80e3d2",
+    "url": "https://open.spotify.com/album/61ERk3872OEeGCXXEd7ne2",
+    "type": "single",
+    "total_tracks": 6
+  },
+  {
+    "id": "2VBb4LRcRSACOfJWRUgVZl",
+    "album": "Ice Cream (with Selena Gomez)",
+    "artist": "BLACKPINK, Selena Gomez",
+    "release_date": "2020-08-28",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733709f2400b95a7c6f22a7ee0",
+    "url": "https://open.spotify.com/album/2VBb4LRcRSACOfJWRUgVZl",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3BznH0uTnRxW4MEuZ6a4rJ",
+    "album": "Past Life (with Selena Gomez & Lil Mosey) [Remix]",
+    "artist": "Trevor Daniel, Selena Gomez, Lil Mosey",
+    "release_date": "2020-08-09",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735d9cf143b6ce841ace92f0d3",
+    "url": "https://open.spotify.com/album/3BznH0uTnRxW4MEuZ6a4rJ",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0VNOVfFWUXhUx8l3RNas8F",
+    "album": "Past Life (with Selena Gomez)",
+    "artist": "Trevor Daniel, Selena Gomez",
+    "release_date": "2020-06-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ea9358f552068bf204eb152a",
+    "url": "https://open.spotify.com/album/0VNOVfFWUXhUx8l3RNas8F",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "48RpTaUou6YEMFVnRd3goY",
+    "album": "Rare (Live From The Village Studio)",
+    "artist": "Selena Gomez",
+    "release_date": "2020-03-06",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733ec8aa66fe549c0e42407a54",
+    "url": "https://open.spotify.com/album/48RpTaUou6YEMFVnRd3goY",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "78B16yGorHfhs8ieRfJWBX",
+    "album": "Rare (Alexander 23 Edit)",
+    "artist": "Selena Gomez, Alexander 23",
+    "release_date": "2020-02-28",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273510f61bb7b591676901139a1",
+    "url": "https://open.spotify.com/album/78B16yGorHfhs8ieRfJWBX",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6gldP4RkBjKhVb6SgeVuFd",
+    "album": "Feel Me",
+    "artist": "Selena Gomez",
+    "release_date": "2020-02-21",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273420b85859b388abdf4c0aa97",
+    "url": "https://open.spotify.com/album/6gldP4RkBjKhVb6SgeVuFd",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1MEL0VheIkfwLdUY6gW3Wj",
+    "album": "Lose You To Love Me (Demo Version)",
+    "artist": "Selena Gomez",
+    "release_date": "2019-09-29",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e178ef5b0f2bb4aa86a4c177",
+    "url": "https://open.spotify.com/album/1MEL0VheIkfwLdUY6gW3Wj",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2IUVG5x1G7l0TW1LA61Eyy",
+    "album": "I Can’t Get Enough (benny blanco, Selena Gomez, J Balvin, Tainy)",
+    "artist": "benny blanco, Selena Gomez, J Balvin",
+    "release_date": "2019-02-28",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737c0dcaf2587dd360f21b6a3c",
+    "url": "https://open.spotify.com/album/2IUVG5x1G7l0TW1LA61Eyy",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0ZHyvPke0EcVt6rYA8Ins3",
+    "album": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
+    "artist": "DJ Snake, Selena Gomez, Ozuna",
+    "release_date": "2018-09-28",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e105c410a7b390c61a58cbf8",
+    "url": "https://open.spotify.com/album/0ZHyvPke0EcVt6rYA8Ins3",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5vhQsXg5ehhfYN6bJpqYNR",
+    "album": "Back To You (Riton & Kah-Lo Remix)",
+    "artist": "Selena Gomez, Riton, Kah-Lo",
+    "release_date": "2018-08-10",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27301cd9fee228b470cf66696cf",
+    "url": "https://open.spotify.com/album/5vhQsXg5ehhfYN6bJpqYNR",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5YOxoeO5DRUWEBbDt9A3jU",
+    "album": "Back To You (Joey Pecoraro Remix)",
+    "artist": "Selena Gomez, Joey Pecoraro",
+    "release_date": "2018-08-10",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731905d0bdf1ffcbba0c696c5d",
+    "url": "https://open.spotify.com/album/5YOxoeO5DRUWEBbDt9A3jU",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3uMbeYao2NJVBP464pehxU",
+    "album": "Back To You (Anki Remix)",
+    "artist": "Selena Gomez, Anki",
+    "release_date": "2018-08-10",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27315874a258290505eaed3f5f0",
+    "url": "https://open.spotify.com/album/3uMbeYao2NJVBP464pehxU",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3N7eWDCvfWv34xWNohdHjO",
+    "album": "Back To You (From 13 Reasons Why – Season 2 Soundtrack)",
+    "artist": "Selena Gomez",
+    "release_date": "2018-05-10",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27330885dcb2b5f38512fbcbc59",
+    "url": "https://open.spotify.com/album/3N7eWDCvfWv34xWNohdHjO",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1TjUrptCExPqLdkWddfYVB",
+    "album": "Wolves (Total Ape Remix)",
+    "artist": "Selena Gomez, Marshmello, Total Ape",
+    "release_date": "2018-02-23",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27306b8db64020e78d84ccada14",
+    "url": "https://open.spotify.com/album/1TjUrptCExPqLdkWddfYVB",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2zFisGO6eMRk20QPqNw2y7",
+    "album": "Wolves (Sneek Remix)",
+    "artist": "Selena Gomez, Marshmello, SNEEK",
+    "release_date": "2018-02-23",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732060ef51e484b506faf43d10",
+    "url": "https://open.spotify.com/album/2zFisGO6eMRk20QPqNw2y7",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1Sbzgtz2OYb6MRDGLO0zSM",
+    "album": "Wolves (Said The Sky Remix)",
+    "artist": "Selena Gomez, Marshmello, Said The Sky",
+    "release_date": "2018-02-23",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273dbcb4970e86611dd934731f4",
+    "url": "https://open.spotify.com/album/1Sbzgtz2OYb6MRDGLO0zSM",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "74tNjdVPkuSc37KBuoWxnD",
+    "album": "Wolves (Rusko Remix)",
+    "artist": "Selena Gomez, Marshmello, Rusko",
+    "release_date": "2018-02-23",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b410272e1827c72b1eea2e39",
+    "url": "https://open.spotify.com/album/74tNjdVPkuSc37KBuoWxnD",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0l4ImwpCLvQqWPoUGoJg0c",
+    "album": "Wolves (Owen Norton Remix)",
+    "artist": "Selena Gomez, Marshmello",
+    "release_date": "2018-02-23",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c5266ee80f6f12c9b6595254",
+    "url": "https://open.spotify.com/album/0l4ImwpCLvQqWPoUGoJg0c",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5X9FBx7r9lLYgAMjmvU6xR",
+    "album": "Wolves (MOTi Remix)",
+    "artist": "Selena Gomez, Marshmello",
+    "release_date": "2018-02-23",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a2084be02579f6fb3f1e8b3c",
+    "url": "https://open.spotify.com/album/5X9FBx7r9lLYgAMjmvU6xR",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4hGMzbGeYp1ukJWIgXobme",
+    "album": "Wolves (MOTi Remix)",
+    "artist": "Selena Gomez, Marshmello, MOTi",
+    "release_date": "2018-02-23",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737bd8522fb35cccd078c62e28",
+    "url": "https://open.spotify.com/album/4hGMzbGeYp1ukJWIgXobme",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5gQZvWM1o8NkQndueJtZcP",
+    "album": "Wolves",
+    "artist": "Selena Gomez, Marshmello",
+    "release_date": "2017-10-25",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273307910d4242c0d6b1fedf955",
+    "url": "https://open.spotify.com/album/5gQZvWM1o8NkQndueJtZcP",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5zc9hCF004wHe3h2KuoufY",
+    "album": "Fetish (feat. Gucci Mane) [Galantis Remix]",
+    "artist": "Selena Gomez, Galantis",
+    "release_date": "2017-08-23",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ed42f164e479aacb0feb5cc6",
+    "url": "https://open.spotify.com/album/5zc9hCF004wHe3h2KuoufY",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3x97AnoAAIBGJuqZSTtVte",
+    "album": "Fetish (feat. Gucci Mane)",
+    "artist": "Selena Gomez",
+    "release_date": "2017-07-13",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736a958ff9ae0c40b9771c19c4",
+    "url": "https://open.spotify.com/album/3x97AnoAAIBGJuqZSTtVte",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1iuzMKNzVo8HJ67eW32YMr",
+    "album": "Bad Liar",
+    "artist": "Selena Gomez",
+    "release_date": "2017-05-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27381cf523cf3cf268d3e2a243b",
+    "url": "https://open.spotify.com/album/1iuzMKNzVo8HJ67eW32YMr",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6Ks2jkrJ1VzkGya8i1aS1a",
+    "album": "It Ain't Me (with Selena Gomez) [Tiësto's AFTR:HRS Remix]",
+    "artist": "Kygo, Selena Gomez",
+    "release_date": "2017-04-07",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730a902e905861b1bc9778da4f",
+    "url": "https://open.spotify.com/album/6Ks2jkrJ1VzkGya8i1aS1a",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4VNy5ifZtW3E9SgffbGEti",
+    "album": "It Ain't Me",
+    "artist": "Kygo, Selena Gomez",
+    "release_date": "2017-02-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f9dcc529e62f2a4675f88738",
+    "url": "https://open.spotify.com/album/4VNy5ifZtW3E9SgffbGEti",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "010LKiUPAuRrAOXR1S2CiW",
+    "album": "Kill Em With Kindness (Remixes)",
+    "artist": "Selena Gomez",
+    "release_date": "2016-06-24",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b30981d9a0cd19d4c469001f",
+    "url": "https://open.spotify.com/album/010LKiUPAuRrAOXR1S2CiW",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "508Ngjb8b3KYotFySqxRBu",
+    "album": "Hands To Myself (Remixes)",
+    "artist": "Selena Gomez",
+    "release_date": "2016-03-04",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734f1cd42d1b2432254f4ed12b",
+    "url": "https://open.spotify.com/album/508Ngjb8b3KYotFySqxRBu",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "73vrBj0vPlb32dMkGDtNfX",
+    "album": "Same Old Love Remix",
+    "artist": "Selena Gomez",
+    "release_date": "2016-01-08",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273aa8ff8f05f50528a57fdf83e",
+    "url": "https://open.spotify.com/album/73vrBj0vPlb32dMkGDtNfX",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "11l1FuvO1wkEnxFNUjmMwy",
+    "album": "Same Old Love (Grey Remix)",
+    "artist": "Selena Gomez",
+    "release_date": "2015-12-31",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735171a191e71365fc4f535eea",
+    "url": "https://open.spotify.com/album/11l1FuvO1wkEnxFNUjmMwy",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2cqy1ZSgrCUdVFrXOhPVfv",
+    "album": "Same Old Love (Remixes)",
+    "artist": "Selena Gomez",
+    "release_date": "2015-11-20",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734deff9edcceb755a0b12835e",
+    "url": "https://open.spotify.com/album/2cqy1ZSgrCUdVFrXOhPVfv",
+    "type": "single",
+    "total_tracks": 4
+  },
+  {
+    "id": "2HUtmdU3yGBWaBXCWs2mUq",
+    "album": "Good For You (Phantoms Remix)",
+    "artist": "Selena Gomez",
+    "release_date": "2015-10-23",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273be9482a90e83ec675db012b4",
+    "url": "https://open.spotify.com/album/2HUtmdU3yGBWaBXCWs2mUq",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1ABd3n81ABgFoQeXUGENeI",
+    "album": "Good For You (Remixes)",
+    "artist": "Selena Gomez",
+    "release_date": "2015-09-04",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733e1fa9b71570ad7d99da0aa5",
+    "url": "https://open.spotify.com/album/1ABd3n81ABgFoQeXUGENeI",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "7FbUyvtDTsoGMhTlGOtv5q",
+    "album": "Good For You",
+    "artist": "Selena Gomez",
+    "release_date": "2015-08-07",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273aad6fe0c229e8272edbce251",
+    "url": "https://open.spotify.com/album/7FbUyvtDTsoGMhTlGOtv5q",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1Um6gMP04VQ0rGegUyXthT",
+    "album": "For You EP",
+    "artist": "Selena Gomez",
+    "release_date": "2015-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c0def50bbf66d39644897566",
+    "url": "https://open.spotify.com/album/1Um6gMP04VQ0rGegUyXthT",
+    "type": "single",
+    "total_tracks": 4
+  },
+  {
+    "id": "2iFTxCYwhF5oC1L8s1B0rI",
+    "album": "The Heart Wants What It Wants",
+    "artist": "Selena Gomez",
+    "release_date": "2014-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f7dd2cadacebfe2d3c5d96be",
+    "url": "https://open.spotify.com/album/2iFTxCYwhF5oC1L8s1B0rI",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "57Xxk8SH7N9ziRC6YEc22d",
+    "album": "Slow Down Remixes",
+    "artist": "Selena Gomez",
+    "release_date": "2013-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c4beecaa56d6ada5fbe18a00",
+    "url": "https://open.spotify.com/album/57Xxk8SH7N9ziRC6YEc22d",
+    "type": "single",
+    "total_tracks": 5
+  },
+  {
+    "id": "1jW0ijrYoB2kNUx9tLMhsA",
+    "album": "Slow Down Reggae Remix",
+    "artist": "Selena Gomez",
+    "release_date": "2013-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733b3017ca7a7e84929486d832",
+    "url": "https://open.spotify.com/album/1jW0ijrYoB2kNUx9tLMhsA",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "1QpTunvrJ2lVcLaX5Ns37r",
+    "album": "Come & Get It Remixes",
+    "artist": "Selena Gomez",
+    "release_date": "2013-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737ae36c2d16fc11b952c3b60a",
+    "url": "https://open.spotify.com/album/1QpTunvrJ2lVcLaX5Ns37r",
+    "type": "single",
+    "total_tracks": 6
+  },
+  {
+    "id": "3tzEqPHGtSXywFQoAtYMia",
+    "album": "Come & Get It",
+    "artist": "Selena Gomez",
+    "release_date": "2013-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738cfdfa1891889af8896bbfe6",
+    "url": "https://open.spotify.com/album/3tzEqPHGtSXywFQoAtYMia",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4RYzLsns7p8y1CA8jUBFoB",
+    "album": "Shake It Up (From \"Shake It Up\")",
+    "artist": "Selena Gomez",
+    "release_date": "2011-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736443cff4e970c652e13ed295",
+    "url": "https://open.spotify.com/album/4RYzLsns7p8y1CA8jUBFoB",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3ARwSvDQv2OHYnLeDC3Lxi",
+    "album": "MAYHEM",
+    "artist": "Lady Gaga",
+    "release_date": "2025-09-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738d1cf82837651f08ac1ca1ca",
+    "url": "https://open.spotify.com/album/3ARwSvDQv2OHYnLeDC3Lxi",
+    "type": "album",
+    "total_tracks": 17
+  },
+  {
+    "id": "3X2oYJbZtrmszmNeXRpckc",
+    "album": "Joker: Folie à Deux (Music From The Motion Picture)",
+    "artist": "Joaquin Phoenix, Lady Gaga, Cast of Joker: Folie à Deux",
+    "release_date": "2024-10-04",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27335a31bf0be66fc393f3a5874",
+    "url": "https://open.spotify.com/album/3X2oYJbZtrmszmNeXRpckc",
+    "type": "album",
+    "total_tracks": 16
+  },
+  {
+    "id": "6eKdAMXNBlXNtPy7OdBL50",
+    "album": "Harlequin",
+    "artist": "Lady Gaga",
+    "release_date": "2024-09-27",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738c6bfaa9549f8438bcafb668",
+    "url": "https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50",
+    "type": "album",
+    "total_tracks": 13
+  },
+  {
+    "id": "3tjIKRAPBy5Qu4z8F5HmBz",
+    "album": "Top Gun: Maverick (Music From The Motion Picture)",
+    "artist": "Lady Gaga, OneRepublic, Hans Zimmer",
+    "release_date": "2022-05-27",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27302701cfe03aca6827b5c5449",
+    "url": "https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz",
+    "type": "album",
+    "total_tracks": 12
+  },
+  {
+    "id": "6hBQkPnq5u1BwZncSEDEgs",
+    "album": "Love For Sale (Deluxe)",
+    "artist": "Tony Bennett, Lady Gaga",
+    "release_date": "2021-10-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273574feb25f2b0f16dee365ab2",
+    "url": "https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs",
+    "type": "album",
+    "total_tracks": 12
+  },
+  {
+    "id": "3OevODyllQCrhudfLLnV3y",
+    "album": "Dawn Of Chromatica",
+    "artist": "Lady Gaga",
+    "release_date": "2021-09-03",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273335b00966a9839d4dde60256",
+    "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y",
+    "type": "album",
+    "total_tracks": 14
+  },
+  {
+    "id": "6Yf9kML4wT3opmXhTUIfk7",
+    "album": "BORN THIS WAY THE TENTH ANNIVERSARY",
+    "artist": "Lady Gaga",
+    "release_date": "2021-06-25",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739e79e2cf1144541288fc30c0",
+    "url": "https://open.spotify.com/album/6Yf9kML4wT3opmXhTUIfk7",
+    "type": "album",
+    "total_tracks": 20
+  },
+  {
+    "id": "05c49JgPmL4Uz2ZeqRx5SP",
+    "album": "Chromatica",
+    "artist": "Lady Gaga",
+    "release_date": "2020-05-29",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a",
+    "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP",
+    "type": "album",
+    "total_tracks": 16
+  },
+  {
+    "id": "3edjzMAVB9RYRd4UcZBchx",
+    "album": "A Star Is Born Soundtrack (Without Dialogue)",
+    "artist": "Lady Gaga, Bradley Cooper",
+    "release_date": "2018-10-05",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b5d4b4ed17ec86c4b3944af2",
+    "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx",
+    "type": "album",
+    "total_tracks": 19
+  },
+  {
+    "id": "4sLtOBOzn4s3GDUv3c5oJD",
+    "album": "A Star Is Born Soundtrack",
+    "artist": "Lady Gaga, Bradley Cooper",
+    "release_date": "2018-10-05",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342",
+    "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD",
+    "type": "album",
+    "total_tracks": 34
+  },
+  {
+    "id": "2ZUwFxlWo0gwTsvZ6L4Meh",
+    "album": "Joanne (Deluxe)",
+    "artist": "Lady Gaga",
+    "release_date": "2016-10-21",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1",
+    "url": "https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh",
+    "type": "album",
+    "total_tracks": 14
+  },
+  {
+    "id": "2VX9rp6NAC19TQN4IgkmYu",
+    "album": "Cheek To Cheek (Deluxe)",
+    "artist": "Tony Bennett, Lady Gaga",
+    "release_date": "2014-09-19",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734883efb117dd51c4f3f88e93",
+    "url": "https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu",
+    "type": "album",
+    "total_tracks": 15
+  },
+  {
+    "id": "56uP6C9dDe31eLwhpfgIWT",
+    "album": "Cheek To Cheek",
+    "artist": "Tony Bennett, Lady Gaga",
+    "release_date": "2014-09-19",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273754dd2d17c71128537fe902d",
+    "url": "https://open.spotify.com/album/56uP6C9dDe31eLwhpfgIWT",
+    "type": "album",
+    "total_tracks": 11
+  },
+  {
+    "id": "2eRJUtI7nXrQ5uYQ7tzTo9",
+    "album": "ARTPOP",
+    "artist": "Lady Gaga",
+    "release_date": "2013-11-11",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522",
+    "url": "https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9",
+    "type": "album",
+    "total_tracks": 14
+  },
+  {
+    "id": "5maeycU97NHBgwRr2h2A4O",
+    "album": "Born This Way (Special Edition)",
+    "artist": "Lady Gaga",
+    "release_date": "2011-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a47c0e156ea3cebe37fdcab8",
+    "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O",
+    "type": "album",
+    "total_tracks": 22
+  },
+  {
+    "id": "2KkMVsxymoNR7hRmBcMttd",
+    "album": "Born This Way",
+    "artist": "Lady Gaga",
+    "release_date": "2011-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd",
+    "url": "https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd",
+    "type": "album",
+    "total_tracks": 14
+  },
+  {
+    "id": "6rePArBMb5nLWEaY9aQqL4",
+    "album": "The Fame Monster (Deluxe Edition)",
+    "artist": "Lady Gaga",
+    "release_date": "2009-11-05",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa",
+    "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4",
+    "type": "album",
+    "total_tracks": 23
+  },
+  {
+    "id": "1jpUMnKpRlng1OJN7LJauV",
+    "album": "The Fame",
+    "artist": "Lady Gaga",
+    "release_date": "2008-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273613aaa3ae566d9f36008aed0",
+    "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV",
+    "type": "album",
+    "total_tracks": 15
+  },
+  {
+    "id": "1KdrtZn2AmuQPHKIr3h4e6",
+    "album": "The Dead Dance",
+    "artist": "Lady Gaga",
+    "release_date": "2025-09-03",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d8a389abdf9cb2d03b85ff54",
+    "url": "https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "313T8fnlDeKWEtoq9vwWAO",
+    "album": "Abracadabra (Gesaffelstein Remix)",
+    "artist": "Lady Gaga, Gesaffelstein",
+    "release_date": "2025-04-12",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d2eac78fe700b81886caacc6",
+    "url": "https://open.spotify.com/album/313T8fnlDeKWEtoq9vwWAO",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2I6LyArz82waG94e9V5B9d",
+    "album": "Abracadabra",
+    "artist": "Lady Gaga",
+    "release_date": "2025-02-03",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273edd364b4d7ffb5155ccd4ca9",
+    "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3TZR794ZhWKug7Dxpjnnii",
+    "album": "Santa Claus Is Coming To Town",
+    "artist": "Lady Gaga",
+    "release_date": "2024-12-16",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27356cdb415e080cc6b3f44b25c",
+    "url": "https://open.spotify.com/album/3TZR794ZhWKug7Dxpjnnii",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4fgTXGMq9ztbf3L90gyWCg",
+    "album": "Disease",
+    "artist": "Lady Gaga",
+    "release_date": "2024-11-20",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b94d1e6eafd755009aa575a7",
+    "url": "https://open.spotify.com/album/4fgTXGMq9ztbf3L90gyWCg",
+    "type": "single",
+    "total_tracks": 5
+  },
+  {
+    "id": "6gxwZenkPkgfiUWoBGSczu",
+    "album": "Die With A Smile (Instrumental Acoustic)",
+    "artist": "Lady Gaga, Bruno Mars",
+    "release_date": "2024-11-19",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273295b64cdf62cdc148144d55f",
+    "url": "https://open.spotify.com/album/6gxwZenkPkgfiUWoBGSczu",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2vA3dDRHJtEeThXAlf1L8z",
+    "album": "Die With A Smile (Live in Las Vegas)",
+    "artist": "Lady Gaga, Bruno Mars",
+    "release_date": "2024-10-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734b232666e82fee8fefd50066",
+    "url": "https://open.spotify.com/album/2vA3dDRHJtEeThXAlf1L8z",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5eLr5u0UcnXjtNZgbnsoYS",
+    "album": "Die With A Smile (Acoustic)",
+    "artist": "Lady Gaga, Bruno Mars",
+    "release_date": "2024-10-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27341376986fb8edf0729a4a92b",
+    "url": "https://open.spotify.com/album/5eLr5u0UcnXjtNZgbnsoYS",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "29uwnLOApt6HvRw3Ll83vG",
+    "album": "Die With A Smile",
+    "artist": "Lady Gaga, Bruno Mars",
+    "release_date": "2024-10-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734bac5946590406d6ffb7ed6a",
+    "url": "https://open.spotify.com/album/29uwnLOApt6HvRw3Ll83vG",
+    "type": "single",
+    "total_tracks": 4
+  },
+  {
+    "id": "3BQuktwdgPu30k6QSUslCr",
+    "album": "Die With A Smile (Main + Instrumental)",
+    "artist": "Lady Gaga, Bruno Mars",
+    "release_date": "2024-10-16",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27333534393aa55b83df6999c4a",
+    "url": "https://open.spotify.com/album/3BQuktwdgPu30k6QSUslCr",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "15uOlprrFPRIqr58DlJ9BC",
+    "album": "Sweet Sounds Of Heaven (feat. Lady Gaga) [Live at Racket, NYC]",
+    "artist": "The Rolling Stones, Lady Gaga",
+    "release_date": "2023-12-08",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273cd33ecaa4fe69ce198aeb25e",
+    "url": "https://open.spotify.com/album/15uOlprrFPRIqr58DlJ9BC",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "5CmWzNmpFXmcH8lN7xuZfy",
+    "album": "The Edge of Glory [(Arr. for Wind Ensemble by Matteo di Prospero) Live]",
+    "artist": "Lady Gaga, Banda S. Cecilia Città di Norma, Matteo di Prospero",
+    "release_date": "2023-09-28",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736046aeea65b61f37506e8b9a",
+    "url": "https://open.spotify.com/album/5CmWzNmpFXmcH8lN7xuZfy",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "6E4RZkGvHiOp41XvdpiWaK",
+    "album": "Sweet Sounds Of Heaven",
+    "artist": "The Rolling Stones, Lady Gaga",
+    "release_date": "2023-09-28",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273bd2490e628f8e2fe6b8626f6",
+    "url": "https://open.spotify.com/album/6E4RZkGvHiOp41XvdpiWaK",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "4o7oZoaZrwElXdNXfBXsqe",
+    "album": "Hold My Hand (Music From The Motion Picture \"Top Gun: Maverick\")",
+    "artist": "Lady Gaga",
+    "release_date": "2022-05-03",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b7e7edfee5626b7b1f15192a",
+    "url": "https://open.spotify.com/album/4o7oZoaZrwElXdNXfBXsqe",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1hdxjlrPl1jYXEuezfUayL",
+    "album": "911 (WEISS Remix)",
+    "artist": "Lady Gaga, WEISS",
+    "release_date": "2020-12-04",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273df5037feae0c35374a8b4fcb",
+    "url": "https://open.spotify.com/album/1hdxjlrPl1jYXEuezfUayL",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "25eMUZJOY6nhsIZl9D5WUb",
+    "album": "911 (Sofi Tukker Remix)",
+    "artist": "Lady Gaga, Sofi Tukker",
+    "release_date": "2020-12-04",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730bedf414750c5fd4c2bf6c60",
+    "url": "https://open.spotify.com/album/25eMUZJOY6nhsIZl9D5WUb",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "2sTMGRR7N6AwnpFJssGeUs",
+    "album": "911 (Bruno Martini Remix)",
+    "artist": "Lady Gaga, Bruno Martini",
+    "release_date": "2020-12-04",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27368fad1fd5f864d6472335eb0",
+    "url": "https://open.spotify.com/album/2sTMGRR7N6AwnpFJssGeUs",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "6y1MSmjTqlF2ZTH6O2WLCn",
+    "album": "Free Woman (Honey Dijon Realness Remix)",
+    "artist": "Lady Gaga, Honey Dijon",
+    "release_date": "2020-08-28",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738c668cf416f00d255faeac5a",
+    "url": "https://open.spotify.com/album/6y1MSmjTqlF2ZTH6O2WLCn",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "6y6lP1WRfqEhv8RLy4ufZB",
+    "album": "Sour Candy (with BLACKPINK)",
+    "artist": "Lady Gaga, BLACKPINK",
+    "release_date": "2020-05-28",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273348a8b432f3e8e02f342056e",
+    "url": "https://open.spotify.com/album/6y6lP1WRfqEhv8RLy4ufZB",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4WzXApqZ4kE30TDjH1bKQi",
+    "album": "Stupid Love (Vitaclub Warehouse Mix)",
+    "artist": "Lady Gaga, BloodPop®, BURNS",
+    "release_date": "2020-05-15",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273cbb0d8c1475e6a65f4addfd4",
+    "url": "https://open.spotify.com/album/4WzXApqZ4kE30TDjH1bKQi",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "7hdQxJEgGZX4d92LKEhyt3",
+    "album": "Your Song",
+    "artist": "Lady Gaga",
+    "release_date": "2018-03-30",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732cdf51f55c1cbc31a20c46dc",
+    "url": "https://open.spotify.com/album/7hdQxJEgGZX4d92LKEhyt3",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5jqcNriHl28rS3LlmoP1fg",
+    "album": "Joanne (Where Do You Think You're Goin'?) [Piano Version]",
+    "artist": "Lady Gaga",
+    "release_date": "2018-01-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273aaa3ff38f4539db6c04f456c",
+    "url": "https://open.spotify.com/album/5jqcNriHl28rS3LlmoP1fg",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2yaSZnZhaxsbQ5xhgGbw3g",
+    "album": "The Cure",
+    "artist": "Lady Gaga",
+    "release_date": "2017-04-16",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27331cc5716a5c922b0482787b7",
+    "url": "https://open.spotify.com/album/2yaSZnZhaxsbQ5xhgGbw3g",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5hm4Q0TO8mEbJCBLYMzhse",
+    "album": "Million Reasons (Andrelli Remix)",
+    "artist": "Lady Gaga",
+    "release_date": "2017-03-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27325443424f00754c0357c5601",
+    "url": "https://open.spotify.com/album/5hm4Q0TO8mEbJCBLYMzhse",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "29AbOu5HkL38IAHVQegd0n",
+    "album": "Million Reasons (KVR Remix)",
+    "artist": "Lady Gaga",
+    "release_date": "2017-02-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b25dccb4e3033917c732e4fd",
+    "url": "https://open.spotify.com/album/29AbOu5HkL38IAHVQegd0n",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "00qjYaNSNpQCZHhCpAlH60",
+    "album": "Til It Happens To You",
+    "artist": "Lady Gaga",
+    "release_date": "2015-09-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273969438a8091085c2472a0766",
+    "url": "https://open.spotify.com/album/00qjYaNSNpQCZHhCpAlH60",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5Falr8WxTe6dZOTtWEUIVS",
+    "album": "Winter Wonderland",
+    "artist": "Tony Bennett, Lady Gaga",
+    "release_date": "2014-12-09",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27369cc44bedd7912c89a64a0cb",
+    "url": "https://open.spotify.com/album/5Falr8WxTe6dZOTtWEUIVS",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "7g0I1yuOwuaG8yb3BthcXr",
+    "album": "G.U.Y. (Remixes)",
+    "artist": "Lady Gaga",
+    "release_date": "2014-04-29",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734f5eb29bcf2ad7df542eb5d0",
+    "url": "https://open.spotify.com/album/7g0I1yuOwuaG8yb3BthcXr",
+    "type": "single",
+    "total_tracks": 5
+  },
+  {
+    "id": "5R9DO1cXTOaw9p7nd2emkm",
+    "album": "Do What U Want",
+    "artist": "Lady Gaga",
+    "release_date": "2013-10-21",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273baa4fdc6aab2fd6801fc1434",
+    "url": "https://open.spotify.com/album/5R9DO1cXTOaw9p7nd2emkm",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0uhM1GVLWsxR5godcJNODq",
+    "album": "Applause (Remixes)",
+    "artist": "Lady Gaga",
+    "release_date": "2013-08-12",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735f4c7afd2bbc2f877e914226",
+    "url": "https://open.spotify.com/album/0uhM1GVLWsxR5godcJNODq",
+    "type": "single",
+    "total_tracks": 8
+  },
+  {
+    "id": "63malDixGPiTk7xpdbRGYm",
+    "album": "Applause",
+    "artist": "Lady Gaga",
+    "release_date": "2013-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738e7fe7ce07fcbba5e8abb1f9",
+    "url": "https://open.spotify.com/album/63malDixGPiTk7xpdbRGYm",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5NXcTEKQ7yFzzWGuRqY6eD",
+    "album": "Marry The Night (The Remixes)",
+    "artist": "Lady Gaga",
+    "release_date": "2011-12-20",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27334e6e88097ad5988bffd0020",
+    "url": "https://open.spotify.com/album/5NXcTEKQ7yFzzWGuRqY6eD",
+    "type": "single",
+    "total_tracks": 10
+  },
+  {
+    "id": "0PbOMnMLse2JVIDSBq28Nj",
+    "album": "A Very Gaga Holiday",
+    "artist": "Lady Gaga",
+    "release_date": "2011-11-22",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ca6987c197b3f22f46b385b9",
+    "url": "https://open.spotify.com/album/0PbOMnMLse2JVIDSBq28Nj",
+    "type": "single",
+    "total_tracks": 4
+  },
+  {
+    "id": "0xnrQsFcCZPNEcD5onimPV",
+    "album": "Yoü And I (The Remixes)",
+    "artist": "Lady Gaga",
+    "release_date": "2011-09-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27355746682e578791ec21ee7ca",
+    "url": "https://open.spotify.com/album/0xnrQsFcCZPNEcD5onimPV",
+    "type": "single",
+    "total_tracks": 7
+  },
+  {
+    "id": "6RqMmkzx1AYqdO0evOEy38",
+    "album": "The Edge Of Glory (The Remixes)",
+    "artist": "Lady Gaga",
+    "release_date": "2011-07-12",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738e9666a764f924b2b28522a1",
+    "url": "https://open.spotify.com/album/6RqMmkzx1AYqdO0evOEy38",
+    "type": "single",
+    "total_tracks": 6
+  },
+  {
+    "id": "0SD4dr6elM1QyDY1xievPn",
+    "album": "Judas (Thomas Gold Remix)",
+    "artist": "Lady Gaga",
+    "release_date": "2011-04-15",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732b9a3164defa365b9bdaf02b",
+    "url": "https://open.spotify.com/album/0SD4dr6elM1QyDY1xievPn",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "03SlWWX3NsMpiZr7psb2It",
+    "album": "Judas",
+    "artist": "Lady Gaga",
+    "release_date": "2011-04-15",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fdc57b6eeeb1e82c0851918d",
+    "url": "https://open.spotify.com/album/03SlWWX3NsMpiZr7psb2It",
+    "type": "single",
+    "total_tracks": 7
+  },
+  {
+    "id": "6MDQJtLBwq8c7tiXdl9ytT",
+    "album": "Born This Way (The Remixes Pt. 2)",
+    "artist": "Lady Gaga",
+    "release_date": "2011-03-25",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e347b3f0b9e9848734850578",
+    "url": "https://open.spotify.com/album/6MDQJtLBwq8c7tiXdl9ytT",
+    "type": "single",
+    "total_tracks": 6
+  },
+  {
+    "id": "0nBmmEoHvLXNhHDPF3tDKB",
+    "album": "Born This Way (The Remixes Pt. 1)",
+    "artist": "Lady Gaga",
+    "release_date": "2011-03-11",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d1179a1a2a8313104e6994bc",
+    "url": "https://open.spotify.com/album/0nBmmEoHvLXNhHDPF3tDKB",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "3gjDZtyBZnvx5QkvwPRnaN",
+    "album": "Alejandro",
+    "artist": "Lady Gaga",
+    "release_date": "2010-04-20",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273bcce256f0cf43c7635e39470",
+    "url": "https://open.spotify.com/album/3gjDZtyBZnvx5QkvwPRnaN",
+    "type": "single",
+    "total_tracks": 8
+  },
+  {
+    "id": "1zAuMqjg441b11Gt4BsUWR",
+    "album": "Telephone (The Remixes)",
+    "artist": "Lady Gaga, Beyoncé",
+    "release_date": "2010-01-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27328a1d45f7e6b5024b7736d13",
+    "url": "https://open.spotify.com/album/1zAuMqjg441b11Gt4BsUWR",
+    "type": "single",
+    "total_tracks": 10
+  },
+  {
+    "id": "1IYDpQ4M5yfzOX3I6KuMsT",
+    "album": "Telephone (The DJ Remixes)",
+    "artist": "Lady Gaga, Beyoncé",
+    "release_date": "2010-01-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737ac6c91058d58af64f2b699d",
+    "url": "https://open.spotify.com/album/1IYDpQ4M5yfzOX3I6KuMsT",
+    "type": "single",
+    "total_tracks": 9
+  },
+  {
+    "id": "0GjKZbrGenJzjaqpR8g2vL",
+    "album": "Bad Romance - The Remixes Part 2",
+    "artist": "Lady Gaga",
+    "release_date": "2010-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ac421e6c0f12aa53e6c101a1",
+    "url": "https://open.spotify.com/album/0GjKZbrGenJzjaqpR8g2vL",
+    "type": "single",
+    "total_tracks": 5
+  },
+  {
+    "id": "4d8Ltw4bT71vjo052hlzhY",
+    "album": "Bad Romance Remixes",
+    "artist": "Lady Gaga",
+    "release_date": "2009-12-21",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f648ba99be70c1810233a308",
+    "url": "https://open.spotify.com/album/4d8Ltw4bT71vjo052hlzhY",
+    "type": "single",
+    "total_tracks": 4
+  },
+  {
+    "id": "5izR8uMmzxG6kNWHu6Ihk4",
+    "album": "Paparazzi (The Remixes Part Deux)",
+    "artist": "Lady Gaga",
+    "release_date": "2009-07-06",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730e79ed8d033f62c987c0bd9e",
+    "url": "https://open.spotify.com/album/5izR8uMmzxG6kNWHu6Ihk4",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "1JN3V0GlWjDYnutQt1a19N",
+    "album": "The Cherrytree Sessions",
+    "artist": "Lady Gaga",
+    "release_date": "2009-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ce87a0e3f50ff40ab7cbb9f8",
+    "url": "https://open.spotify.com/album/1JN3V0GlWjDYnutQt1a19N",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "3wZj9KcXEWWDq1WDDBK86y",
+    "album": "LoveGame The Remixes",
+    "artist": "Lady Gaga",
+    "release_date": "2009-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27307154c6d0e0ee6b6c9653f57",
+    "url": "https://open.spotify.com/album/3wZj9KcXEWWDq1WDDBK86y",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "04gaEGvrXimVLOWvNZ0fD6",
+    "album": "Bad Romance",
+    "artist": "Lady Gaga",
+    "release_date": "2009-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730a49322a2b093601bce2f38e",
+    "url": "https://open.spotify.com/album/04gaEGvrXimVLOWvNZ0fD6",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0ZpGEeMXL0yJYPIvJSozvB",
+    "album": "Christmas Tree",
+    "artist": "Lady Gaga",
+    "release_date": "2008-12-16",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27352811f10065f7e52c222fa4d",
+    "url": "https://open.spotify.com/album/0ZpGEeMXL0yJYPIvJSozvB",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3m1s0qeU5e5kpaPdByvHbl",
+    "album": "Poker Face (Remixes)",
+    "artist": "Lady Gaga",
+    "release_date": "2008-09-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c34c4c005b2bfd3c8639ff6c",
+    "url": "https://open.spotify.com/album/3m1s0qeU5e5kpaPdByvHbl",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "2eYyVeaBFs93F4DZG5BbPJ",
+    "album": "Poker Face (Remixes Part 2)",
+    "artist": "Lady Gaga",
+    "release_date": "2008-09-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27336ed0f35d2ac922c79c72707",
+    "url": "https://open.spotify.com/album/2eYyVeaBFs93F4DZG5BbPJ",
+    "type": "single",
+    "total_tracks": 4
+  },
+  {
+    "id": "3bzz0Nm5VsYRtz8hzebxAH",
+    "album": "Poker Face (Remixes Part 1)",
+    "artist": "Lady Gaga",
+    "release_date": "2008-09-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a26adb41c0bc67de0ce1ec93",
+    "url": "https://open.spotify.com/album/3bzz0Nm5VsYRtz8hzebxAH",
+    "type": "single",
+    "total_tracks": 5
+  },
+  {
+    "id": "7z73P2qtZlCWoqck90tzra",
+    "album": "Just Dance (Remixes)",
+    "artist": "Lady Gaga",
+    "release_date": "2008-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27333bf2a96394ad35c7f27d9b8",
+    "url": "https://open.spotify.com/album/7z73P2qtZlCWoqck90tzra",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "3EuJ7swcgE9P0pznjgwSv1",
+    "album": "Just Dance (Remixes Part 2)",
+    "artist": "Lady Gaga",
+    "release_date": "2008-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f1152e4ec2388c534d34b555",
+    "url": "https://open.spotify.com/album/3EuJ7swcgE9P0pznjgwSv1",
+    "type": "single",
+    "total_tracks": 4
+  },
+  {
+    "id": "4LfS7VxJ8KZiFLouyGvaeN",
+    "album": "Just Dance",
+    "artist": "Lady Gaga",
+    "release_date": "2008-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732e20e83e46a4830cf77e4ec8",
+    "url": "https://open.spotify.com/album/4LfS7VxJ8KZiFLouyGvaeN",
+    "type": "single",
+    "total_tracks": 4
+  },
+  {
+    "id": "7xLhqoM0ilHRKUg2irVSDI",
+    "album": "PERMISSION TO DANCE ON STAGE - LIVE",
+    "artist": "BTS",
+    "release_date": "2025-07-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b79d4683964a0100d69e21ae",
+    "url": "https://open.spotify.com/album/7xLhqoM0ilHRKUg2irVSDI",
+    "type": "album",
+    "total_tracks": 22
+  },
+  {
+    "id": "6al2VdKbb6FIz9d7lU7WRB",
+    "album": "Proof",
+    "artist": "BTS",
+    "release_date": "2022-06-10",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27317db30ce3f081d6818a8ad49",
+    "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB",
+    "type": "album",
+    "total_tracks": 35
+  },
+  {
+    "id": "6nYfHQnvkvOTNHnOhDT3sr",
+    "album": "BE",
+    "artist": "BTS",
+    "release_date": "2020-11-20",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5",
+    "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr",
+    "type": "album",
+    "total_tracks": 8
+  },
+  {
+    "id": "1nScVw87kRJiT2bg2Kswhp",
+    "album": "MAP OF THE SOUL : 7 ~ THE JOURNEY ~",
+    "artist": "BTS",
+    "release_date": "2020-07-14",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273da9c76ed020a7894443a3f97",
+    "url": "https://open.spotify.com/album/1nScVw87kRJiT2bg2Kswhp",
+    "type": "album",
+    "total_tracks": 13
+  },
+  {
+    "id": "5W1XY5ucNATjTULERvXx9j",
+    "album": "MAP OF THE SOUL : 7",
+    "artist": "BTS",
+    "release_date": "2020-02-21",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273505190077497c230422f2934",
+    "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j",
+    "type": "album",
+    "total_tracks": 20
+  },
+  {
+    "id": "2KqlAl1Kl5fZvbFgJ0qFB6",
+    "album": "MAP OF THE SOUL : PERSONA",
+    "artist": "BTS",
+    "release_date": "2019-04-12",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27318d0ed4f969b376893f9a38f",
+    "url": "https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6",
+    "type": "album",
+    "total_tracks": 7
+  },
+  {
+    "id": "43wFM1HquliY3iwKWzPN4y",
+    "album": "Love Yourself 結 'Answer'",
+    "artist": "BTS",
+    "release_date": "2018-08-24",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733825e6d4d02e4b4c0cec7e1d",
+    "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y",
+    "type": "album",
+    "total_tracks": 26
+  },
+  {
+    "id": "4NIqCxqP9o8Tp6tGLBqd8O",
+    "album": "Love Yourself 轉 'Tear'",
+    "artist": "BTS",
+    "release_date": "2018-05-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738fbcf6544ff02a8959a81781",
+    "url": "https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O",
+    "type": "album",
+    "total_tracks": 11
+  },
+  {
+    "id": "66J1OXSaS3hBZASOV3el8t",
+    "album": "FACE YOURSELF",
+    "artist": "BTS",
+    "release_date": "2018-04-04",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737df155730d4d753560ec28a5",
+    "url": "https://open.spotify.com/album/66J1OXSaS3hBZASOV3el8t",
+    "type": "album",
+    "total_tracks": 12
+  },
+  {
+    "id": "07Rq17GzCnIdWJcyVHb57G",
+    "album": "Love Yourself 承 'Her'",
+    "artist": "BTS",
+    "release_date": "2017-09-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273829305487c8f3b96a1d955b3",
+    "url": "https://open.spotify.com/album/07Rq17GzCnIdWJcyVHb57G",
+    "type": "album",
+    "total_tracks": 9
+  },
+  {
+    "id": "6THpewjqJ15ORBJkh5CEYb",
+    "album": "You Never Walk Alone",
+    "artist": "BTS",
+    "release_date": "2017-02-13",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731fd0a8fc28b2a0a5d9cdc6c6",
+    "url": "https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb",
+    "type": "album",
+    "total_tracks": 18
+  },
+  {
+    "id": "1vhNGBTFoaSTLbHjPGFIlF",
+    "album": "Wings",
+    "artist": "BTS",
+    "release_date": "2016-10-10",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4",
+    "url": "https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF",
+    "type": "album",
+    "total_tracks": 15
+  },
+  {
+    "id": "442zUwKHCTO47XPF7cUSqY",
+    "album": "Youth",
+    "artist": "BTS",
+    "release_date": "2016-09-07",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fb393e601ffd242273e04ea7",
+    "url": "https://open.spotify.com/album/442zUwKHCTO47XPF7cUSqY",
+    "type": "album",
+    "total_tracks": 13
+  },
+  {
+    "id": "1k5bJ8l5oL5xxVBVHjil09",
+    "album": "The Most Beautiful Moment in Life: Young Forever",
+    "artist": "BTS",
+    "release_date": "2016-05-02",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c6dbc63cf145b4ff6bee3322",
+    "url": "https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09",
+    "type": "album",
+    "total_tracks": 23
+  },
+  {
+    "id": "2ds8iT4wkaN1Q1gZe1qcOD",
+    "album": "The Most Beautiful Moment in Life Pt.2",
+    "artist": "BTS",
+    "release_date": "2015-11-30",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a5e9b18ada0905fa82cd4756",
+    "url": "https://open.spotify.com/album/2ds8iT4wkaN1Q1gZe1qcOD",
+    "type": "album",
+    "total_tracks": 9
+  },
+  {
+    "id": "0mEeCuKJQ8Xh9tQ5dMm89X",
+    "album": "The Most Beautiful Moment in Life Pt.1",
+    "artist": "BTS",
+    "release_date": "2015-04-29",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731504edb7a9a5e4e64547fb94",
+    "url": "https://open.spotify.com/album/0mEeCuKJQ8Xh9tQ5dMm89X",
+    "type": "album",
+    "total_tracks": 9
+  },
+  {
+    "id": "2bXp5bEM5sgZdIznTesQZb",
+    "album": "Wake Up (Standard Edition)",
+    "artist": "BTS",
+    "release_date": "2014-12-24",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731bfda04c5a3714b6225e4ddc",
+    "url": "https://open.spotify.com/album/2bXp5bEM5sgZdIznTesQZb",
+    "type": "album",
+    "total_tracks": 13
+  },
+  {
+    "id": "35voVqYGkotyJ945O9egDY",
+    "album": "Dark & Wild",
+    "artist": "BTS",
+    "release_date": "2014-08-20",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273abe7090bc3ae94d741dfaf6b",
+    "url": "https://open.spotify.com/album/35voVqYGkotyJ945O9egDY",
+    "type": "album",
+    "total_tracks": 14
+  },
+  {
+    "id": "0pX41mddl0CZXxpxkQ7347",
+    "album": "Skool Luv Affair (Special Addition)",
+    "artist": "BTS",
+    "release_date": "2014-05-14",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737fc4a9420eb2ca3aceafa88b",
+    "url": "https://open.spotify.com/album/0pX41mddl0CZXxpxkQ7347",
+    "type": "album",
+    "total_tracks": 12
+  },
+  {
+    "id": "5r35iS0uSSoQBKzQj0IeI3",
+    "album": "Skool Luv Affair",
+    "artist": "BTS",
+    "release_date": "2014-02-12",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ab9433cc4b9cda9431be879a",
+    "url": "https://open.spotify.com/album/5r35iS0uSSoQBKzQj0IeI3",
+    "type": "album",
+    "total_tracks": 10
+  },
+  {
+    "id": "6rWmdSJIaGTVtdMJQ35Lvf",
+    "album": "O!RUL8,2?",
+    "artist": "BTS",
+    "release_date": "2013-09-11",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27338a73fb596e530ac18446812",
+    "url": "https://open.spotify.com/album/6rWmdSJIaGTVtdMJQ35Lvf",
+    "type": "album",
+    "total_tracks": 10
+  },
+  {
+    "id": "6egaEe9JaULuUCkihSnYlH",
+    "album": "2 Cool 4 Skool",
+    "artist": "BTS",
+    "release_date": "2013-06-12",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732666df197eac73ae823e1e67",
+    "url": "https://open.spotify.com/album/6egaEe9JaULuUCkihSnYlH",
+    "type": "album",
+    "total_tracks": 7
+  },
+  {
+    "id": "4OBxgiZLUF7lOVV6GGQ6qi",
+    "album": "Angel Anniversary Edition (feat. Muni Long, JVKE, NLE Choppa)",
+    "artist": "Fast & Furious: The Fast Saga, Jimin, BTS",
+    "release_date": "2024-05-15",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27332107dc4737279267c8e00f5",
+    "url": "https://open.spotify.com/album/4OBxgiZLUF7lOVV6GGQ6qi",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "5v4WHupyMlHFLuZ0lmyv5c",
+    "album": "Angel Anniversary Edition (feat. Muni Long, JVKE, NLE Choppa)",
+    "artist": "Fast & Furious: The Fast Saga, Jimin, BTS",
+    "release_date": "2024-05-13",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735cae2e3d2932cd9283cc53ff",
+    "url": "https://open.spotify.com/album/5v4WHupyMlHFLuZ0lmyv5c",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1dsqoLcQu75e2FH01Nea1Z",
+    "album": "Angel Pt. 2 (Acoustic Version)",
+    "artist": "Fast & Furious: The Fast Saga, Jimin, BTS",
+    "release_date": "2023-07-13",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27379f6a219e637ccf7305d622d",
+    "url": "https://open.spotify.com/album/1dsqoLcQu75e2FH01Nea1Z",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "1V0NhpGFvzmRxrpHMQtHrU",
+    "album": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth & Muni Long) (Sped Up) [FAST X Soundtrack]",
+    "artist": "Fast & Furious: The Fast Saga, Jimin, BTS",
+    "release_date": "2023-06-28",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273deaa79daadaf2236d1ac1003",
+    "url": "https://open.spotify.com/album/1V0NhpGFvzmRxrpHMQtHrU",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "6I0ZEVomYGoOk218KaAlJk",
+    "album": "Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long / FAST X Soundtrack)",
+    "artist": "Fast & Furious: The Fast Saga, Jimin, BTS",
+    "release_date": "2023-06-15",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733af4efcbc640cf0cb0888d63",
+    "url": "https://open.spotify.com/album/6I0ZEVomYGoOk218KaAlJk",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3jeQDa9OFZ6GndLindHx3k",
+    "album": "Take Two",
+    "artist": "BTS",
+    "release_date": "2023-06-09",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738a701e76e8845928f6cd81c8",
+    "url": "https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2H5nzViLpbX8JzY1cQMVza",
+    "album": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) (FAST X Soundtrack)",
+    "artist": "Fast & Furious: The Fast Saga, Jimin, BTS",
+    "release_date": "2023-05-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273be4afaf12bdbcfd17d95f22b",
+    "url": "https://open.spotify.com/album/2H5nzViLpbX8JzY1cQMVza",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "0LyIwn8KquuxN0egv7wq8Z",
+    "album": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) (FAST X Soundtrack)",
+    "artist": "Fast & Furious: The Fast Saga, Jimin, BTS",
+    "release_date": "2023-05-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27321ba737cb75af968200cf4bc",
+    "url": "https://open.spotify.com/album/0LyIwn8KquuxN0egv7wq8Z",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "3hPyxRi49jls3gU6Si8JdF",
+    "album": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
+    "artist": "Fast & Furious: The Fast Saga, Jimin, BTS",
+    "release_date": "2023-05-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273445afb6341d2685b959251cc",
+    "url": "https://open.spotify.com/album/3hPyxRi49jls3gU6Si8JdF",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "7uaI73cqw8YC2ViewZAai5",
+    "album": "The Planet",
+    "artist": "BTS",
+    "release_date": "2023-05-12",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fa552453b3762dc1dba6729f",
+    "url": "https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6GnWToxHfF7hobSYdi5V8u",
+    "album": "Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]",
+    "artist": "Jung Kook, BTS",
+    "release_date": "2022-11-20",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273cfe3ffeee2f4ec0291f9d969",
+    "url": "https://open.spotify.com/album/6GnWToxHfF7hobSYdi5V8u",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4TMlkDHtOb8ZlrGiy57xvH",
+    "album": "Yet To Come (Hyundai Ver.)",
+    "artist": "BTS",
+    "release_date": "2022-09-23",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b231a9d6e2b3e00757786b58",
+    "url": "https://open.spotify.com/album/4TMlkDHtOb8ZlrGiy57xvH",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2km2gV8HN1lk1e1GEDl7SN",
+    "album": "Bad Decisions (with BTS & Snoop Dogg)",
+    "artist": "benny blanco, BTS, Snoop Dogg",
+    "release_date": "2022-08-05",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738c47a33a55c6d23cc9d2cf3f",
+    "url": "https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1JzhfhXn0szpP7Bl2lfTCz",
+    "album": "Bad Decisions (with BTS & Snoop Dogg) [Acoustic]",
+    "artist": "benny blanco, BTS, Snoop Dogg",
+    "release_date": "2022-08-04",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730068960fd03836ea2b747d1b",
+    "url": "https://open.spotify.com/album/1JzhfhXn0szpP7Bl2lfTCz",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2RDD8P05XICfiKEgFoKiNf",
+    "album": "Bad Decisions (with BTS & Snoop Dogg) [Instrumental]",
+    "artist": "benny blanco, BTS, Snoop Dogg",
+    "release_date": "2022-08-03",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ea1d87e91622139feace98f2",
+    "url": "https://open.spotify.com/album/2RDD8P05XICfiKEgFoKiNf",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4LyiYe4wZ6XwzUne79hidF",
+    "album": "Left and Right (Feat. Jung Kook of BTS)",
+    "artist": "Charlie Puth, Jung Kook, BTS",
+    "release_date": "2022-06-24",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731c069c836dc6cd5b34c310fe",
+    "url": "https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3wDWcowIrrWgpRmo2ZvFup",
+    "album": "Left and Right (feat. Jung Kook of BTS) [Instrumental]",
+    "artist": "Charlie Puth, Jung Kook, BTS",
+    "release_date": "2022-06-23",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736ff6df71608d9ea82f5956c3",
+    "url": "https://open.spotify.com/album/3wDWcowIrrWgpRmo2ZvFup",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4cmHvSMDrSRe2sLodew8sV",
+    "album": "Butter (Holiday Remix)",
+    "artist": "BTS",
+    "release_date": "2021-12-03",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c0ff7c2c2de098875ec82997",
+    "url": "https://open.spotify.com/album/4cmHvSMDrSRe2sLodew8sV",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4LcW19D6W1nHpvcJV5s2QI",
+    "album": "My Universe (David Guetta Remix)",
+    "artist": "Coldplay, BTS, David Guetta",
+    "release_date": "2021-10-13",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731d7b0c0179b1cbb8f29ce785",
+    "url": "https://open.spotify.com/album/4LcW19D6W1nHpvcJV5s2QI",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "7eMHMiz2uvtDDMbvKRJxlP",
+    "album": "My Universe (Galantis Remix)",
+    "artist": "Coldplay, BTS, Galantis",
+    "release_date": "2021-10-11",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735242045c3d60bcdd7563382f",
+    "url": "https://open.spotify.com/album/7eMHMiz2uvtDDMbvKRJxlP",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6iVS1t7wQUHItUnCxH7epG",
+    "album": "My Universe",
+    "artist": "Coldplay, BTS",
+    "release_date": "2021-09-27",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fb7fdc6524b1224cc04985f5",
+    "url": "https://open.spotify.com/album/6iVS1t7wQUHItUnCxH7epG",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "3oWWeH4gpNsJG0KyGaBoEd",
+    "album": "My Universe (SUGA's Remix)",
+    "artist": "Coldplay, BTS, SUGA",
+    "release_date": "2021-09-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27326319baecaca27532b413001",
+    "url": "https://open.spotify.com/album/3oWWeH4gpNsJG0KyGaBoEd",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "39McjovZ3M6n5SFtNmWTdp",
+    "album": "My Universe",
+    "artist": "Coldplay, BTS",
+    "release_date": "2021-09-24",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f60a9b7e2abafc38da31f575",
+    "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "0ze8IhE4fLLfu5lET12g5v",
+    "album": "Butter (Megan Thee Stallion Remix)",
+    "artist": "BTS, Megan Thee Stallion",
+    "release_date": "2021-08-27",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731b254e12b4ec7e6c565f735f",
+    "url": "https://open.spotify.com/album/0ze8IhE4fLLfu5lET12g5v",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5ExDI42RCtISkQXAgv8dtZ",
+    "album": "Permission to Dance",
+    "artist": "BTS",
+    "release_date": "2021-07-23",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a7e481899b7e0396f93d10b8",
+    "url": "https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "0E4HPJE6DPIc2OUmJ8rTP0",
+    "album": "Butter / Permission to Dance",
+    "artist": "BTS",
+    "release_date": "2021-07-09",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732a7ffc5834a6a087a8125e1e",
+    "url": "https://open.spotify.com/album/0E4HPJE6DPIc2OUmJ8rTP0",
+    "type": "single",
+    "total_tracks": 4
+  },
+  {
+    "id": "0PBQ3Cp6NG8WX0G9KQVNMP",
+    "album": "Butter (Hotter, Sweeter, Cooler)",
+    "artist": "BTS",
+    "release_date": "2021-06-04",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273240447f2da1433d8f4303596",
+    "url": "https://open.spotify.com/album/0PBQ3Cp6NG8WX0G9KQVNMP",
+    "type": "single",
+    "total_tracks": 5
+  },
+  {
+    "id": "2jae5Jx8Yh1WjP1K4wTFUa",
+    "album": "Film out",
+    "artist": "BTS",
+    "release_date": "2021-04-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27334938530af5d2d98acf174fc",
+    "url": "https://open.spotify.com/album/2jae5Jx8Yh1WjP1K4wTFUa",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2JBcpvNYviZ9VYva3jRPsd",
+    "album": "Dynamite (Holiday Remix)",
+    "artist": "BTS",
+    "release_date": "2020-12-11",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c491d6dc21006984d308aed6",
+    "url": "https://open.spotify.com/album/2JBcpvNYviZ9VYva3jRPsd",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5O6izFQ2veRaZOcQSyOi4o",
+    "album": "Savage Love (Laxed - Siren Beat) [BTS Remix]",
+    "artist": "Jawsh 685, Jason Derulo, BTS",
+    "release_date": "2020-10-02",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733e0936633c4c927ac22818e1",
+    "url": "https://open.spotify.com/album/5O6izFQ2veRaZOcQSyOi4o",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "7cvsViO3Tg4w5ixs5Aq7mS",
+    "album": "Dynamite (NightTime Version)",
+    "artist": "BTS",
+    "release_date": "2020-09-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ca8a9f328a1971cc6352b963",
+    "url": "https://open.spotify.com/album/7cvsViO3Tg4w5ixs5Aq7mS",
+    "type": "single",
+    "total_tracks": 6
+  },
+  {
+    "id": "1Yo63a5AzPMyHiYMKYIrld",
+    "album": "Dynamite (DayTime Version)",
+    "artist": "BTS",
+    "release_date": "2020-08-28",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273668914e625d75e5fe3f1da51",
+    "url": "https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld",
+    "type": "single",
+    "total_tracks": 6
+  },
+  {
+    "id": "2TOMIcHmmsiCSB1VU4T8Gb",
+    "album": "Stay Gold",
+    "artist": "BTS",
+    "release_date": "2020-06-19",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273179c168e6a41c4cccf5ff729",
+    "url": "https://open.spotify.com/album/2TOMIcHmmsiCSB1VU4T8Gb",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1HUAObi1fh9b214MZr5gFq",
+    "album": "Black Swan",
+    "artist": "BTS",
+    "release_date": "2020-01-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273dbe6edc2373a90a5200d30d0",
+    "url": "https://open.spotify.com/album/1HUAObi1fh9b214MZr5gFq",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1mGRx12r0mVGK7jgp3eFe2",
+    "album": "Make It Right (feat. Lauv) (Acoustic Remix)",
+    "artist": "BTS, Lauv",
+    "release_date": "2019-11-08",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734afc567e146acd373f88f209",
+    "url": "https://open.spotify.com/album/1mGRx12r0mVGK7jgp3eFe2",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "408RKKP71NxM0WprGQAUsB",
+    "album": "Make It Right (feat. Lauv) (EDM Remix)",
+    "artist": "BTS, Lauv, Frants",
+    "release_date": "2019-11-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27315e36e825161ed416330b113",
+    "url": "https://open.spotify.com/album/408RKKP71NxM0WprGQAUsB",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "7EBPKgQ3ITnvdppu5DEcqF",
+    "album": "Make It Right (feat. Lauv)",
+    "artist": "BTS, Lauv",
+    "release_date": "2019-10-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735767942fc21a271950c459cb",
+    "url": "https://open.spotify.com/album/7EBPKgQ3ITnvdppu5DEcqF",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "7CQho9XJ69KLTUdM9vUZyW",
+    "album": "Old Town Road (feat. RM of BTS) [Seoul Town Road Remix]",
+    "artist": "Lil Nas X, RM, BTS",
+    "release_date": "2019-07-24",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738d9ae1d1c51889c9f7d15048",
+    "url": "https://open.spotify.com/album/7CQho9XJ69KLTUdM9vUZyW",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0rHMQLHyw0Bt17fRTJEqh6",
+    "album": "Lights/Boy With Luv",
+    "artist": "BTS",
+    "release_date": "2019-07-03",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27331ac28409bdbb01e7eb467bf",
+    "url": "https://open.spotify.com/album/0rHMQLHyw0Bt17fRTJEqh6",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "53kVAgb2mQMuvNQrtFrMRN",
+    "album": "All Night (BTS World Original Soundtrack) (Pt. 3)",
+    "artist": "BTS, Juice WRLD",
+    "release_date": "2019-06-21",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fcc7666a054d8c5212afd030",
+    "url": "https://open.spotify.com/album/53kVAgb2mQMuvNQrtFrMRN",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "7AksZp2xptzhgOaiwJxjkh",
+    "album": "A Brand New Day (BTS World Original Soundtrack) (Pt. 2)",
+    "artist": "BTS, Zara Larsson",
+    "release_date": "2019-06-14",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27364e04460c785391f4da82457",
+    "url": "https://open.spotify.com/album/7AksZp2xptzhgOaiwJxjkh",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1CnfThuhzI0hf4b6CJd5rq",
+    "album": "Dream Glow (BTS World Original Soundtrack) (Pt. 1)",
+    "artist": "BTS, Charli xcx",
+    "release_date": "2019-06-07",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273078239f571dc2640d8a169ae",
+    "url": "https://open.spotify.com/album/1CnfThuhzI0hf4b6CJd5rq",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0B2WnxpbWaajMOcuwMRvlj",
+    "album": "Waste It On Me (W&W Remix)",
+    "artist": "Steve Aoki, BTS, W&W",
+    "release_date": "2018-12-21",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737442a9cfc1bdb0041e4700c0",
+    "url": "https://open.spotify.com/album/0B2WnxpbWaajMOcuwMRvlj",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5i8uaYzlZK1oIjRVCCj7R1",
+    "album": "Waste It On Me (Cheat Codes Remix)",
+    "artist": "Steve Aoki, BTS, Cheat Codes",
+    "release_date": "2018-12-14",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e6f67a9feb752ba2eaa806b9",
+    "url": "https://open.spotify.com/album/5i8uaYzlZK1oIjRVCCj7R1",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1ioOTDEIBYDSfkeLQ5qxWd",
+    "album": "Waste It On Me (Slushii Remix)",
+    "artist": "Steve Aoki, BTS, Slushii",
+    "release_date": "2018-12-07",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a7384a57ce9b190d7522682d",
+    "url": "https://open.spotify.com/album/1ioOTDEIBYDSfkeLQ5qxWd",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1v6mgJ29d4Ta3ZUfF0P18W",
+    "album": "FAKE LOVE/Airplane pt.2",
+    "artist": "BTS",
+    "release_date": "2018-11-07",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730b1fa57d269cd295142e678c",
+    "url": "https://open.spotify.com/album/1v6mgJ29d4Ta3ZUfF0P18W",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "40MlewRUbtxeuUVIcP1Let",
+    "album": "FAKE LOVE (Rocking Vibe Mix)",
+    "artist": "BTS",
+    "release_date": "2018-06-04",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27305e837e1a09e11644e0af653",
+    "url": "https://open.spotify.com/album/40MlewRUbtxeuUVIcP1Let",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "03yfkUHGv0rY49Wz9mzloe",
+    "album": "MIC Drop/DNA/Crystal Snow",
+    "artist": "BTS",
+    "release_date": "2017-12-06",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738496b563cf7f51e24ea62930",
+    "url": "https://open.spotify.com/album/03yfkUHGv0rY49Wz9mzloe",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "6wIyi2KokLUlWMnn3fQc6C",
+    "album": "MIC Drop (feat. Desiigner) [Steve Aoki Remix]",
+    "artist": "BTS, Steve Aoki",
+    "release_date": "2017-11-24",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b9d8693567eb3a308b57d24b",
+    "url": "https://open.spotify.com/album/6wIyi2KokLUlWMnn3fQc6C",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4obhxC4Xdmg1b6kcMpW8fD",
+    "album": "Danger (Japanese Ver.- / Standard Edition)",
+    "artist": "BTS",
+    "release_date": "2017-11-19",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e69ad48543969ae067a40de7",
+    "url": "https://open.spotify.com/album/4obhxC4Xdmg1b6kcMpW8fD",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "6l0cl7IM7uuoNtdl9emYbw",
+    "album": "Boy In Luv (Japanese Ver.)",
+    "artist": "BTS",
+    "release_date": "2017-07-16",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273943121c9a044b7c5150bcf82",
+    "url": "https://open.spotify.com/album/6l0cl7IM7uuoNtdl9emYbw",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "1G3HTdPaeUIL6l3mo3q8N8",
+    "album": "Come Back Home",
+    "artist": "BTS",
+    "release_date": "2017-07-04",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273bfe98368089a2350daa33da3",
+    "url": "https://open.spotify.com/album/1G3HTdPaeUIL6l3mo3q8N8",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1rxOBsRqYTRBhltSLWjseF",
+    "album": "血、汗、涙",
+    "artist": "BTS",
+    "release_date": "2017-05-10",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f168a4196226997228e2d6de",
+    "url": "https://open.spotify.com/album/1rxOBsRqYTRBhltSLWjseF",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "1Za3UxQMhgKeO8QNsVwzRt",
+    "album": "Run (Japanese Ver./Standard Edition)",
+    "artist": "BTS",
+    "release_date": "2016-03-15",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a3533c662ef2f5f77d491065",
+    "url": "https://open.spotify.com/album/1Za3UxQMhgKeO8QNsVwzRt",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "71mivOtJblgvlGqvAPRJyw",
+    "album": "I Need U (Japanese Ver. / Standard Edition)",
+    "artist": "BTS",
+    "release_date": "2015-12-08",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736b4a0b5253d8f6df6cdfd934",
+    "url": "https://open.spotify.com/album/71mivOtJblgvlGqvAPRJyw",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "3dviBwFcDYCcpXUbeacrIl",
+    "album": "For You",
+    "artist": "BTS",
+    "release_date": "2015-06-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738372f07e4d18b15d3debc925",
+    "url": "https://open.spotify.com/album/3dviBwFcDYCcpXUbeacrIl",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "5x3pRdlUUVG0eHAMDkW39a",
+    "album": "No More Dream (Japanese Ver.)",
+    "artist": "BTS",
+    "release_date": "2014-06-04",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730e2484925451d99b7bd9c633",
+    "url": "https://open.spotify.com/album/5x3pRdlUUVG0eHAMDkW39a",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "39VuC5rYQHAnR6xQwm1WDk",
+    "album": "SMITHEREENS",
+    "artist": "Joji",
+    "release_date": "2022-11-04",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273cdd1a8a427b3f81f4f4f4f7d",
+    "url": "https://open.spotify.com/album/39VuC5rYQHAnR6xQwm1WDk",
+    "type": "album",
+    "total_tracks": 9
+  },
+  {
+    "id": "65edimIChzNNK8VGn56pIK",
+    "album": "Nectar",
+    "artist": "Joji",
+    "release_date": "2020-09-25",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738da6404284573219a9b1e2f4",
+    "url": "https://open.spotify.com/album/65edimIChzNNK8VGn56pIK",
+    "type": "album",
+    "total_tracks": 18
+  },
+  {
+    "id": "5mIImcsuqpiSXg8XvFr81I",
+    "album": "BALLADS 1",
+    "artist": "Joji",
+    "release_date": "2018-10-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734cc52cd7a712842234e4fce2",
+    "url": "https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I",
+    "type": "album",
+    "total_tracks": 12
+  },
+  {
+    "id": "6ZksrxRWlJ7ExylPyJwfLJ",
+    "album": "In Tongues (Deluxe)",
+    "artist": "Joji",
+    "release_date": "2018-02-14",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738e947f66f6d4eeaa56a28767",
+    "url": "https://open.spotify.com/album/6ZksrxRWlJ7ExylPyJwfLJ",
+    "type": "album",
+    "total_tracks": 16
+  },
+  {
+    "id": "4ZaWx22O1JHnFSSlDH2tuy",
+    "album": "PIXELATED KISSES (with Yeat) (Remix)",
+    "artist": "Joji, Yeat",
+    "release_date": "2025-12-03",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27300a68c048950ce460459e9fe",
+    "url": "https://open.spotify.com/album/4ZaWx22O1JHnFSSlDH2tuy",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3WVLl7wbF8oNra7oMZ62Ta",
+    "album": "Past Won't Leave My Bed",
+    "artist": "Joji",
+    "release_date": "2025-11-07",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a51d2c2b79d59becd0e48dcd",
+    "url": "https://open.spotify.com/album/3WVLl7wbF8oNra7oMZ62Ta",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "6J6XOZ3BmeKnT99JuIDaFE",
+    "album": "If It Only Gets Better",
+    "artist": "Joji",
+    "release_date": "2025-11-04",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d554add49b1d43c8d01c6a5b",
+    "url": "https://open.spotify.com/album/6J6XOZ3BmeKnT99JuIDaFE",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "3FLlai6YTV9IwCU0KolG1w",
+    "album": "PIXELATED KISSES",
+    "artist": "Joji",
+    "release_date": "2025-10-14",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734a66ee1a8cdd72378eb56765",
+    "url": "https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "18IAuEqy7PF6alsVZKbQcB",
+    "album": "YUKON (INTERLUDE)",
+    "artist": "Joji",
+    "release_date": "2022-08-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27313fb8629d015ef6a13af4383",
+    "url": "https://open.spotify.com/album/18IAuEqy7PF6alsVZKbQcB",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "36azJR65BLNOng9MkKAtxE",
+    "album": "Glimpse of Us",
+    "artist": "Joji",
+    "release_date": "2022-06-10",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f3f7d2ea2ad435b57d6697df",
+    "url": "https://open.spotify.com/album/36azJR65BLNOng9MkKAtxE",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1jcNHi5D96aaD0T5f1OjFY",
+    "album": "Daylight",
+    "artist": "Joji, Diplo",
+    "release_date": "2020-08-06",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730e991b59cee17246a5e604d0",
+    "url": "https://open.spotify.com/album/1jcNHi5D96aaD0T5f1OjFY",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "7kZ5HegSABPEOfY0an32ro",
+    "album": "Gimme Love",
+    "artist": "Joji",
+    "release_date": "2020-04-16",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730ec39c837cfc4c874866b3d3",
+    "url": "https://open.spotify.com/album/7kZ5HegSABPEOfY0an32ro",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "45oy7lblFeBZlBNqtx6DK7",
+    "album": "Gimme Love (Channel Tres Remix)",
+    "artist": "Joji, Channel Tres",
+    "release_date": "2020-04-10",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27304d1fedbd6d84a7a122d93e8",
+    "url": "https://open.spotify.com/album/45oy7lblFeBZlBNqtx6DK7",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "1m28DlNTOnCaZFtKDHvP9s",
+    "album": "Run",
+    "artist": "Joji",
+    "release_date": "2020-02-06",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738d710feaf4ddbaa4269d7b6c",
+    "url": "https://open.spotify.com/album/1m28DlNTOnCaZFtKDHvP9s",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2H26hKavWDl5JoYSGSf2lp",
+    "album": "Sanctuary",
+    "artist": "Joji",
+    "release_date": "2019-06-14",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735dda8eaad951483b51d39b8e",
+    "url": "https://open.spotify.com/album/2H26hKavWDl5JoYSGSf2lp",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4j3WGL62UuyU1zSGjJiQBI",
+    "album": "SLOW DANCING IN THE DARK (Loud Luxury Remix)",
+    "artist": "Joji, Loud Luxury",
+    "release_date": "2018-11-09",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27329277ba9570d408ad895f780",
+    "url": "https://open.spotify.com/album/4j3WGL62UuyU1zSGjJiQBI",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2KMY5z30K8LMqOmitEN0EW",
+    "album": "SLOW DANCING IN THE DARK (Mr. Mitch Remix)",
+    "artist": "Joji, Mr. Mitch",
+    "release_date": "2018-11-08",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731da0161fad0980efdbfe19cb",
+    "url": "https://open.spotify.com/album/2KMY5z30K8LMqOmitEN0EW",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0eo8OCKeQWakbwrlpkUJ76",
+    "album": "SLOW DANCING IN THE DARK (Acoustic Remix)",
+    "artist": "Joji",
+    "release_date": "2018-10-19",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731feff86c621b8d1c708be914",
+    "url": "https://open.spotify.com/album/0eo8OCKeQWakbwrlpkUJ76",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1qjw604COS8lAJqdgLTHko",
+    "album": "YEAH RIGHT",
+    "artist": "Joji",
+    "release_date": "2018-05-08",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27321033eb79de95ccdadb13879",
+    "url": "https://open.spotify.com/album/1qjw604COS8lAJqdgLTHko",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3dtSst4EXjGeZVQ5Sco315",
+    "album": "In Tongues",
+    "artist": "Joji",
+    "release_date": "2017-11-03",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733a927e16c14f2aeb7c004e19",
+    "url": "https://open.spotify.com/album/3dtSst4EXjGeZVQ5Sco315",
+    "type": "single",
+    "total_tracks": 6
+  },
+  {
+    "id": "1vcvxiljwF8jQLXC6apIhX",
+    "album": "Will He",
+    "artist": "Joji",
+    "release_date": "2017-10-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737815a98b22b6914a45263190",
+    "url": "https://open.spotify.com/album/1vcvxiljwF8jQLXC6apIhX",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1wmBXbc3FmuAswqvDwhycq",
+    "album": "AIJAG",
+    "artist": "Andrés Koi",
+    "release_date": "2024-04-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e3ce8863c6dcddfc4f3b0c67",
+    "url": "https://open.spotify.com/album/1wmBXbc3FmuAswqvDwhycq",
+    "type": "album",
+    "total_tracks": 13
+  },
+  {
+    "id": "5OWgHgHicpG1vVjeWYyQab",
+    "album": "Sol de Invierno",
+    "artist": "Andrés Koi",
+    "release_date": "2025-12-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a0befd5169a77eefa0ce13f3",
+    "url": "https://open.spotify.com/album/5OWgHgHicpG1vVjeWYyQab",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "1owtwtGrcIignIZtI9WzgC",
+    "album": "Algoritmo",
+    "artist": "Andrés Obregón, Andrés Koi",
+    "release_date": "2025-09-04",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735610394713824524ad328792",
+    "url": "https://open.spotify.com/album/1owtwtGrcIignIZtI9WzgC",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6MNLH330ZyYekAWyCrc145",
+    "album": "Me fui de Vacaciones",
+    "artist": "Andrés Koi",
+    "release_date": "2025-08-04",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27327c444569e4c8d631820d696",
+    "url": "https://open.spotify.com/album/6MNLH330ZyYekAWyCrc145",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3HJtTBNc50qZ9KLMBenPPD",
+    "album": "Mamá Te Prometí",
+    "artist": "Gonzalo Hermida, Andrés Koi",
+    "release_date": "2025-02-28",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733676bf331c10e8d12e2356ae",
+    "url": "https://open.spotify.com/album/3HJtTBNc50qZ9KLMBenPPD",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2UmX8udY4IKh8YWWycGpfd",
+    "album": "SI SE PUEDE",
+    "artist": "Gonzalo Hermida, Melocos, Andrés Koi",
+    "release_date": "2024-12-06",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27308c70948600762bbd64817d6",
+    "url": "https://open.spotify.com/album/2UmX8udY4IKh8YWWycGpfd",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0Gi8x341l09IbPTQklXhWV",
+    "album": "5020 Live Sessions",
+    "artist": "Andrés Koi",
+    "release_date": "2024-09-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273124c2efd4b122ef07a3d641a",
+    "url": "https://open.spotify.com/album/0Gi8x341l09IbPTQklXhWV",
+    "type": "single",
+    "total_tracks": 4
+  },
+  {
+    "id": "15UKPNMN0uDIOAPYcx9sYi",
+    "album": "La buena vida",
+    "artist": "Andrés Koi",
+    "release_date": "2024-03-08",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e6b8a930cf09e4cd4ec1b430",
+    "url": "https://open.spotify.com/album/15UKPNMN0uDIOAPYcx9sYi",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5hRigbp2uEETQZRXnsEWMg",
+    "album": "Todo lo que me mata",
+    "artist": "Andrés Koi",
+    "release_date": "2024-01-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731ebb19ab7f084db7613d28ac",
+    "url": "https://open.spotify.com/album/5hRigbp2uEETQZRXnsEWMg",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0Y5eKeadU98iZagJLLkHma",
+    "album": "El niño que fui ayer",
+    "artist": "Andrés Koi",
+    "release_date": "2023-12-08",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27309bbe14cbc879e726f39b0b0",
+    "url": "https://open.spotify.com/album/0Y5eKeadU98iZagJLLkHma",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0isPHpy36TvbD5vNeKKk5q",
+    "album": "Buffet",
+    "artist": "Andrés Koi",
+    "release_date": "2023-10-06",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a5ea860d24b0a0723956d502",
+    "url": "https://open.spotify.com/album/0isPHpy36TvbD5vNeKKk5q",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "21epwgcRuX2XXBMdTl4Kmn",
+    "album": "7 Meses",
+    "artist": "Andrés Koi",
+    "release_date": "2023-08-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273dc3a688e4b75e72822227a1e",
+    "url": "https://open.spotify.com/album/21epwgcRuX2XXBMdTl4Kmn",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3NpyBbJ7qO2AvCLhhVGPis",
+    "album": "Simón",
+    "artist": "Andrés Koi",
+    "release_date": "2023-08-25",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e0884be4651fbb01c42303c8",
+    "url": "https://open.spotify.com/album/3NpyBbJ7qO2AvCLhhVGPis",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "19PD2IPfceDn9fLAa05TFE",
+    "album": "Idols",
+    "artist": "YUNGBLUD",
+    "release_date": "2025-06-20",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737808f0d7992027b6b10254dd",
+    "url": "https://open.spotify.com/album/19PD2IPfceDn9fLAa05TFE",
+    "type": "album",
+    "total_tracks": 12
+  },
+  {
+    "id": "3Hthv2JVzYaWq0TyElU5lF",
+    "album": "YUNGBLUD",
+    "artist": "YUNGBLUD",
+    "release_date": "2022-09-02",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736d5c4bcaa05b3e1f822324ac",
+    "url": "https://open.spotify.com/album/3Hthv2JVzYaWq0TyElU5lF",
+    "type": "album",
+    "total_tracks": 13
+  },
+  {
+    "id": "1KsMhtT6PWdFuMCiNLvWmP",
+    "album": "weird!",
+    "artist": "YUNGBLUD",
+    "release_date": "2020-12-04",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b5dd9044681a2e8e0d072e27",
+    "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP",
+    "type": "album",
+    "total_tracks": 14
+  },
+  {
+    "id": "207fkpKCM1uvB5R5G6uT0W",
+    "album": "YUNGBLUD (Live In Atlanta)",
+    "artist": "YUNGBLUD",
+    "release_date": "2019-03-22",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27346292bc7d1701e0ba2505197",
+    "url": "https://open.spotify.com/album/207fkpKCM1uvB5R5G6uT0W",
+    "type": "album",
+    "total_tracks": 12
+  },
+  {
+    "id": "1p64R5tjTpC2oH24YLdQgq",
+    "album": "21st Century Liability",
+    "artist": "YUNGBLUD",
+    "release_date": "2018-07-06",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c783f6b606da7235a9c79dd3",
+    "url": "https://open.spotify.com/album/1p64R5tjTpC2oH24YLdQgq",
+    "type": "album",
+    "total_tracks": 12
+  },
+  {
+    "id": "0VtyxuBnWiudcU8N1vIHQ7",
+    "album": "Zombie (Acoustic)",
+    "artist": "YUNGBLUD",
+    "release_date": "2025-12-12",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738e79437d65b6643ff1cf0451",
+    "url": "https://open.spotify.com/album/0VtyxuBnWiudcU8N1vIHQ7",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "5V12ap591SmtretgcunhiO",
+    "album": "One More Time",
+    "artist": "Aerosmith, YUNGBLUD",
+    "release_date": "2025-12-05",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27330f3d670e295b4dd0733c1bd",
+    "url": "https://open.spotify.com/album/5V12ap591SmtretgcunhiO",
+    "type": "single",
+    "total_tracks": 6
+  },
+  {
+    "id": "4AXJv2lxOUj6eOyMRxJ2gA",
+    "album": "Wild Woman (Lainey Wilson Version)",
+    "artist": "Aerosmith, YUNGBLUD, Lainey Wilson",
+    "release_date": "2025-12-04",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739b395f4062ec154cb737e017",
+    "url": "https://open.spotify.com/album/4AXJv2lxOUj6eOyMRxJ2gA",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2xPIwwyl8Mg9ESgYje7e95",
+    "album": "My Only Angel (Desert Road Version)",
+    "artist": "Aerosmith, YUNGBLUD",
+    "release_date": "2025-10-24",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735ec367beb85b11672fd133e3",
+    "url": "https://open.spotify.com/album/2xPIwwyl8Mg9ESgYje7e95",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "64bmu6TxBHHqsvDvFc7s2R",
+    "album": "Zombie (Recorded at Hansa Studios)",
+    "artist": "YUNGBLUD",
+    "release_date": "2025-08-06",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b15d641ba1d40e166676862f",
+    "url": "https://open.spotify.com/album/64bmu6TxBHHqsvDvFc7s2R",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "2mbhC8oNvDt3KCM4kY37Ky",
+    "album": "Changes (Live From Villa Park) Back To The Beginning (feat. Nuno Bettencourt, Frank Bello, Adam Wakeman, II)",
+    "artist": "YUNGBLUD, Nuno Bettencourt, Frank Bello",
+    "release_date": "2025-07-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273eb61baca7314789cb6b69333",
+    "url": "https://open.spotify.com/album/2mbhC8oNvDt3KCM4kY37Ky",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2VjTqSwV1IY3a4kFdurCVv",
+    "album": "Zombie",
+    "artist": "YUNGBLUD",
+    "release_date": "2025-05-30",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730de31ca011231a31662faef0",
+    "url": "https://open.spotify.com/album/2VjTqSwV1IY3a4kFdurCVv",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "3zwpHJVP5RXTpzQ7o2dpTu",
+    "album": "Lovesick Lullaby",
+    "artist": "YUNGBLUD",
+    "release_date": "2025-04-25",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c04ba1957d338c4d0d962415",
+    "url": "https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "5YLk7hXivQWJezkRnWEfbH",
+    "album": "Hello Heaven, Hello",
+    "artist": "YUNGBLUD",
+    "release_date": "2025-03-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f84db0b20ee4a292cf12c682",
+    "url": "https://open.spotify.com/album/5YLk7hXivQWJezkRnWEfbH",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "7MyZuMRuXeArfRZYZCcCs4",
+    "album": "breakdown. (Underworld Rework)",
+    "artist": "YUNGBLUD",
+    "release_date": "2024-08-09",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735e3215db4cd8927e9c769a54",
+    "url": "https://open.spotify.com/album/7MyZuMRuXeArfRZYZCcCs4",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "4eROoIvMGamvC18LeDcG7u",
+    "album": "Lowlife (Live From Marigny)",
+    "artist": "YUNGBLUD",
+    "release_date": "2024-07-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273181459fcfe71e961d2ba6aad",
+    "url": "https://open.spotify.com/album/4eROoIvMGamvC18LeDcG7u",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "7EDOy8ue9MwE27BRwBT1fd",
+    "album": "breakdown.",
+    "artist": "YUNGBLUD",
+    "release_date": "2024-06-21",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734a47ccda97f42eef09ac9b4e",
+    "url": "https://open.spotify.com/album/7EDOy8ue9MwE27BRwBT1fd",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3327jg3M9L2S5514Lmk4kE",
+    "album": "I Was Made For Lovin' You (from The Fall Guy [Orchestral Version])",
+    "artist": "YUNGBLUD, Dominic Lewis",
+    "release_date": "2024-05-03",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273518ae0a0355bb30317267ba3",
+    "url": "https://open.spotify.com/album/3327jg3M9L2S5514Lmk4kE",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "1d3yldnlofPfWQHVAybQrZ",
+    "album": "I Was Made For Lovin' You (from The Fall Guy)",
+    "artist": "YUNGBLUD",
+    "release_date": "2024-04-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732514a547c5433aceb34ea84b",
+    "url": "https://open.spotify.com/album/1d3yldnlofPfWQHVAybQrZ",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3pgq59bj7H3zljjzgXvs6A",
+    "album": "When We Die (Can We Still Get High?) (feat. Lil Yachty)",
+    "artist": "YUNGBLUD",
+    "release_date": "2024-01-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d23e359b748bf0bfc1c5aa8b",
+    "url": "https://open.spotify.com/album/3pgq59bj7H3zljjzgXvs6A",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1KuM2MPT5uEYg1aY4KrnZ0",
+    "album": "Abyss (from Kaiju No. 8)",
+    "artist": "YUNGBLUD",
+    "release_date": "2024-01-19",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27319eb8cff3ed753683309e485",
+    "url": "https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4Xkn1QDxrQQAp1IiK94PcV",
+    "album": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
+    "artist": "YUNGBLUD, Oli Sykes, Bring Me The Horizon",
+    "release_date": "2023-10-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27360e31ae64a3b888f190f3266",
+    "url": "https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1Ifo5BrgTcBaUtwWj1ynhD",
+    "album": "Hated",
+    "artist": "YUNGBLUD",
+    "release_date": "2023-08-24",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735d246bf6720decacc16f35e7",
+    "url": "https://open.spotify.com/album/1Ifo5BrgTcBaUtwWj1ynhD",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4MwosQ9tTm95DAaHdoNs5E",
+    "album": "Lowlife",
+    "artist": "YUNGBLUD",
+    "release_date": "2023-06-07",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273df5bd10ce6f6fc2723f892b4",
+    "url": "https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6iE0NZSLezMIvgv1nkRocJ",
+    "album": "Tissues (French Version)",
+    "artist": "YUNGBLUD, Louane",
+    "release_date": "2022-11-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730f559e65caf40ca5c4e3bbaf",
+    "url": "https://open.spotify.com/album/6iE0NZSLezMIvgv1nkRocJ",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "48QqIBzNdsmVimYeINIAxt",
+    "album": "The Emperor",
+    "artist": "YUNGBLUD",
+    "release_date": "2022-08-05",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e29f8c49573deac2df322c3e",
+    "url": "https://open.spotify.com/album/48QqIBzNdsmVimYeINIAxt",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2xI6WQRXM36V5B7PSzghFW",
+    "album": "Don't Feel Like Feeling Sad Today",
+    "artist": "YUNGBLUD",
+    "release_date": "2022-06-29",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731ea2056e3ef063a75c5a7d34",
+    "url": "https://open.spotify.com/album/2xI6WQRXM36V5B7PSzghFW",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0OJD74cS6Isaf2iAdkGSOd",
+    "album": "Memories (with WILLOW)",
+    "artist": "YUNGBLUD, WILLOW",
+    "release_date": "2022-05-06",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d98c46d5e68a420c185147bf",
+    "url": "https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "7pxmCQcwGsVa2IhPFRiRer",
+    "album": "The Funeral",
+    "artist": "YUNGBLUD",
+    "release_date": "2022-04-15",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fc30722dcd642334b776845e",
+    "url": "https://open.spotify.com/album/7pxmCQcwGsVa2IhPFRiRer",
+    "type": "single",
+    "total_tracks": 4
+  },
+  {
+    "id": "5TER2W8dPyfyUIO3FjheKf",
+    "album": "fleabag (acoustic)",
+    "artist": "YUNGBLUD",
+    "release_date": "2021-09-24",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273428f371fccb7c31bc061823f",
+    "url": "https://open.spotify.com/album/5TER2W8dPyfyUIO3FjheKf",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "12jpOfe3jj1UdY1oMi3b79",
+    "album": "fleabag",
+    "artist": "YUNGBLUD",
+    "release_date": "2021-08-19",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27337987c1e5d9fd568880409e4",
+    "url": "https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6kTnZzeB1WcyjYZDRS4Wci",
+    "album": "Spotify Singles",
+    "artist": "YUNGBLUD",
+    "release_date": "2021-06-30",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739db56bc44fb2c215e0b846f3",
+    "url": "https://open.spotify.com/album/6kTnZzeB1WcyjYZDRS4Wci",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "1NuMT4hng0MKJpQ0dXgtE8",
+    "album": "Life On Mars? (Live At A Bowie Celebration 2021)",
+    "artist": "YUNGBLUD",
+    "release_date": "2021-03-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f617e2aa536f0b65dd125c30",
+    "url": "https://open.spotify.com/album/1NuMT4hng0MKJpQ0dXgtE8",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5O7r99N4WQX4ty1vCERX7V",
+    "album": "parents (with Chloe Noone)",
+    "artist": "YUNGBLUD, Chloe Noone",
+    "release_date": "2021-03-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273bb357cdc927b41c18e54e2ac",
+    "url": "https://open.spotify.com/album/5O7r99N4WQX4ty1vCERX7V",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3khy4wVQKJu2jLOYMNpibF",
+    "album": "Patience (feat. YUNGBLUD & Polo G)",
+    "artist": "KSI, YUNGBLUD, Polo G",
+    "release_date": "2021-03-12",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733779d8bf2bd62a2bbd161cd9",
+    "url": "https://open.spotify.com/album/3khy4wVQKJu2jLOYMNpibF",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3RjX0PnYherdDTp2MWq0G1",
+    "album": "acting like that (feat. Machine Gun Kelly)",
+    "artist": "YUNGBLUD, mgk",
+    "release_date": "2020-12-02",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27369f2611845d06732e4e62703",
+    "url": "https://open.spotify.com/album/3RjX0PnYherdDTp2MWq0G1",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2bOoRPVRlY03xnNN7Xhv0J",
+    "album": "cotton candy (acoustic)",
+    "artist": "YUNGBLUD",
+    "release_date": "2020-11-06",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a4ef8cfbfa925776363e2e23",
+    "url": "https://open.spotify.com/album/2bOoRPVRlY03xnNN7Xhv0J",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5J7qci2JWfVtHdnhzCupbJ",
+    "album": "Obey (with YUNGBLUD)",
+    "artist": "Bring Me The Horizon, YUNGBLUD",
+    "release_date": "2020-09-02",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27372da128027e194d8585cf62a",
+    "url": "https://open.spotify.com/album/5J7qci2JWfVtHdnhzCupbJ",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "33BruH4PRrvmtQ7dsBDN0d",
+    "album": "Lemonade (with Denzel Curry)",
+    "artist": "YUNGBLUD, Denzel Curry",
+    "release_date": "2020-08-14",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733b6945c447cc6f96723a406b",
+    "url": "https://open.spotify.com/album/33BruH4PRrvmtQ7dsBDN0d",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4NNaed6gjXkteIvWO0bZ3k",
+    "album": "CITY OF ANGELS (feat. YUNGBLUD) [YUNGBLUD Remix]",
+    "artist": "24kGoldn, YUNGBLUD",
+    "release_date": "2020-04-21",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27338ed580f0f668faf452bbe67",
+    "url": "https://open.spotify.com/album/4NNaed6gjXkteIvWO0bZ3k",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1J1swtYtN54wo2rjLgbFMM",
+    "album": "Tongue Tied - Remix EP",
+    "artist": "Marshmello, YUNGBLUD, blackbear",
+    "release_date": "2020-01-15",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273612d40678dcb22e788220585",
+    "url": "https://open.spotify.com/album/1J1swtYtN54wo2rjLgbFMM",
+    "type": "single",
+    "total_tracks": 5
+  },
+  {
+    "id": "5kz8Zdv4SUXmuWdqOgTISl",
+    "album": "Tongue Tied (with YUNGBLUD & blackbear)",
+    "artist": "Marshmello, YUNGBLUD, blackbear",
+    "release_date": "2019-11-13",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c0ead231947f7a0b70cbd9a6",
+    "url": "https://open.spotify.com/album/5kz8Zdv4SUXmuWdqOgTISl",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0kGTcfwQC5nlsubgxUXdwP",
+    "album": "the underrated youth",
+    "artist": "YUNGBLUD",
+    "release_date": "2019-10-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734d9863d7cbed3e95b6e5b7d3",
+    "url": "https://open.spotify.com/album/0kGTcfwQC5nlsubgxUXdwP",
+    "type": "single",
+    "total_tracks": 6
+  },
+  {
+    "id": "6Qdnzl2AlEZDIeU3AaLnNM",
+    "album": "original me (feat. dan reynolds of imagine dragons)",
+    "artist": "YUNGBLUD, Dan Reynolds",
+    "release_date": "2019-10-09",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731cc2c1c72132a2e4def49a8d",
+    "url": "https://open.spotify.com/album/6Qdnzl2AlEZDIeU3AaLnNM",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "77iOq0ll6f92j1Z0O8mW1u",
+    "album": "11 Minutes (feat. Travis Barker) [Kayzo Remix]",
+    "artist": "YUNGBLUD, Kayzo",
+    "release_date": "2019-05-15",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e7bc1d345f6274afdc7acfc3",
+    "url": "https://open.spotify.com/album/77iOq0ll6f92j1Z0O8mW1u",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2nTssWtfewdKLsX1pZtmic",
+    "album": "Loner (Acoustic)",
+    "artist": "YUNGBLUD",
+    "release_date": "2019-04-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273eda964da340747732e02f9d9",
+    "url": "https://open.spotify.com/album/2nTssWtfewdKLsX1pZtmic",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "7jY0r3cjoRY6M3IqRb1m7H",
+    "album": "11 Minutes (with Halsey feat. Travis Barker)",
+    "artist": "YUNGBLUD, Halsey",
+    "release_date": "2019-02-14",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273200aac9c99ae5499bfd43500",
+    "url": "https://open.spotify.com/album/7jY0r3cjoRY6M3IqRb1m7H",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "00YBdFjhzULIC5bE3QJxAa",
+    "album": "Loner",
+    "artist": "YUNGBLUD",
+    "release_date": "2019-01-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731f8b0e2636ec0b6765914e73",
+    "url": "https://open.spotify.com/album/00YBdFjhzULIC5bE3QJxAa",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5hI3spgjZAqc9ZTPRCMedd",
+    "album": "YUNGBLUD (Unplugged)",
+    "artist": "YUNGBLUD",
+    "release_date": "2018-08-10",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273357c280b246e28cbb839930a",
+    "url": "https://open.spotify.com/album/5hI3spgjZAqc9ZTPRCMedd",
+    "type": "single",
+    "total_tracks": 7
+  },
+  {
+    "id": "7HNJT97QuNFvJLUpQXCIp3",
+    "album": "YUNGBLUD",
+    "artist": "YUNGBLUD",
+    "release_date": "2018-01-19",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736c8b758d724fbe2fa61fad8b",
+    "url": "https://open.spotify.com/album/7HNJT97QuNFvJLUpQXCIp3",
+    "type": "single",
+    "total_tracks": 5
+  },
+  {
+    "id": "2AgkMlAL7P4mxNmk2wfKNE",
+    "album": "Tickets To My Downfall (All Access)",
+    "artist": "mgk",
+    "release_date": "2025-10-24",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27305162baf45042497f7240f8c",
+    "url": "https://open.spotify.com/album/2AgkMlAL7P4mxNmk2wfKNE",
+    "type": "album",
+    "total_tracks": 27
+  },
+  {
+    "id": "30aIA1FrouOX9kHxP4dEr6",
+    "album": "lost americana",
+    "artist": "mgk",
+    "release_date": "2025-08-08",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e29f7c23e66422f7d29b304a",
+    "url": "https://open.spotify.com/album/30aIA1FrouOX9kHxP4dEr6",
+    "type": "album",
+    "total_tracks": 13
+  },
+  {
+    "id": "0qy27pEGeF1grFdsnK27w4",
+    "album": "Hotel Diablo: Floor 13 Edition",
+    "artist": "mgk",
+    "release_date": "2024-07-05",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273274ea0ebd7311a356a8dc4c5",
+    "url": "https://open.spotify.com/album/0qy27pEGeF1grFdsnK27w4",
+    "type": "album",
+    "total_tracks": 20
+  },
+  {
+    "id": "3xwZCEeoDIzrpRDBpgUb2X",
+    "album": "lofi chill vibes with machine gun kelly",
+    "artist": "lonelyboy, mgk",
+    "release_date": "2023-11-17",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d1134cd80aa715d8697b1116",
+    "url": "https://open.spotify.com/album/3xwZCEeoDIzrpRDBpgUb2X",
+    "type": "album",
+    "total_tracks": 17
+  },
+  {
+    "id": "5mj5NblnMMm5G3n1cugGH7",
+    "album": "mainstream sellout (life in pink deluxe)",
+    "artist": "mgk",
+    "release_date": "2022-06-24",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738f8c981944c3ae3e39039cd0",
+    "url": "https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7",
+    "type": "album",
+    "total_tracks": 22
+  },
+  {
+    "id": "3sKZHtQoq3tPtkXbT8PJAc",
+    "album": "mainstream sellout",
+    "artist": "mgk",
+    "release_date": "2022-03-25",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273da3769a95d849abbb4d73573",
+    "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc",
+    "type": "album",
+    "total_tracks": 16
+  },
+  {
+    "id": "13lMLnHs5qsmm687oRc3VC",
+    "album": "Tickets To My Downfall (SOLD OUT Deluxe)",
+    "artist": "mgk",
+    "release_date": "2020-09-29",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d2939e48fb657d72064ca699",
+    "url": "https://open.spotify.com/album/13lMLnHs5qsmm687oRc3VC",
+    "type": "album",
+    "total_tracks": 21
+  },
+  {
+    "id": "57lgFncHBYu5E3igZnuCJK",
+    "album": "Tickets To My Downfall",
+    "artist": "mgk",
+    "release_date": "2020-09-25",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d4d4929a3a86fe2f9fadbd42",
+    "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK",
+    "type": "album",
+    "total_tracks": 15
+  },
+  {
+    "id": "0bJIHF1Or1YBLFBMwv53K2",
+    "album": "Hotel Diablo",
+    "artist": "mgk",
+    "release_date": "2019-07-05",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273cfc4b1939aba562fc97159c5",
+    "url": "https://open.spotify.com/album/0bJIHF1Or1YBLFBMwv53K2",
+    "type": "album",
+    "total_tracks": 14
+  },
+  {
+    "id": "5YuscmEJSgkwWzBafTBKse",
+    "album": "BINGE",
+    "artist": "mgk",
+    "release_date": "2018-09-21",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ed882d7c9151009310f0613a",
+    "url": "https://open.spotify.com/album/5YuscmEJSgkwWzBafTBKse",
+    "type": "album",
+    "total_tracks": 9
+  },
+  {
+    "id": "6i34bwPf5FpNf0nh7sIXhv",
+    "album": "bloom (Deluxe)",
+    "artist": "mgk",
+    "release_date": "2017-05-12",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27385481706e2f485b9d5b7c719",
+    "url": "https://open.spotify.com/album/6i34bwPf5FpNf0nh7sIXhv",
+    "type": "album",
+    "total_tracks": 15
+  },
+  {
+    "id": "1HK1WLip5xwWQYixdF3Jsk",
+    "album": "General Admission (Deluxe)",
+    "artist": "mgk",
+    "release_date": "2015-10-16",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27325db200c7c4a44644043da9e",
+    "url": "https://open.spotify.com/album/1HK1WLip5xwWQYixdF3Jsk",
+    "type": "album",
+    "total_tracks": 16
+  },
+  {
+    "id": "5NzdnPboXcqvuvyEH1wSEJ",
+    "album": "Lace Up (Deluxe)",
+    "artist": "mgk",
+    "release_date": "2012-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a57d3a2736f815d3cf358e37",
+    "url": "https://open.spotify.com/album/5NzdnPboXcqvuvyEH1wSEJ",
+    "type": "album",
+    "total_tracks": 16
+  },
+  {
+    "id": "3A9kcRzKS8zQtbQ0JwksuS",
+    "album": "Lace Up",
+    "artist": "mgk",
+    "release_date": "2012-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273cfac68443715de902bd7ea53",
+    "url": "https://open.spotify.com/album/3A9kcRzKS8zQtbQ0JwksuS",
+    "type": "album",
+    "total_tracks": 13
+  },
+  {
+    "id": "22J6WrAyDz3ZsTqXiEGeqn",
+    "album": "cliché (Jonas Brothers remix)",
+    "artist": "mgk, Jonas Brothers",
+    "release_date": "2025-11-25",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737af9b5e02a6f99b39b3bf081",
+    "url": "https://open.spotify.com/album/22J6WrAyDz3ZsTqXiEGeqn",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "65NFxecxqhjUb18ggBJ473",
+    "album": "WHO I WAS",
+    "artist": "NF, mgk",
+    "release_date": "2025-11-13",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735ad486d25e6c8ac2aa226914",
+    "url": "https://open.spotify.com/album/65NFxecxqhjUb18ggBJ473",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4iTUHLF3qbWim3tBEuvcmQ",
+    "album": "cliché (sad version)",
+    "artist": "mgk",
+    "release_date": "2025-06-30",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273193a6f1a82f012b3d6c6b19b",
+    "url": "https://open.spotify.com/album/4iTUHLF3qbWim3tBEuvcmQ",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "3zPK1g3Cctift1J1G8EHBs",
+    "album": "iris",
+    "artist": "mgk, Julia Wolf",
+    "release_date": "2025-05-13",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27362722de2e3c30411d9201587",
+    "url": "https://open.spotify.com/album/3zPK1g3Cctift1J1G8EHBs",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2nXVO15dvChXGp1zVe9Xq1",
+    "album": "Come Pick Me Up",
+    "artist": "mgk",
+    "release_date": "2025-04-22",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731a99b82b0bc85ce722d86feb",
+    "url": "https://open.spotify.com/album/2nXVO15dvChXGp1zVe9Xq1",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4KNaPcFRyGMxyOQrOazeGm",
+    "album": "your name forever",
+    "artist": "mgk",
+    "release_date": "2025-03-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273db243860da1ee40117c0dba3",
+    "url": "https://open.spotify.com/album/4KNaPcFRyGMxyOQrOazeGm",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "7tSKwiJ1kF0oyMhnPlmeOv",
+    "album": "Time of Day",
+    "artist": "Jelly Roll, mgk",
+    "release_date": "2024-10-10",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273159dd391aec58e422de5af57",
+    "url": "https://open.spotify.com/album/7tSKwiJ1kF0oyMhnPlmeOv",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4tU0FNnuiBD1P6IRTARHww",
+    "album": "Lonely Road (with Jelly Roll)",
+    "artist": "mgk, Jelly Roll",
+    "release_date": "2024-07-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733bce14005c2001c8004208ff",
+    "url": "https://open.spotify.com/album/4tU0FNnuiBD1P6IRTARHww",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3mdDFYUab8j947TvSXLeMC",
+    "album": "There’s Your Trouble - Spotify Singles",
+    "artist": "mgk",
+    "release_date": "2024-07-24",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273115d4d418364185e0e07150f",
+    "url": "https://open.spotify.com/album/3mdDFYUab8j947TvSXLeMC",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5rWYslg1tfIO46bDK7xXPW",
+    "album": "sun to me",
+    "artist": "mgk",
+    "release_date": "2024-06-28",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738e4fb437b0bb882246cd5b28",
+    "url": "https://open.spotify.com/album/5rWYslg1tfIO46bDK7xXPW",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5cH3Lzm6kYM7sxkpDprzkd",
+    "album": "BMXXing",
+    "artist": "mgk",
+    "release_date": "2024-06-07",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273079dbc09e7a607dd06b003d9",
+    "url": "https://open.spotify.com/album/5cH3Lzm6kYM7sxkpDprzkd",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "1WkykSHhndyQJcYNwL7zxY",
+    "album": "genre : sadboy",
+    "artist": "mgk, Trippie Redd",
+    "release_date": "2024-03-29",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273145eb25fb67e59a653f21ee8",
+    "url": "https://open.spotify.com/album/1WkykSHhndyQJcYNwL7zxY",
+    "type": "single",
+    "total_tracks": 10
+  },
+  {
+    "id": "6mc6ssR6HIIFso7cI929EB",
+    "album": "lost boys",
+    "artist": "mgk, Trippie Redd",
+    "release_date": "2024-03-26",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b81df1ff802c171390a8a8d2",
+    "url": "https://open.spotify.com/album/6mc6ssR6HIIFso7cI929EB",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6VA6WgquH5zBIfIDz5IMKb",
+    "album": "dont let me go",
+    "artist": "mgk",
+    "release_date": "2024-02-21",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27394bc1f76fec045703aefc09b",
+    "url": "https://open.spotify.com/album/6VA6WgquH5zBIfIDz5IMKb",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5izaq6SEl5fqhKPVCcFqO7",
+    "album": "PRESSURE",
+    "artist": "mgk",
+    "release_date": "2023-05-30",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b07b05b67128c8f552e135e2",
+    "url": "https://open.spotify.com/album/5izaq6SEl5fqhKPVCcFqO7",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5g4O8fSfK5bfRiDRV0mYhd",
+    "album": "Taurus (feat. Naomi Wild) [From The Motion Picture Taurus]",
+    "artist": "mgk",
+    "release_date": "2022-11-23",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737c497fe3dc3a9370c50a54d0",
+    "url": "https://open.spotify.com/album/5g4O8fSfK5bfRiDRV0mYhd",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4muxcqXXIZKuxmrDJQnvNN",
+    "album": "more than life (feat. glaive)",
+    "artist": "mgk",
+    "release_date": "2022-06-10",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ea8348c735ee73cad31347a3",
+    "url": "https://open.spotify.com/album/4muxcqXXIZKuxmrDJQnvNN",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3ZoMxB1vHUCpuIMZ9G8Zr7",
+    "album": "gfy",
+    "artist": "blackbear, mgk",
+    "release_date": "2022-05-27",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27349b40c8abd3fe08bb01484a2",
+    "url": "https://open.spotify.com/album/3ZoMxB1vHUCpuIMZ9G8Zr7",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "38kBJGfjhkTGqBs5EqoaMN",
+    "album": "lockdown sessions",
+    "artist": "mgk",
+    "release_date": "2022-03-02",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739a19b95d39db4009fd258e57",
+    "url": "https://open.spotify.com/album/38kBJGfjhkTGqBs5EqoaMN",
+    "type": "single",
+    "total_tracks": 3
+  },
+  {
+    "id": "0cQnD4kklPT9tC4HookAVr",
+    "album": "thought it was",
+    "artist": "iann dior, Travis Barker, mgk",
+    "release_date": "2022-01-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27374421b3e3b8b9b92a7eeb073",
+    "url": "https://open.spotify.com/album/0cQnD4kklPT9tC4HookAVr",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0VRQaT37pbnZC6E7pkX0aQ",
+    "album": "papercuts",
+    "artist": "mgk",
+    "release_date": "2021-08-12",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a6afaa2b177a38c68451b0be",
+    "url": "https://open.spotify.com/album/0VRQaT37pbnZC6E7pkX0aQ",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "30E9B9ID76ZY8QXCzf9kts",
+    "album": "A Girl Like You (From \"Paradise City\" Soundtrack)",
+    "artist": "mgk, Travis Barker",
+    "release_date": "2021-06-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739f2840d561ac3c5498375794",
+    "url": "https://open.spotify.com/album/30E9B9ID76ZY8QXCzf9kts",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3q4wUTOTsRASPClG5Fg3tk",
+    "album": "love race (feat. Kellin Quinn)",
+    "artist": "mgk, Kellin Quinn",
+    "release_date": "2021-04-29",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731568ddeeb672c8229f342e26",
+    "url": "https://open.spotify.com/album/3q4wUTOTsRASPClG5Fg3tk",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2y8j3djW8ZswvAbEcPBBti",
+    "album": "DAYWALKER! (feat. CORPSE)",
+    "artist": "mgk, CORPSE",
+    "release_date": "2021-03-12",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d61bd7979bfead643d7100b8",
+    "url": "https://open.spotify.com/album/2y8j3djW8ZswvAbEcPBBti",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5VQ0KbndxMwNycjHtHSpNJ",
+    "album": "Climb",
+    "artist": "24kGoldn, mgk, Tommy Lee",
+    "release_date": "2020-11-13",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f16eed2269b29ea2ade99e1f",
+    "url": "https://open.spotify.com/album/5VQ0KbndxMwNycjHtHSpNJ",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "6b3coyUziyxHqt8h5UiSkU",
+    "album": "bloody valentine (Acoustic)",
+    "artist": "mgk, Travis Barker",
+    "release_date": "2020-06-05",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27342cee07020d1a09d51e36401",
+    "url": "https://open.spotify.com/album/6b3coyUziyxHqt8h5UiSkU",
+    "type": "single",
+    "total_tracks": 2
+  },
+  {
+    "id": "7pPDixGTktX4zYGN78uwqk",
+    "album": "Misery Business",
+    "artist": "mgk, Travis Barker",
+    "release_date": "2020-03-28",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733a19525c59cc5af267c66ba1",
+    "url": "https://open.spotify.com/album/7pPDixGTktX4zYGN78uwqk",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5C210ED7CpVepNGER7rSh1",
+    "album": "Bullets With Names (feat. Young Thug, RJMrLA & Lil Duke)",
+    "artist": "mgk",
+    "release_date": "2020-03-13",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27321811b3f9bdbf7dfc7f3af0a",
+    "url": "https://open.spotify.com/album/5C210ED7CpVepNGER7rSh1",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0Cdk8wZXVrYX2ZyCwjTEjs",
+    "album": "why are you here",
+    "artist": "mgk",
+    "release_date": "2019-12-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a70af97357ff1910173cc084",
+    "url": "https://open.spotify.com/album/0Cdk8wZXVrYX2ZyCwjTEjs",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "0rtePELjqCTgSws8Z1Eyj8",
+    "album": "Sorry Mama",
+    "artist": "phem, mgk",
+    "release_date": "2019-12-06",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b4b9a32537ca024bc13f2bf5",
+    "url": "https://open.spotify.com/album/0rtePELjqCTgSws8Z1Eyj8",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5OSYbbvt14377R8tEOCRUX",
+    "album": "RAP DEVIL",
+    "artist": "mgk",
+    "release_date": "2018-09-08",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27354771b59a43ca797df692d5d",
+    "url": "https://open.spotify.com/album/5OSYbbvt14377R8tEOCRUX",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "5LVekIY0JwPOJqiKZnO7QJ",
+    "album": "The Break Up",
+    "artist": "mgk",
+    "release_date": "2017-12-15",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b6b9729b3f285db7b918e07b",
+    "url": "https://open.spotify.com/album/5LVekIY0JwPOJqiKZnO7QJ",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "3U1X1wd3lX7EteWYhS2hpT",
+    "album": "Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha) [From Bright: The Album]",
+    "artist": "mgk, X Ambassadors, Bebe Rexha",
+    "release_date": "2017-11-18",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737a3fbbab0e9fb050a08fa065",
+    "url": "https://open.spotify.com/album/3U1X1wd3lX7EteWYhS2hpT",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "07QtPFLU9OskNe0Pqs9s8l",
+    "album": "Young Man",
+    "artist": "mgk",
+    "release_date": "2016-07-22",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739b772c8f12a6462107be4947",
+    "url": "https://open.spotify.com/album/07QtPFLU9OskNe0Pqs9s8l",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "7uch3RfgARSHblHeUjg2l8",
+    "album": "GoodTime (feat. Lorine Chia & Machine Gun Kelly)",
+    "artist": "E-V, mgk",
+    "release_date": "2014-01-16",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27377e86295b196be88e2a72e15",
+    "url": "https://open.spotify.com/album/7uch3RfgARSHblHeUjg2l8",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "2LbVI2Ho26FPKiF3Czn6Xa",
+    "album": "Wild Boy (Remix)",
+    "artist": "mgk",
+    "release_date": "2012-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736c121f9fd6c2dcd6709f38c6",
+    "url": "https://open.spotify.com/album/2LbVI2Ho26FPKiF3Czn6Xa",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "4edetjBCCksEeMkKcRbDrO",
+    "album": "Lace Up (The Prelude)",
+    "artist": "mgk",
+    "release_date": "2012-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b53f8b6a5a5e28663ac9c45b",
+    "url": "https://open.spotify.com/album/4edetjBCCksEeMkKcRbDrO",
+    "type": "single",
+    "total_tracks": 4
+  },
+  {
+    "id": "1Wq55jbVrMrh8QmWynSiuW",
+    "album": "Half Naked & Almost Famous - EP",
+    "artist": "mgk",
+    "release_date": "2012-01-01",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27339040eac4e4dff6e29548a6e",
+    "url": "https://open.spotify.com/album/1Wq55jbVrMrh8QmWynSiuW",
+    "type": "single",
+    "total_tracks": 5
+  },
+  {
+    "id": "6YwQMbqs3m6HKsX7O9qWaw",
+    "album": "Alice In Wonderland",
+    "artist": "mgk",
+    "release_date": "2010-08-11",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273003272dbf9208d9323cb50d0",
+    "url": "https://open.spotify.com/album/6YwQMbqs3m6HKsX7O9qWaw",
+    "type": "single",
+    "total_tracks": 1
   }
 ]
