@@ -1,7 +1,7 @@
 {
   "listenStatus": {
     "4g944V0fgMbrZYEDG9E0OG": "later",
-    "43k99CXeU2JUO21G1F4WCP": "listened",
+    "43k99CXeU2JUO21G1F4WCP": "later",
     "5V12ap591SmtretgcunhiO": "later",
     "5OWgHgHicpG1vVjeWYyQab": "later",
     "0VtyxuBnWiudcU8N1vIHQ7": "later",
@@ -14,7 +14,8 @@
   },
   "preReleaseStatus": {
     "4g944V0fgMbrZYEDG9E0OG": false,
-    "76KSGTIS8AaHn6er7gg3V8": false
+    "76KSGTIS8AaHn6er7gg3V8": false,
+    "43k99CXeU2JUO21G1F4WCP": true
   },
   "songs": [
     {
