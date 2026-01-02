@@ -7718,5 +7718,35 @@
     "url": "https://open.spotify.com/album/6YwQMbqs3m6HKsX7O9qWaw",
     "type": "single",
     "total_tracks": 1
+  },
+  {
+    "id": "4g944V0fgMbrZYEDG9E0OG",
+    "album": "LOVE YOU LESS",
+    "artist": "Joji",
+    "release_date": "2026-01-02",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735ffc9759ca93def8e09bb1f6",
+    "url": "https://open.spotify.com/album/4g944V0fgMbrZYEDG9E0OG",
+    "type": "single",
+    "total_tracks": 4
+  },
+  {
+    "id": "76KSGTIS8AaHn6er7gg3V8",
+    "album": "Zombie",
+    "artist": "YUNGBLUD, The Smashing Pumpkins",
+    "release_date": "2026-01-02",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27380e672452a392e5605191864",
+    "url": "https://open.spotify.com/album/76KSGTIS8AaHn6er7gg3V8",
+    "type": "single",
+    "total_tracks": 1
+  },
+  {
+    "id": "7ho5lLjKCYZuVACE9hAPmu",
+    "album": "times of my life",
+    "artist": "mgk",
+    "release_date": "2026-01-02",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27305204b6002d2dfc774339fdd",
+    "url": "https://open.spotify.com/album/7ho5lLjKCYZuVACE9hAPmu",
+    "type": "single",
+    "total_tracks": 1
   }
 ]
