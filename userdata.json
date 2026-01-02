@@ -2,7 +2,9 @@
   "listenStatus": {
     "4g944V0fgMbrZYEDG9E0OG": "later"
   },
-  "ignoredAlbums": {},
+  "ignoredAlbums": {
+    "4AXJv2lxOUj6eOyMRxJ2gA": true
+  },
   "preReleaseStatus": {},
   "songs": [],
   "playlists": []
