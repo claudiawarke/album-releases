@@ -12,7 +12,7 @@
   },
   "preReleaseStatus": {
     "4g944V0fgMbrZYEDG9E0OG": false,
-    "76KSGTIS8AaHn6er7gg3V8": true
+    "76KSGTIS8AaHn6er7gg3V8": false
   },
   "songs": [
     {
@@ -29,5 +29,11 @@
       "date_added": "2026-01-02T15:46:56.931Z"
     }
   ],
-  "playlists": []
+  "playlists": [
+    {
+      "name": "how to get away with murder",
+      "url": "https://open.spotify.com/playlist/4tKAJ1lDkTeyv8FjQU0mIK?si=71542e212ead4199",
+      "tags": []
+    }
+  ]
 }
