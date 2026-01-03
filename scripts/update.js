@@ -1,11 +1,15 @@
-// scripts/update.js
 const fs = require("fs");
-const { execSync } = require("child_process");
+const { createClient } = require("@supabase/supabase-js");
+
+// 1. Initialize Supabase
+const supabase = createClient(
+  process.env.SUPABASE_URL,
+  process.env.SUPABASE_SERVICE_ROLE_KEY
+);
 
 const BATCH_SIZE = 1000;         // artists per batch
 const BATCHES_PER_RUN = 5;       // batches per workflow run
 const ARTISTS_FILE = "artists.json";
-const ALBUMS_FILE = "albums.json";
 const META_FILE = "meta.json";
 
 // Load artists
@@ -56,49 +60,41 @@ async function fetchAlbumsForArtist(artistId, token) {
         ...data.items
           .filter(
             (a) =>
-              a.album_type !== "compilation" && // exclude compilations
-              a.artists.some((ar) => ar.id === artistId) // only main artist
+              a.album_type !== "compilation" && 
+              a.artists.some((ar) => ar.id === artistId)
           )
           .map((a) => ({
             id: a.id,
             album: a.name,
             artist: a.artists.map((ar) => ar.name).join(", "),
+            artist_id: artistId, // Added this to match your table
             release_date: a.release_date,
             cover: a.images[0]?.url || "",
             url: a.external_urls.spotify,
             type: a.album_type,
-            total_tracks: a.total_tracks,
+            total_tracks: a.total_tracks
+            // status and trashed_at default to 'active' and null in DB
           }))
       );
     }
-
     url = data.next;
   }
-
   return albums;
 }
 
-// Batch helper
 function getBatch(artists, batchIndex) {
   const start = batchIndex * BATCH_SIZE;
   const end = start + BATCH_SIZE;
   return artists.slice(start, end);
 }
 
-// Main runner
 async function run() {
-  if (!process.env.SPOTIFY_CLIENT_ID || !process.env.SPOTIFY_CLIENT_SECRET) {
-    console.error("Missing Spotify secrets");
+  if (!process.env.SPOTIFY_CLIENT_ID || !process.env.SPOTIFY_CLIENT_SECRET || !process.env.SUPABASE_URL || !process.env.SUPABASE_SERVICE_ROLE_KEY) {
+    console.error("Missing secrets");
     process.exit(1);
   }
 
   const token = await getSpotifyToken();
-
-  let allAlbums = [];
-  if (fs.existsSync(ALBUMS_FILE)) {
-    allAlbums = JSON.parse(fs.readFileSync(ALBUMS_FILE, "utf-8"));
-  }
-
   let totalArtistsProcessed = 0;
 
   for (let i = 0; i < BATCHES_PER_RUN; i++) {
@@ -111,56 +107,48 @@ async function run() {
       break;
     }
 
-    console.log(`Processing batch ${meta.last_batch_index + 1}, ${batch.length} artists`);
+    console.log(`Processing batch ${meta.last_batch_index + 1}`);
+    let albumsToUpload = [];
 
     for (const artist of batch) {
-      console.log("Fetching albums for:", artist.name);
       try {
         const albums = await fetchAlbumsForArtist(artist.id, token);
-        console.log(`Found ${albums.length} albums for ${artist.name}`);
-        allAlbums.push(...albums);
+        albumsToUpload.push(...albums);
       } catch (err) {
-        console.error("Error fetching artist:", artist.name, err);
+        console.error("Error fetching artist:", artist.name);
       }
+    }
+
+    // Upload to Supabase
+    if (albumsToUpload.length > 0) {
+      console.log(`Uploading ${albumsToUpload.length} albums to Supabase...`);
+      const { error } = await supabase
+        .from('albums')
+        .upsert(albumsToUpload, { onConflict: 'id', ignoreDuplicates: true });
+
+      if (error) console.error("Supabase Error:", error.message);
     }
 
     totalArtistsProcessed += batch.length;
     meta.last_batch_index += 1;
+    fs.writeFileSync(META_FILE, JSON.stringify(meta, null, 2));
   }
 
-  // Deduplicate albums
-  const uniqueAlbums = Array.from(new Map(allAlbums.map((a) => [a.id, a])).values());
-  fs.writeFileSync(ALBUMS_FILE, JSON.stringify(uniqueAlbums, null, 2));
-
-  // Update meta
   meta.last_run = new Date().toISOString().slice(0, 10);
   meta.artists_checked_this_run = totalArtistsProcessed;
   fs.writeFileSync(META_FILE, JSON.stringify(meta, null, 2));
 
-  console.log(`Run complete. Total albums: ${uniqueAlbums.length}`);
-  console.log(`Artists processed this run: ${totalArtistsProcessed}`);
-
-  // ---------- COMMIT & PUSH UPDATED FILES ----------
+  // Push meta changes
+  const { execSync } = require("child_process");
   try {
-    execSync("git config user.name 'github-actions'", { stdio: "inherit" });
-    execSync("git config user.email 'actions@github.com'", { stdio: "inherit" });
-  
-    const status = execSync("git status --porcelain").toString().trim();
-    if (status) {
-      execSync("git add albums.json meta.json", { stdio: "inherit" });
-      execSync(
-        `git commit -m "Update albums.json - ${new Date().toISOString().slice(0, 10)}"`,
-        { stdio: "inherit" }
-      );
-      execSync("git push --force", { stdio: "inherit" });  // ← force push
-      console.log("✅ albums.json and meta.json committed and pushed.");
-    } else {
-      console.log("No changes to commit or push.");
-    }
-  } catch (err) {
-    console.error("Git commit/push failed:", err.message);
+    execSync("git config user.name 'github-actions'");
+    execSync("git config user.email 'actions@github.com'");
+    execSync("git add meta.json");
+    execSync(`git commit -m "Update progress [skip ci]"`);
+    execSync("git push");
+  } catch (e) {
+    console.log("No meta changes to push");
   }
-
 }
 
 run();
