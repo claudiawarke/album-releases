@@ -31,7 +31,21 @@
     "2VjTqSwV1IY3a4kFdurCVv": true,
     "3IGM1sXYke2UGII2DORrof": false
   },
-  "songs": [],
+  "songs": [
+    {
+      "id": "4g944V0fgMbrZYEDG9E0OG-1767474226926",
+      "album_id": "4g944V0fgMbrZYEDG9E0OG",
+      "name": "test1",
+      "track_number": 1,
+      "tags": [
+        "english",
+        "korean"
+      ],
+      "in_playlist": true,
+      "playlist_name": "if i would have met you in five years",
+      "date_added": "2026-01-03T21:03:46.926Z"
+    }
+  ],
   "playlists": [
     {
       "name": "hate it but it's true, i'm fucking over you",
