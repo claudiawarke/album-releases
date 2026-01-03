@@ -1,0 +1,15 @@
+name: Auto Purge Trash
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every night at midnight
+  workflow_dispatch:
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete rows older than 7 days
+        run: |
+          curl -X DELETE "${{ secrets.SUPABASE_URL }}/rest/v1/albums?status=eq.trash&trashed_at=lt.$(date -d '7 days ago' +%Y-%m-%dT%H:%M:%SZ)" \
+          -H "apikey: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}" \
+          -H "Authorization: Bearer ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}"
