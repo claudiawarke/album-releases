@@ -112,15 +112,40 @@ async function run() {
     }
 
     if (albumsToUpload.length > 0) {
-      console.log(`Uploading ${albumsToUpload.length} albums to Supabase...`);
-      const { error } = await supabase
-        .from('albums')
-        .upsert(albumsToUpload, { onConflict: 'id', ignoreDuplicates: true });
+      console.log(`Checking for existing albums among ${albumsToUpload.length} candidates...`);
+      
+      // 1. Get unique IDs from Spotify results
+      const allIds = [...new Set(albumsToUpload.map(a => a.id))];
+      
+      // 2. Query Supabase to see which IDs already exist
+      const existingIds = new Set();
+      for (let j = 0; j < allIds.length; j += 500) {
+        const chunk = allIds.slice(j, j + 500);
+        const { data } = await supabase
+          .from('albums')
+          .select('id')
+          .in('id', chunk);
+        
+        if (data) {
+          data.forEach(row => existingIds.add(row.id));
+        }
+      }
 
-      if (error) {
-        console.error("Supabase Error:", error.message);
-        // If batch fails, we don't want to skip it, so we exit and try again next run
-        process.exit(1); 
+      // 3. Filter: Only keep albums that ARE NOT in our database yet
+      const trulyNewAlbums = albumsToUpload.filter(a => !existingIds.has(a.id));
+
+      if (trulyNewAlbums.length > 0) {
+        console.log(`Inserting ${trulyNewAlbums.length} NEW albums...`);
+        const { error } = await supabase
+          .from('albums')
+          .insert(trulyNewAlbums);
+
+        if (error) {
+          console.error("Supabase Error:", error.message);
+          process.exit(1); 
+        }
+      } else {
+        console.log("No new albums found. Trash and Listen status preserved.");
       }
     }
 
