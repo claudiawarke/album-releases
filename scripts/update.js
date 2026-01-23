@@ -112,12 +112,29 @@ async function run() {
     }
 
     if (albumsToUpload.length > 0) {
-      console.log(`Checking for existing albums among ${albumsToUpload.length} candidates...`);
+      // --- NEW: DEDUPLICATE BY TITLE/ARTIST (Handles Clean vs Explicit) ---
+      console.log(`Deduplicating ${albumsToUpload.length} albums by title...`);
+      const uniqueAlbumsByTitle = new Map();
       
-      // 1. Get unique IDs from Spotify results
-      const allIds = [...new Set(albumsToUpload.map(a => a.id))];
+      for (const a of albumsToUpload) {
+        // Create a unique key based on Artist + Album Name (e.g., "SZA-SOS")
+        // We lowercase it to ensure "SOS" and "sos" are treated as the same
+        const key = `${a.artist}-${a.album}`.toLowerCase();
+        
+        // If we haven't seen this Title + Artist combo yet, keep it.
+        // Spotify returns the 'primary' (usually Explicit) version first.
+        if (!uniqueAlbumsByTitle.has(key)) {
+          uniqueAlbumsByTitle.set(key, a);
+        }
+      }
       
-      // 2. Query Supabase to see which IDs already exist
+      const deduplicatedList = Array.from(uniqueAlbumsByTitle.values());
+      console.log(`Reduced to ${deduplicatedList.length} unique titles.`);
+
+      // --- PROCEED TO CHECK SUPABASE ---
+      console.log(`Checking for existing albums among candidates...`);
+      const allIds = [...new Set(deduplicatedList.map(a => a.id))];
+      
       const existingIds = new Set();
       for (let j = 0; j < allIds.length; j += 500) {
         const chunk = allIds.slice(j, j + 500);
@@ -131,8 +148,7 @@ async function run() {
         }
       }
 
-      // 3. Filter: Only keep albums that ARE NOT in our database yet
-      const trulyNewAlbums = albumsToUpload.filter(a => !existingIds.has(a.id));
+      const trulyNewAlbums = deduplicatedList.filter(a => !existingIds.has(a.id));
 
       if (trulyNewAlbums.length > 0) {
         console.log(`Inserting ${trulyNewAlbums.length} NEW albums...`);
