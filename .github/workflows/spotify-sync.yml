@@ -1,0 +1,28 @@
+name: Spotify Weekly Sync
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Every Sunday at midnight
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Use Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - name: Run Sync Script
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: node sync-songs.js
+      - name: Commit changes
+        run: |
+          git config --global user.name 'Spotify Sync Bot'
+          git config --global user.email 'bot@github.com'
+          git add songs.json
+          git commit -m "Weekly Spotify Sync" || exit 0
+          git push
